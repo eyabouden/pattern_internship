@@ -1,0 +1,49 @@
+client_id,client_name,tech_domain,industry,project_value,billable_hours,satisfaction,churned,first_project_date,last_project_date,account_manager,client_tier,contract_type
+b08f4e82,IoT Connect,IoT,IoT,19271086770.63,391520,7.3,False,2021-01-12,2025-02-16,Amanda Diaz,B,Time&Materials
+38d8a83f,SecureNet Systems,Cybersecurity,Cybersecurity,16194940891.89,208800,6.0,False,2021-01-03,2025-01-24,Tracy Bishop,B,Time&Materials
+62676452,Doyle Ltd Solutions,Digital Transformation,Digital Transformation,13345384045.8,224320,7.8,True,2021-01-19,2024-11-07,Rachel Young,A,Time&Materials
+42ffdf5e,Dudley Group Systems,IoT,IoT,16055202018.23,302720,7.2,False,2021-01-08,2025-04-12,Vincent Mueller,B,Time&Materials
+488fd3ec,Burton Ltd Solutions,Cybersecurity,Cybersecurity,14237770415.789999,320000,7.1,False,2021-01-16,2025-05-10,Cheyenne Gregory,C,Time&Materials
+cdac1b32,Smith-Bowen Systems,IoT,IoT,21098535252.09,305120,7.6,False,2021-02-26,2025-01-17,Jessica Hammond,A,Time&Materials
+ec6746d8,Perez Inc Solutions,AI/ML,AI/ML,25667199104.0,373120,6.3,False,2021-01-04,2024-12-02,Kathryn Barnes,B,Time&Materials
+c88b0cfc,Wilkerson-Day Systems,IoT,IoT,22322523602.36,526240,7.3,False,2021-01-30,2025-02-24,Curtis Jacobs,B,Fixed Price
+5db8eeb6,"Walter, Edwards and Rios Technologies",Cloud Migration,Data Analytics,5643373061.52,157440,7.3,False,2021-03-04,2024-11-17,Amy Castillo,B,Fixed Price
+b75b1093,"Ferrell, Rice and Maddox Systems",IoT,IoT,21409550634.27,399040,6.9,False,2021-03-11,2024-09-18,Timothy Dawson,B,Time&Materials
+713a2b5c,Rodriguez-Graham Systems,AI/ML,AI/ML,26928536118.42,351040,6.9,False,2021-01-01,2024-12-31,Belinda Miller,C,Fixed Price
+8052e528,"Ross, Robinson and Bright Solutions",ERP Implementation,ERP Implementation,19709800962.35,408800,7.6,False,2021-02-25,2025-01-13,Jerry Palmer,A,Fixed Price
+48f28225,"Guzman, Hoffman and Baldwin Technologies",IoT,IoT,20524551572.989998,271200,6.9,False,2021-01-07,2024-11-24,Anna Lozano,A,Fixed Price
+5342f3bb,"Mcclure, Ward and Lee Systems",Blockchain,Data Analytics,8936141182.48,334400,7.6,False,2021-04-14,2025-05-04,Stacey Arias,B,Time&Materials
+7950acc9,Arnold Ltd Solutions,Digital Transformation,Digital Transformation,24471569366.489998,418560,7.2,False,2021-01-19,2025-02-17,James Brooks,B,Fixed Price
+a83e595f,James Group Systems,ERP Implementation,ERP Implementation,12239238152.14,414560,6.9,True,2021-01-30,2024-10-13,Brad Walker,A,Time&Materials
+84402407,BlockChain Innovations,Blockchain,Blockchain,32394130409.489998,431840,5.7,False,2021-01-02,2025-02-26,Brett Espinoza,C,Time&Materials
+0ebe8775,Harrell LLC Solutions,ERP Implementation,ERP Implementation,19102780472.92,429280,6.7,True,2021-01-22,2024-06-06,Charles Johnson,B,Retainer
+557a0711,"Snyder, Campos and Callahan Technologies",Digital Transformation,Digital Transformation,28176458152.01,316640,7.5,False,2021-01-10,2025-02-28,Kaitlyn Guerra,B,Time&Materials
+5d027520,"Mcclain, Miller and Henderson Solutions",Data Analytics,Data Analytics,19705490357.75,244000,7.3,True,2021-08-30,2024-07-21,Julie Gilbert,C,Time&Materials
+d323dc98,"Henderson, Ramirez and Lewis Solutions",AI/ML,AI/ML,16896855070.27,347520,6.9,True,2021-03-05,2024-11-24,Alicia Lewis,B,Time&Materials
+1749a7ee,Galloway-Wyatt Technologies,IoT,IoT,13959989330.34,244000,6.6,False,2021-01-01,2024-04-10,Todd Lynch,C,Time&Materials
+461c8b63,Davis and Sons Technologies,Cloud Migration,Cloud Migration,10490614489.23,345920,7.5,False,2021-01-02,2025-01-04,Ricardo Young,B,Time&Materials
+9708ce58,"Adams, Zuniga and Wong Technologies",Blockchain,Blockchain,35015794468.75,436000,6.8,False,2021-01-16,2025-05-04,David Fowler,C,Time&Materials
+e90fa88a,"Reid, Ferguson and Sanchez Technologies",IoT,IoT,23732641922.74,354720,6.5,False,2021-01-14,2024-10-10,Amy Copeland,B,Time&Materials
+f2c19e03,Baker and Sons Systems,Blockchain,Blockchain,20771242862.78,264960,5.9,False,2021-01-27,2025-01-04,Mr. Mark Andrews DDS,C,Retainer
+85db3c75,Morales-Jones Technologies,Digital Transformation,Digital Transformation,12427834088.289999,230240,7.4,False,2021-05-20,2025-03-15,Aaron Gomez,B,Time&Materials
+f1af0560,CloudScape Technologies,Cloud Migration,Cloud Migration,6481012394.0,192480,7.6,False,2021-01-05,2025-03-18,Chelsea Barnett,B,Fixed Price
+54af896c,Frazier Inc Systems,Data Analytics,Data Analytics,32059831580.31,460000,7.0,False,2021-01-04,2024-11-30,Heather Ashley,B,Time&Materials
+873d3636,"Gardner, Robinson and Lawrence Technologies",Digital Transformation,AI/ML,10604574596.94,192000,6.7,False,2021-01-07,2024-05-24,Rachel Romero,B,Retainer
+d19ee07a,"Hoffman, Baker and Richards Systems",Cybersecurity,Cybersecurity,24586567656.170002,418080,6.5,False,2021-01-07,2025-01-20,Shane Williams,B,Retainer
+803175eb,ERP Masters,ERP Implementation,ERP Implementation,33036735340.8,567840,6.5,False,2021-01-29,2025-01-18,James Burgess,B,Time&Materials
+b04e84eb,"Dyer, Potter and Mack Solutions",AI/ML,AI/ML,26780719538.72,366720,6.9,False,2021-02-12,2025-01-26,Austin Allen,B,Time&Materials
+a11f4c48,Williams and Sons Technologies,Cloud Migration,Cloud Migration,15271894793.18,225120,6.4,False,2021-03-26,2024-04-22,Ashley Perkins,A,Fixed Price
+8cf4adde,TechNovate Solutions,Digital Transformation,Digital Transformation,28212684315.42,480320,6.2,True,2021-02-01,2024-11-21,Brandi Bell,A,Fixed Price
+8bf5194a,"Baker, Mason and White Solutions",Cloud Migration,Cloud Migration,16873508365.07,316640,6.1,False,2021-05-17,2025-06-06,Marvin Greer,C,Fixed Price
+5a8be1f6,DataMind Analytics,Data Analytics,Data Analytics,15034980250.689999,326080,7.2,False,2021-01-29,2025-02-11,Veronica Mendoza,B,Time&Materials
+7787fe3b,Blake and Sons Solutions,Data Analytics,Data Analytics,14791196144.02,289920,6.9,False,2021-01-24,2024-10-28,Chad Baldwin,B,Time&Materials
+f4742eca,Carlson-Cruz Labs,Cybersecurity,Cybersecurity,18112326715.72,259680,7.2,False,2021-03-05,2024-11-22,Amanda Harris,B,Time&Materials
+16d07b13,"Rodriguez, Figueroa and Sanchez Technologies",Cloud Migration,Cloud Migration,6873773107.71,272480,7.8,False,2021-01-09,2025-03-14,Stacey Stewart,A,Time&Materials
+135aed1a,Blair PLC Solutions,AI/ML,AI/ML,13484085812.62,297600,7.3,False,2021-01-03,2025-01-21,James Ochoa,A,Time&Materials
+b7bf2c11,"Flowers, Martin and Kelly Technologies",Digital Transformation,Digital Transformation,37502753143.1,336160,7.1,False,2021-01-29,2025-01-31,Andrew Lucas,C,Fixed Price
+9f61512e,Garcia-James Solutions,IoT,IoT,17182122435.33,267680,7.6,False,2021-01-11,2025-02-18,Scott Williams,B,Fixed Price
+df097735,AI Nexus,AI/ML,AI/ML,15072787780.1,274720,6.7,False,2021-01-03,2024-10-01,Denise Lloyd,C,Fixed Price
+d5861e8b,Abbott-Munoz Systems,Blockchain,Blockchain,23969152852.0,318560,7.2,False,2021-04-28,2025-03-12,James Gonzales,C,Time&Materials
+38d96839,Gray-Mayo Systems,Digital Transformation,Digital Transformation,12270910286.6,249440,7.7,False,2021-02-13,2024-12-16,Gina Lopez,C,Fixed Price
+fa664761,"Romero, Gonzalez and Brooks Labs",Blockchain,Blockchain,9684685152.98,246240,6.8,False,2021-01-12,2024-09-07,Holly Salinas,C,Fixed Price
+1d6527f7,"Watts, Robinson and Nguyen Technologies",Data Analytics,Data Analytics,21783225249.91,344960,6.2,False,2021-01-13,2025-02-10,Bradley Coleman,B,Time&Materials

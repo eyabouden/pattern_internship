@@ -1,0 +1,401 @@
+employee_id,name,role,tech_domain,age,join_date,billable_hours,performance_score,hourly_rate,left_company,certifications
+E2021000,Troy Nielsen,ERP Consultant,ERP Implementation,38,2019-10-12,1862,7,110.32,False,3
+E2021001,Linda Burns,IoT Architect,IoT,47,2015-04-12,1739,8,92.96,False,1
+E2021002,Jack Galloway,Digital Transformation Manager,Digital Transformation,65,2023-10-24,1350,6,155.2,False,4
+E2021003,Cynthia Allen,Cloud Migration Manager,Cloud Migration,31,2018-09-29,1479,7,228.63,False,6
+E2021004,Angela Dennis,Digital Strategist,Digital Transformation,43,2023-06-09,1697,6,80.07,False,2
+E2021005,Vanessa Patel,Senior ML Engineer,AI/ML,43,2019-07-20,1800,7,125.86,False,1
+E2021006,Matthew Arroyo,Blockchain Developer,Blockchain,65,2017-07-18,1803,6,78.24,False,1
+E2021007,Joseph Obrien,Blockchain Developer,Blockchain,38,2018-10-27,1969,8,86.51,False,2
+E2021008,Tanya Campos,BI Specialist,Data Analytics,51,2020-01-18,1707,8,107.84,False,0
+E2021009,Michelle Ross,ERP Consultant,ERP Implementation,32,2020-08-09,1756,5,95.97,False,2
+E2021010,Jacqueline Lam,Senior ERP Consultant,ERP Implementation,38,2021-01-11,1790,8,120.49,False,1
+E2021011,David Brown,AI/ML Lead,AI/ML,32,2019-04-11,1490,9,237.78,False,7
+E2021012,Julian Chapman,Senior DevOps Engineer,Cloud Migration,58,2021-05-21,1455,7,187.96,False,5
+E2021013,Michael Brown,Cloud Migration Manager,Cloud Migration,34,2015-04-20,1216,9,237.06,False,2
+E2021014,Andre Rivera,Senior IoT Architect,IoT,42,2015-10-14,1737,8,123.88,False,6
+E2021015,Diana Washington,Senior ML Engineer,AI/ML,34,2016-03-29,1600,6,145.12,False,7
+E2021016,Miranda Khan,Senior Blockchain Developer,Blockchain,28,2018-06-22,1466,6,198.5,False,8
+E2021017,Dana Kennedy,Pentester,Cybersecurity,62,2020-08-20,1900,6,108.6,False,3
+E2021018,Brandon Hopkins,Partner,Digital Transformation,36,2015-09-20,873,9,305.43,False,1
+E2021019,Jason Shields,Junior ERP Consultant,ERP Implementation,60,2023-04-08,2036,4,41.96,False,3
+E2021020,Matthew Lucas,Senior ERP Consultant,ERP Implementation,43,2017-01-05,1612,6,146.39,False,7
+E2021021,Nicholas Mcbride,Junior Blockchain Developer,Blockchain,48,2019-05-31,2157,4,67.28,False,0
+E2021022,Corey Herrera,Senior BI Specialist,Data Analytics,34,2022-10-30,1741,6,153.87,False,4
+E2021023,Clifford Ford,Junior Blockchain Developer,Blockchain,50,2023-06-22,1988,4,54.93,False,2
+E2021024,Angela Morton,IoT Manager,IoT,52,2020-03-08,1459,6,160.55,True,8
+E2021025,Annette Pearson,IoT Architect,IoT,45,2015-02-13,1803,5,102.84,False,1
+E2021026,Alexis Davis,ERP Consultant,ERP Implementation,53,2023-01-01,1642,6,111.11,False,1
+E2021027,Cynthia Russell,Blockchain Developer,Blockchain,41,2016-12-26,1609,5,89.02,False,3
+E2021028,Dr. Steven Martin,Security Architect,Cybersecurity,28,2016-09-20,1946,7,108.78,False,1
+E2021029,James House,Junior Data Engineer,Data Analytics,26,2022-02-13,2026,4,68.93,False,0
+E2021030,Dominique Horton,Senior IoT Architect,IoT,43,2023-08-09,1424,7,120.38,False,4
+E2021031,Rachel Stanley,Senior ERP Consultant,ERP Implementation,39,2015-03-01,1615,6,152.33,False,4
+E2021032,Mr. Daniel Brown,Junior Cloud Architect,Cloud Migration,38,2023-02-13,2140,5,48.61,False,3
+E2021033,Amy Edwards,Senior Cloud Architect,Cloud Migration,44,2021-01-27,1719,6,179.29,False,7
+E2021034,John Calhoun,Senior DevOps Engineer,Cloud Migration,38,2015-03-03,1565,6,157.76,False,6
+E2021035,Amy Romero,Senior AI Architect,AI/ML,48,2018-02-14,1433,8,163.46,False,6
+E2021036,Andrea Jones,Junior ML Engineer,AI/ML,28,2016-02-22,1954,7,63.94,False,1
+E2021037,Jennifer David,Digital Strategist,Digital Transformation,30,2018-09-22,1947,6,89.8,False,2
+E2021038,Lauren Williams,Senior Blockchain Developer,Blockchain,28,2022-03-08,1595,8,191.51,False,1
+E2021039,Matthew Cunningham,Data Engineer,Data Analytics,25,2023-04-11,1758,6,96.65,False,1
+E2021040,Dean Santiago,Cloud Migration Lead,Cloud Migration,27,2016-09-13,1351,7,165.8,False,1
+E2021041,Derek Anderson,Junior BI Specialist,Data Analytics,62,2016-07-03,2178,6,60.88,False,0
+E2021042,Joyce Hickman,IoT Architect,IoT,65,2018-11-04,1717,7,109.66,False,0
+E2021043,Alexandra Howell,BI Specialist,Data Analytics,38,2017-01-21,1866,7,85.84,False,0
+E2021044,Ariel Medina,Cloud Migration Director,Cloud Migration,55,2022-02-11,1098,7,328.58,False,4
+E2021045,Brandi Bailey,Senior Security Architect,Cybersecurity,29,2015-11-17,1520,8,190.61,False,8
+E2021046,David Mitchell,Digital Strategist,Digital Transformation,34,2021-10-17,1817,6,83.85,False,2
+E2021047,Joshua Turner,Senior Blockchain Developer,Blockchain,64,2019-06-20,1440,7,198.35,False,8
+E2021048,Dr. Kendra Contreras,Blockchain Developer,Blockchain,51,2023-11-25,1989,6,77.04,False,3
+E2021049,Tara Garcia,IoT Architect,IoT,29,2021-03-14,1904,6,80.1,False,2
+E2021050,Deborah Preston,Senior IoT Architect,IoT,53,2021-10-18,1592,8,118.42,False,6
+E2021051,Brittney Campbell,Senior Security Architect,Cybersecurity,54,2020-08-12,1402,6,189.4,False,6
+E2021052,Grant Watts,Junior Blockchain Developer,Blockchain,49,2019-04-23,2180,6,59.63,False,0
+E2021053,Kathy King,Junior IoT Architect,IoT,26,2017-03-06,1997,5,44.56,False,2
+E2021054,Amber Walters,ERP Consultant,ERP Implementation,56,2022-04-20,1956,5,92.02,False,3
+E2021055,Amanda Cook,BI Specialist,Data Analytics,39,2022-10-27,1923,5,100.76,False,1
+E2021056,William Martin,Senior Digital Strategist,Digital Transformation,62,2021-10-02,1530,6,108.35,False,3
+E2021057,Michael Hoffman,Data Scientist,AI/ML,31,2019-06-17,1964,8,114.12,False,0
+E2021058,Tony Vazquez,Data Analytics Lead,Data Analytics,51,2020-08-12,1329,8,230.36,False,7
+E2021059,Andrew Wood,Digital Strategist,Digital Transformation,50,2016-08-07,1655,7,95.26,False,1
+E2021060,Jessica Williams,Partner,IoT,43,2015-01-07,886,9,493.43,False,3
+E2021061,Timothy Stanton,Senior IoT Architect,IoT,65,2019-03-15,1487,6,141.78,False,3
+E2021062,Hunter Fleming,Senior Data Engineer,Data Analytics,55,2017-05-20,1630,8,198.41,False,1
+E2021063,Heather Castro,Senior Pentester,Cybersecurity,36,2022-01-01,1625,8,166.79,False,3
+E2021064,Valerie Brady,Cloud Migration Manager,Cloud Migration,42,2018-11-02,1341,6,213.47,True,4
+E2021065,Cynthia Martin,Blockchain Developer,Blockchain,55,2017-12-25,1604,5,78.3,False,0
+E2021066,Cassandra Gutierrez,Senior AI Architect,AI/ML,30,2020-10-31,1592,8,188.19,False,5
+E2021067,Tim Patton,Blockchain Developer,Blockchain,54,2022-08-24,1772,7,91.37,False,2
+E2021068,Michael Moss,BI Specialist,Data Analytics,47,2018-12-29,1912,5,78.11,False,0
+E2021069,Christopher Haynes,Junior ML Engineer,AI/ML,53,2015-04-16,2171,5,40.38,False,2
+E2021070,Andrew Ruiz,Senior BI Specialist,Data Analytics,47,2022-05-28,1663,7,155.98,False,6
+E2021071,Thomas Bailey,Senior AI Architect,AI/ML,64,2022-08-08,1776,7,152.74,False,8
+E2021072,Shelby Walker,IoT Architect,IoT,63,2022-05-20,1819,8,105.97,False,0
+E2021073,Jennifer Ramirez,IoT Architect,IoT,42,2016-06-07,1866,5,114.51,False,0
+E2021074,Raymond Bell,Junior Digital Strategist,Digital Transformation,59,2016-04-18,1886,7,42.38,False,1
+E2021075,Meghan Anthony,Senior Data Engineer,Data Analytics,37,2023-01-10,1454,7,173.15,True,6
+E2021076,Alexander Wiley,Senior IoT Architect,IoT,41,2022-07-09,1740,7,118.74,False,3
+E2021077,Kevin Terrell,Blockchain Developer,Blockchain,29,2022-03-22,1714,5,112.91,False,3
+E2021078,Kyle Reed,Senior IoT Architect,IoT,38,2016-04-01,1548,6,181.91,False,4
+E2021079,Jessica Joyce,Senior DevOps Engineer,Cloud Migration,60,2023-04-07,1594,8,154.08,True,1
+E2021080,Steven Lee,Junior BI Specialist,Data Analytics,48,2023-12-11,2194,6,61.31,False,1
+E2021081,Jeffrey Meyer,Senior BI Specialist,Data Analytics,30,2018-04-30,1561,6,131.44,False,8
+E2021082,Melissa Bentley,Blockchain Developer,Blockchain,33,2021-09-19,1982,5,93.56,False,0
+E2021083,Christina Reynolds,Digital Strategist,Digital Transformation,60,2022-11-24,1853,7,111.08,False,0
+E2021084,Tammie Hanson,ERP Consultant,ERP Implementation,33,2022-11-08,1975,6,92.96,False,1
+E2021085,Belinda Mccullough,Senior Blockchain Developer,Blockchain,49,2019-05-26,1411,8,135.78,False,8
+E2021086,Mary Nguyen,Senior ERP Consultant,ERP Implementation,49,2017-03-10,1544,8,149.42,False,7
+E2021087,Kristen Lee,Senior Cloud Architect,Cloud Migration,32,2020-02-18,1763,7,182.82,False,3
+E2021088,Jamie Adkins,Senior Blockchain Developer,Blockchain,54,2023-05-24,1507,6,133.52,False,1
+E2021089,Keith Sullivan,ERP Implementation Manager,ERP Implementation,60,2022-08-15,1392,9,167.38,False,1
+E2021090,Elizabeth Clark,Junior Cloud Architect,Cloud Migration,46,2020-10-12,1826,4,61.36,False,3
+E2021091,Lisa Morris,Security Architect,Cybersecurity,64,2017-09-13,1617,5,111.3,False,2
+E2021092,Michael Dixon,Security Architect,Cybersecurity,65,2022-04-17,1998,8,75.03,False,3
+E2021093,Toni Fitzgerald,ERP Implementation Manager,ERP Implementation,24,2022-03-12,1262,9,173.99,False,4
+E2021094,Diane Beck,Data Scientist,AI/ML,61,2022-10-12,1845,7,77.1,False,1
+E2021095,Anna Crane,Junior IoT Architect,IoT,54,2016-02-12,1952,5,50.44,False,1
+E2021096,Eric Drake,Senior IoT Architect,IoT,25,2021-07-23,1432,8,145.04,False,2
+E2021097,Angel Riggs,Senior Data Engineer,Data Analytics,31,2020-01-06,1402,8,174.88,False,2
+E2021098,Patricia Gibson,Data Scientist,AI/ML,32,2021-04-22,1682,5,102.56,False,0
+E2021099,Laura Higgins,DevOps Engineer,Cloud Migration,31,2019-09-29,1878,6,101.05,False,0
+E2021100,James Hernandez,Data Analytics Director,Data Analytics,43,2022-05-23,1265,8,252.86,False,3
+E2021101,Stephanie Dalton,Blockchain Developer,Blockchain,44,2022-09-18,1910,6,112.07,False,0
+E2021102,Paula Robinson,Senior BI Specialist,Data Analytics,26,2021-10-02,1510,6,147.13,False,6
+E2021103,Melissa Marshall,Digital Strategist,Digital Transformation,32,2017-12-03,1638,7,118.96,False,1
+E2021104,Sylvia Martinez,IoT Lead,IoT,53,2022-10-15,1546,9,213.41,False,4
+E2021105,John Schmidt,Cloud Architect,Cloud Migration,64,2021-04-27,1965,7,76.31,False,1
+E2021106,Emily Fischer,Senior IoT Architect,IoT,33,2021-10-08,1594,6,167.62,False,5
+E2021107,Robert Mcclain,Cloud Migration Lead,Cloud Migration,58,2022-03-07,1233,8,182.51,False,6
+E2021108,Terry Griffin,Digital Strategist,Digital Transformation,33,2016-02-06,1740,5,104.32,False,1
+E2021109,Scott Cole,IoT Architect,IoT,30,2021-08-08,1689,7,73.48,False,3
+E2021110,Sara Ramirez,Senior DevOps Engineer,Cloud Migration,57,2021-10-24,1682,7,117.49,False,1
+E2021111,Kari Allen,Junior Pentester,Cybersecurity,44,2023-04-25,1892,6,65.67,False,3
+E2021112,Micheal Young,Blockchain Manager,Blockchain,61,2022-05-17,1551,7,172.72,False,7
+E2021113,Steven Miller,Junior Digital Strategist,Digital Transformation,27,2022-08-09,2162,5,65.11,False,3
+E2021114,James Hernandez,Junior Pentester,Cybersecurity,52,2018-02-03,2057,6,48.38,False,1
+E2021115,Jason Rivera,Digital Strategist,Digital Transformation,64,2016-01-05,1808,7,102.14,False,0
+E2021116,Antonio Wall,Data Analytics Manager,Data Analytics,29,2021-03-19,1243,8,219.42,False,1
+E2021117,Randy Shah,Junior IoT Architect,IoT,56,2020-10-10,2045,7,55.38,False,0
+E2021118,Spencer Johnston,IoT Architect,IoT,24,2022-11-17,1965,8,85.27,False,2
+E2021119,Tommy Evans,Data Engineer,Data Analytics,57,2016-11-21,1910,8,80.63,False,1
+E2021120,Steven Houston,Senior Security Architect,Cybersecurity,28,2015-07-28,1663,7,103.32,False,7
+E2021121,Morgan Marsh,Junior Pentester,Cybersecurity,47,2021-01-17,2147,5,49.12,False,0
+E2021122,Katherine Nelson,Digital Strategist,Digital Transformation,43,2023-04-11,1709,5,102.66,False,3
+E2021123,Mr. Michael Yates,Junior Data Engineer,Data Analytics,43,2015-08-24,2037,7,68.15,False,3
+E2021124,Sara Calhoun,Senior ERP Consultant,ERP Implementation,43,2017-02-01,1579,8,187.12,False,1
+E2021125,Ms. Susan Vargas,Cloud Architect,Cloud Migration,51,2019-08-10,1870,6,108.3,False,3
+E2021126,Angela Patterson,ML Engineer,AI/ML,33,2019-06-08,1715,8,109.42,False,2
+E2021127,Catherine Green,IoT Architect,IoT,35,2022-05-12,1655,8,103.25,False,1
+E2021128,Jesse Rogers,Security Architect,Cybersecurity,46,2016-03-29,1783,6,83.01,False,0
+E2021129,Diana Bean,Senior Pentester,Cybersecurity,49,2022-06-21,1416,6,190.72,False,8
+E2021130,Ruben Ruiz,Senior Digital Strategist,Digital Transformation,31,2016-06-05,1749,8,167.07,False,7
+E2021131,Amy Crane,IoT Manager,IoT,32,2016-09-29,1210,7,206.04,False,1
+E2021132,Barry Bernard,BI Specialist,Data Analytics,27,2019-11-15,1819,5,75.55,False,2
+E2021133,Andre Wright,Blockchain Developer,Blockchain,29,2023-03-07,1916,6,92.35,False,1
+E2021134,Lisa Allen,Digital Strategist,Digital Transformation,31,2017-03-23,1941,8,93.02,False,0
+E2021135,Brian Gould,Junior Security Architect,Cybersecurity,36,2016-06-25,1917,4,65.94,False,2
+E2021136,David Wood,Senior Data Engineer,Data Analytics,33,2019-04-07,1446,6,154.66,False,5
+E2021137,Tracey Higgins,Senior BI Specialist,Data Analytics,38,2019-10-16,1431,8,138.04,False,5
+E2021138,Carla Collins,Senior DevOps Engineer,Cloud Migration,41,2017-10-08,1764,7,197.68,False,1
+E2021139,Tanya Johnston,Partner,Cybersecurity,26,2018-08-10,1138,10,322.14,False,3
+E2021140,Jaime David,Digital Transformation Manager,Digital Transformation,62,2019-01-29,1329,9,192.25,False,2
+E2021141,Kevin Rivas,Cloud Architect,Cloud Migration,24,2023-04-25,1769,7,72.1,False,2
+E2021142,Michael Turner,Senior BI Specialist,Data Analytics,65,2016-06-18,1444,6,173.99,False,2
+E2021143,Renee Hogan,Junior Data Scientist,AI/ML,61,2022-11-26,1897,5,67.54,False,0
+E2021144,Amanda Patel,DevOps Engineer,Cloud Migration,58,2023-07-15,1971,8,84.0,False,1
+E2021145,Andrea Holland,Senior Data Scientist,AI/ML,32,2023-07-08,1764,7,185.83,False,6
+E2021146,Jason Henry,ERP Consultant,ERP Implementation,52,2020-05-31,1823,5,84.61,False,0
+E2021147,Jack Snow,Senior Security Architect,Cybersecurity,62,2021-05-08,1548,6,191.08,True,4
+E2021148,Christian Thompson,IoT Architect,IoT,55,2023-06-02,1684,8,107.7,False,3
+E2021149,Marie Gilbert,Senior IoT Architect,IoT,62,2021-05-31,1401,6,180.49,False,1
+E2021150,Patricia Marshall,Blockchain Developer,Blockchain,56,2018-04-28,1755,6,70.9,False,0
+E2021151,Leslie Morris,Cybersecurity Director,Cybersecurity,38,2015-06-10,1121,8,344.42,False,5
+E2021152,Timothy Ramirez,Junior Security Architect,Cybersecurity,41,2017-05-10,2128,5,61.8,False,0
+E2021153,Paul Hudson,ERP Consultant,ERP Implementation,64,2022-11-29,1766,5,85.24,False,2
+E2021154,Gabrielle Snyder,Junior Pentester,Cybersecurity,50,2022-01-07,1966,4,64.88,False,2
+E2021155,John Kelly,Senior Data Engineer,Data Analytics,41,2023-09-23,1675,8,128.15,False,2
+E2021156,Douglas Carlson,Senior IoT Architect,IoT,65,2018-08-21,1626,6,187.28,False,7
+E2021157,Kristi Black,Senior Pentester,Cybersecurity,52,2020-05-16,1588,6,111.26,False,3
+E2021158,David Russell,Blockchain Developer,Blockchain,35,2023-03-07,1696,8,105.18,False,2
+E2021159,Cynthia Alvarez,AI/ML Manager,AI/ML,43,2015-10-12,1401,7,204.07,False,7
+E2021160,Joan Smith,Junior BI Specialist,Data Analytics,53,2023-02-24,1851,5,42.9,False,0
+E2021161,Jared Sanchez,Senior Cloud Architect,Cloud Migration,48,2015-06-29,1406,8,124.19,False,2
+E2021162,Jackie Tran,Junior Digital Strategist,Digital Transformation,33,2021-01-30,1804,4,40.37,False,2
+E2021163,Zachary Pierce,Cloud Migration Lead,Cloud Migration,36,2018-09-20,1283,8,196.88,False,4
+E2021164,Jesse Parker,Data Scientist,AI/ML,58,2015-03-28,1878,5,85.06,False,0
+E2021165,Nathan Stewart,Digital Strategist,Digital Transformation,30,2017-07-07,1672,5,99.92,True,3
+E2021166,Tiffany Vaughn,Senior IoT Architect,IoT,33,2019-04-25,1515,8,129.72,False,2
+E2021167,Parker Hill,Junior Blockchain Developer,Blockchain,34,2019-01-03,1852,6,49.0,True,2
+E2021168,Paige Carlson,Junior Cloud Architect,Cloud Migration,47,2016-12-30,1822,5,62.3,False,2
+E2021169,Dr. Elizabeth Ward,Cybersecurity Lead,Cybersecurity,51,2018-11-27,1519,8,154.81,False,5
+E2021170,Michael Martinez,Junior Blockchain Developer,Blockchain,47,2023-09-21,1801,5,67.09,False,2
+E2021171,Anthony Carter,Senior Pentester,Cybersecurity,48,2021-06-24,1434,6,185.23,False,5
+E2021172,Margaret Mullins,Senior Security Architect,Cybersecurity,29,2018-12-15,1493,7,166.78,False,7
+E2021173,Adam Mitchell,Blockchain Developer,Blockchain,50,2019-04-19,1670,6,99.66,False,3
+E2021174,Glen Sheppard,Blockchain Developer,Blockchain,58,2021-07-07,1796,5,114.62,False,1
+E2021175,Scott Wilson,Senior Cloud Architect,Cloud Migration,39,2021-04-06,1408,7,118.53,False,3
+E2021176,John Ray,Junior DevOps Engineer,Cloud Migration,27,2018-04-22,2198,5,42.37,False,3
+E2021177,Brittany Shepherd,Data Engineer,Data Analytics,37,2016-04-25,1982,6,81.98,False,1
+E2021178,Angela Wright,IoT Architect,IoT,25,2022-11-12,1790,5,109.73,False,0
+E2021179,Jennifer Carlson,Junior Blockchain Developer,Blockchain,62,2016-08-01,1875,6,41.04,True,0
+E2021180,Patricia James,ML Engineer,AI/ML,60,2020-04-08,1676,6,99.14,False,2
+E2021181,Elizabeth Chapman,Blockchain Developer,Blockchain,50,2018-03-20,2000,5,119.77,False,0
+E2021182,Keith Brown,Data Scientist,AI/ML,62,2019-06-12,1682,5,112.78,False,3
+E2021183,Annette Farmer,Digital Strategist,Digital Transformation,60,2018-01-18,1816,6,96.07,False,3
+E2021184,Deborah Miller,Senior Security Architect,Cybersecurity,37,2017-01-22,1512,7,106.36,False,2
+E2021185,Juan Moore,Senior Blockchain Developer,Blockchain,54,2015-08-12,1594,6,183.14,False,7
+E2021186,Michael Harrison,Data Analytics Manager,Data Analytics,41,2015-04-25,1385,8,209.9,False,3
+E2021187,Dwayne Campbell,Senior Cloud Architect,Cloud Migration,28,2017-02-07,1787,7,111.49,False,1
+E2021188,Andrea Hall,Data Analytics Manager,Data Analytics,41,2015-07-07,1488,9,159.39,True,2
+E2021189,Rick Lawrence,Junior Digital Strategist,Digital Transformation,24,2018-07-12,2003,5,67.29,False,2
+E2021190,Christina Wilson,Senior Security Architect,Cybersecurity,30,2015-04-08,1657,6,166.92,False,7
+E2021191,Chase Baker,Blockchain Developer,Blockchain,61,2016-09-12,1748,6,111.46,False,0
+E2021192,Anthony Sparks,Junior Cloud Architect,Cloud Migration,38,2020-08-16,2193,5,66.37,False,2
+E2021193,Samantha Morse,Senior Blockchain Developer,Blockchain,32,2015-06-13,1719,7,157.18,False,7
+E2021194,John Torres,Junior Data Engineer,Data Analytics,37,2016-02-03,1878,7,55.52,False,1
+E2021195,Dillon Fernandez,Digital Strategist,Digital Transformation,59,2020-02-06,1855,5,91.52,False,2
+E2021196,Kyle Preston,Senior Pentester,Cybersecurity,28,2015-10-19,1580,6,131.69,False,8
+E2021197,Lindsey Johnson,Junior Digital Strategist,Digital Transformation,54,2016-05-22,2132,5,53.04,False,3
+E2021198,Michael Valencia,ML Engineer,AI/ML,47,2019-12-11,1809,6,108.69,False,2
+E2021199,Alicia Hubbard,ERP Consultant,ERP Implementation,29,2021-12-17,1734,5,100.1,False,0
+E2022000,Laura Hines,Partner,Data Analytics,59,2019-03-20,853,9,478.5,False,3
+E2022001,Joseph Ramos,Senior DevOps Engineer,Cloud Migration,38,2018-11-30,1742,6,144.34,False,8
+E2022002,Zachary Graham,Senior Cloud Architect,Cloud Migration,29,2017-03-28,1603,7,160.71,False,2
+E2022003,Tracy Harrison,Junior ERP Consultant,ERP Implementation,45,2016-04-13,1908,7,58.94,False,0
+E2022004,Frank Garcia,Cybersecurity Manager,Cybersecurity,54,2021-09-28,1363,6,209.17,False,1
+E2022005,Jason Simpson,Junior ERP Consultant,ERP Implementation,51,2015-04-04,1827,5,61.08,False,3
+E2022006,Jennifer Hodges,Digital Strategist,Digital Transformation,40,2018-01-26,1672,5,81.87,False,2
+E2022007,Brandon King,Blockchain Developer,Blockchain,50,2016-01-14,1694,5,95.62,False,3
+E2022008,Raymond Hancock,ERP Implementation Lead,ERP Implementation,43,2020-05-01,1414,9,160.42,False,3
+E2022009,April Booth,Junior IoT Architect,IoT,46,2015-11-15,1805,5,51.54,False,1
+E2022010,Anthony Stone,Partner,ERP Implementation,44,2020-08-07,1034,8,397.53,False,0
+E2022011,Kathleen Ramos,IoT Architect,IoT,40,2022-02-11,1830,6,102.61,False,0
+E2022012,Derek Anderson,AI Architect,AI/ML,37,2021-09-27,1815,6,117.53,False,2
+E2022013,Stanley Washington,Junior Data Engineer,Data Analytics,36,2015-03-08,1989,6,58.02,False,2
+E2022014,Mark Lloyd,DevOps Engineer,Cloud Migration,55,2018-12-11,1811,8,107.18,False,3
+E2022015,Emily Smith,Junior ERP Consultant,ERP Implementation,31,2016-12-25,2019,6,55.19,False,1
+E2022016,Danny Skinner,Senior IoT Architect,IoT,48,2022-11-15,1724,7,163.41,False,2
+E2022017,Travis Holland,Cloud Migration Manager,Cloud Migration,30,2016-02-29,1515,9,157.09,False,2
+E2022018,Timothy Carter,Blockchain Developer,Blockchain,56,2019-09-19,1941,7,82.72,False,3
+E2022019,Jennifer Olson,Senior IoT Architect,IoT,31,2023-11-26,1463,7,136.19,False,7
+E2022020,Jesus Thomas,Junior IoT Architect,IoT,24,2018-01-01,2059,6,54.17,False,2
+E2022021,Kyle Francis,Digital Strategist,Digital Transformation,50,2015-03-05,1812,5,72.28,True,2
+E2022022,Benjamin Barton,Senior ERP Consultant,ERP Implementation,45,2019-05-23,1523,8,114.0,False,7
+E2022023,Gina French,Senior Data Scientist,AI/ML,60,2016-12-12,1599,8,127.68,False,6
+E2022024,Aaron Barber,Senior Security Architect,Cybersecurity,51,2022-01-30,1658,6,197.15,False,7
+E2022025,Lauren Keller,Digital Transformation Lead,Digital Transformation,59,2016-01-18,1304,6,183.13,True,1
+E2022026,Jill Washington,Security Architect,Cybersecurity,25,2015-04-14,1892,8,94.1,False,1
+E2022027,Phillip Bennett,Blockchain Developer,Blockchain,64,2022-04-26,1695,6,79.8,False,2
+E2022028,Sheila Pollard,BI Specialist,Data Analytics,58,2022-05-24,1994,7,100.54,True,0
+E2022029,James Chase,Cybersecurity Director,Cybersecurity,64,2016-03-30,1296,7,242.1,False,2
+E2022030,Evan Kennedy,Senior Cloud Architect,Cloud Migration,33,2020-07-17,1447,6,120.7,False,4
+E2022031,Jane Mcneil,IoT Architect,IoT,30,2020-06-15,1811,5,95.83,False,0
+E2022032,Marissa Hernandez,Senior BI Specialist,Data Analytics,50,2016-10-21,1724,7,100.55,False,1
+E2022033,Beth Sanford,Security Architect,Cybersecurity,60,2018-11-21,1660,7,70.38,False,0
+E2022034,Brian Kirk,Security Architect,Cybersecurity,57,2021-01-04,1698,5,80.95,True,1
+E2022035,Thomas Smith,Data Analytics Manager,Data Analytics,47,2016-07-21,1215,8,153.67,False,3
+E2022036,Seth Booker,Digital Strategist,Digital Transformation,41,2020-03-28,1778,7,75.4,False,3
+E2022037,Richard Baker,Junior IoT Architect,IoT,56,2017-03-21,1928,5,50.17,False,2
+E2022038,Jennifer Miller,IoT Architect,IoT,30,2023-02-05,1684,6,110.13,False,3
+E2022039,Michael Ferguson,IoT Architect,IoT,62,2021-10-23,1918,5,98.6,False,1
+E2022040,Lori Clay,Junior ERP Consultant,ERP Implementation,47,2015-05-19,2030,5,55.38,False,2
+E2022041,Joshua Williamson II,IoT Architect,IoT,42,2016-04-14,1803,5,84.67,False,2
+E2022042,Donna Perez,Senior IoT Architect,IoT,35,2019-03-03,1510,8,193.18,False,6
+E2022043,William Hodges,Senior Cloud Architect,Cloud Migration,24,2017-05-25,1767,7,139.7,False,6
+E2022044,Ashlee Jackson,Data Analytics Director,Data Analytics,59,2017-05-19,1145,9,213.06,False,2
+E2022045,Allen Nguyen,Junior Digital Strategist,Digital Transformation,62,2022-08-26,2093,7,58.51,False,2
+E2022046,Ian Jordan,Senior ERP Consultant,ERP Implementation,36,2018-01-29,1655,6,111.38,False,2
+E2022047,Jason Maldonado,Blockchain Developer,Blockchain,34,2018-03-13,1721,5,87.26,True,0
+E2022048,Christopher Lynch,Blockchain Lead,Blockchain,42,2018-10-13,1218,6,200.74,False,2
+E2022049,Michael Jimenez,Blockchain Developer,Blockchain,30,2018-01-30,1970,7,113.71,False,2
+E2022050,Crystal Little,IoT Architect,IoT,29,2019-05-31,1852,5,94.68,False,3
+E2022051,Michael Nolan,Junior Blockchain Developer,Blockchain,65,2015-04-30,1991,4,61.07,False,0
+E2022052,Dwayne Payne,Junior Pentester,Cybersecurity,30,2015-12-27,1915,5,69.78,False,2
+E2022053,Tony Huerta,Senior AI Architect,AI/ML,27,2018-05-31,1456,6,113.15,True,6
+E2022054,Victor Vaughn,IoT Architect,IoT,41,2016-05-06,1898,8,83.74,False,1
+E2022055,Eric Kidd,Senior IoT Architect,IoT,64,2017-09-12,1667,8,139.46,False,8
+E2022056,Ashley James,Digital Strategist,Digital Transformation,44,2017-12-16,1715,5,91.09,False,0
+E2022057,Edward Lyons,ERP Consultant,ERP Implementation,59,2022-10-17,1937,6,90.55,True,3
+E2022058,Ronald Foster,Partner,AI/ML,37,2019-04-27,910,9,481.52,False,0
+E2022059,Sean Osborne,ERP Consultant,ERP Implementation,37,2022-12-12,1989,7,105.7,False,1
+E2022060,Susan Mcgee,Senior DevOps Engineer,Cloud Migration,32,2021-12-16,1597,7,160.79,False,7
+E2022061,Stephanie Parsons,Senior Data Engineer,Data Analytics,28,2021-06-22,1751,7,130.94,False,3
+E2022062,Robert Robinson,Blockchain Developer,Blockchain,30,2017-02-05,1608,8,111.19,False,3
+E2022063,David Campos,Senior Blockchain Developer,Blockchain,46,2017-05-18,1581,7,195.51,False,7
+E2022064,Melanie Taylor,Senior ERP Consultant,ERP Implementation,27,2022-04-10,1450,6,182.12,False,7
+E2022065,Mark Williams,Senior Data Engineer,Data Analytics,42,2020-12-09,1704,7,100.16,False,7
+E2022066,Amanda Diaz,Cloud Architect,Cloud Migration,27,2015-08-06,1712,5,101.82,False,2
+E2022067,Theodore Murphy,BI Specialist,Data Analytics,28,2019-05-25,1715,8,72.56,False,1
+E2022068,Curtis Buchanan,Senior Digital Strategist,Digital Transformation,55,2018-03-25,1577,8,125.76,False,5
+E2022069,Holly Shaw,Senior Data Scientist,AI/ML,30,2023-04-16,1718,7,105.95,False,4
+E2022070,Christopher Sloan,Security Architect,Cybersecurity,44,2020-02-08,1695,7,100.19,False,0
+E2022071,Tracy Phillips,Senior Blockchain Developer,Blockchain,51,2016-11-30,1535,6,168.66,False,1
+E2022072,Regina Mcdonald,ERP Consultant,ERP Implementation,54,2016-03-24,1726,8,75.72,True,0
+E2022073,Paul Perez,Digital Strategist,Digital Transformation,38,2023-09-11,1986,6,89.19,False,2
+E2022074,Megan Sanders,ERP Consultant,ERP Implementation,52,2022-06-10,1879,7,92.81,False,2
+E2022075,Kristin Davis,Blockchain Developer,Blockchain,24,2020-10-22,1963,7,88.45,False,3
+E2022076,Dennis Martinez,Cloud Architect,Cloud Migration,41,2017-06-21,1675,8,76.05,False,1
+E2022077,Paul Baker,ERP Implementation Director,ERP Implementation,55,2022-10-21,1295,9,262.84,False,6
+E2022078,Mark Watson,Senior BI Specialist,Data Analytics,29,2018-01-26,1727,6,175.12,False,8
+E2022079,Kaitlyn Harvey,Junior Pentester,Cybersecurity,40,2021-08-10,1969,7,42.13,False,2
+E2022080,Erin Bishop,Digital Transformation Director,Digital Transformation,36,2018-11-07,1266,9,212.03,False,2
+E2022081,Madison Marshall,IoT Architect,IoT,53,2015-02-04,1747,5,87.74,False,1
+E2022082,Marie Wilson,Blockchain Developer,Blockchain,33,2018-05-28,1919,6,117.09,False,0
+E2022083,Andrew Ferrell,Senior Digital Strategist,Digital Transformation,24,2016-05-20,1544,8,166.86,True,5
+E2022084,David Medina,Senior AI Architect,AI/ML,51,2016-07-18,1425,7,167.87,False,5
+E2022085,Jacob Avery,Security Architect,Cybersecurity,29,2019-11-05,1975,6,88.1,False,0
+E2022086,Kimberly Matthews,Digital Transformation Director,Digital Transformation,38,2022-08-11,1181,7,289.05,False,7
+E2022087,Stacey Pena,Junior IoT Architect,IoT,30,2016-12-10,2105,6,40.3,False,2
+E2022088,Lisa Crosby,Senior Pentester,Cybersecurity,36,2018-05-18,1683,6,163.61,False,5
+E2022089,Michael Robinson,Senior Blockchain Developer,Blockchain,58,2020-11-26,1449,6,191.33,False,6
+E2022090,David Cox,Senior ERP Consultant,ERP Implementation,53,2020-03-04,1615,7,161.26,True,1
+E2022091,Mrs. Stephanie Newman,IoT Architect,IoT,29,2016-06-05,1724,7,113.68,False,2
+E2022092,Donald Donaldson,AI/ML Manager,AI/ML,49,2015-08-11,1436,9,222.4,False,5
+E2022093,Samantha Davis,DevOps Engineer,Cloud Migration,45,2022-09-29,1889,8,76.03,False,0
+E2022094,Mark Maddox,Cloud Architect,Cloud Migration,61,2020-10-15,1959,6,115.12,False,3
+E2022095,Gavin Zhang,Junior Security Architect,Cybersecurity,38,2023-01-24,1954,6,41.99,False,0
+E2022096,Christine Gallegos,Blockchain Developer,Blockchain,63,2016-09-18,1634,5,96.7,False,0
+E2022097,Laurie Li,Senior DevOps Engineer,Cloud Migration,39,2019-12-23,1412,8,114.21,False,2
+E2022098,Raymond Kramer,Digital Strategist,Digital Transformation,49,2021-11-14,1720,7,70.59,False,0
+E2022099,Destiny Riggs,IoT Architect,IoT,33,2016-11-30,1672,6,91.1,False,1
+E2022100,Ms. Rebecca Rodriguez,Senior Blockchain Developer,Blockchain,54,2019-02-13,1701,7,129.5,False,7
+E2022101,Bonnie Howard,Senior IoT Architect,IoT,30,2018-03-06,1475,6,148.6,False,7
+E2022102,Leah Smith,Senior Data Scientist,AI/ML,61,2021-12-14,1733,8,157.72,False,6
+E2022103,Cameron Fisher,Junior Pentester,Cybersecurity,53,2016-10-10,1941,4,41.31,False,1
+E2022104,Arthur West,Senior ERP Consultant,ERP Implementation,57,2016-09-12,1489,8,112.3,False,6
+E2022105,Kevin Hayes,Senior Blockchain Developer,Blockchain,32,2022-03-27,1601,6,155.86,False,8
+E2022106,Luis Acosta,Pentester,Cybersecurity,60,2021-08-08,1666,7,87.16,False,2
+E2022107,Mary Turner,IoT Director,IoT,28,2017-08-07,1375,7,309.38,False,2
+E2022108,Amanda Lutz,Senior Blockchain Developer,Blockchain,54,2023-12-03,1795,8,165.23,False,3
+E2022109,Jessica Rodriguez,Junior IoT Architect,IoT,50,2016-04-13,2113,6,65.37,True,0
+E2022110,Jill Lam,Blockchain Developer,Blockchain,47,2016-03-16,1689,7,104.62,False,3
+E2022111,Charles Martinez,Security Architect,Cybersecurity,64,2020-07-04,1700,7,91.5,False,2
+E2022112,Lauren Joseph,BI Specialist,Data Analytics,36,2015-12-19,1870,6,103.65,False,0
+E2022113,Kyle Phillips,Data Engineer,Data Analytics,26,2021-05-16,1784,8,83.77,False,0
+E2022114,Jessica Mcguire,ERP Consultant,ERP Implementation,35,2021-05-25,1697,6,85.32,False,2
+E2022115,Matthew Rich,Junior ERP Consultant,ERP Implementation,63,2019-10-18,1834,7,63.67,False,0
+E2022116,Sharon Jordan,DevOps Engineer,Cloud Migration,32,2020-08-04,1651,5,92.32,False,2
+E2022117,Jennifer Wilcox,ML Engineer,AI/ML,38,2022-11-20,1728,8,109.92,False,1
+E2022118,Nicholas Edwards,Digital Strategist,Digital Transformation,28,2019-06-24,1865,7,111.12,False,0
+E2022119,David Mckay,Blockchain Developer,Blockchain,40,2017-12-04,1773,8,112.88,False,0
+E2022120,Kara Davis,Pentester,Cybersecurity,37,2017-08-23,1987,5,115.83,False,0
+E2022121,Jeffrey Garner,Junior ERP Consultant,ERP Implementation,28,2016-06-14,2082,7,52.93,False,0
+E2022122,Carlos Brown,Cloud Architect,Cloud Migration,26,2019-11-03,1932,7,85.94,False,1
+E2022123,Kristina Santiago,AI/ML Director,AI/ML,27,2020-12-28,1400,7,287.33,False,7
+E2022124,Shane Pugh,ML Engineer,AI/ML,59,2022-10-19,1992,8,88.56,False,3
+E2022125,Thomas Williams,Senior Pentester,Cybersecurity,31,2018-11-06,1580,6,160.11,False,1
+E2022126,Erik Garcia,Data Analytics Manager,Data Analytics,38,2023-05-20,1316,9,220.56,False,1
+E2022127,Brittney Olson,AI Architect,AI/ML,39,2019-12-02,1629,6,104.42,False,0
+E2022128,Hayley Hawkins,ERP Consultant,ERP Implementation,46,2021-10-18,1749,6,88.73,False,0
+E2022129,Donald Perez,Senior Cloud Architect,Cloud Migration,28,2023-03-31,1653,8,116.69,False,4
+E2022130,Justin Saunders,Junior Blockchain Developer,Blockchain,43,2020-11-27,2134,5,52.92,False,2
+E2022131,Megan Hawkins,Senior DevOps Engineer,Cloud Migration,27,2020-06-14,1761,8,114.26,False,4
+E2022132,Mary Steele,Senior Security Architect,Cybersecurity,57,2023-02-17,1462,7,189.01,False,3
+E2022133,Donald Farmer,Data Scientist,AI/ML,39,2016-04-12,1991,8,87.29,True,0
+E2022134,Heather White,Digital Strategist,Digital Transformation,41,2018-02-17,1643,5,77.72,False,3
+E2022135,Matthew Jones,Blockchain Developer,Blockchain,25,2017-07-08,1827,5,71.27,False,1
+E2022136,Valerie Davis,IoT Director,IoT,58,2021-01-27,1156,7,296.87,False,1
+E2022137,Jamie Chavez,ERP Consultant,ERP Implementation,40,2018-10-28,1987,5,101.85,False,3
+E2022138,Eric Nguyen,IoT Architect,IoT,27,2020-12-30,1969,7,87.03,False,2
+E2022139,Linda Ware,Senior Security Architect,Cybersecurity,48,2018-02-23,1467,6,107.17,False,5
+E2022140,Paul Williams,DevOps Engineer,Cloud Migration,39,2015-06-08,1772,8,90.48,False,2
+E2022141,Jeremy Coleman,Digital Strategist,Digital Transformation,40,2021-05-17,1663,7,85.56,False,2
+E2022142,Jennifer Lewis,Senior Pentester,Cybersecurity,52,2015-06-01,1404,7,167.71,False,8
+E2022143,Haley Rodriguez,Data Analytics Director,Data Analytics,50,2021-11-04,1040,8,290.87,False,2
+E2022144,Leslie Rose,Senior Blockchain Developer,Blockchain,35,2016-06-05,1532,7,136.46,False,3
+E2022145,Daniel Joyce,Security Architect,Cybersecurity,63,2017-01-24,1658,5,80.89,False,3
+E2022146,Dan Dougherty,ERP Consultant,ERP Implementation,26,2017-11-20,1631,7,119.4,True,2
+E2022147,Pamela Roberts,Senior AI Architect,AI/ML,62,2019-12-23,1439,8,145.4,False,2
+E2022148,Jonathan Jordan,Senior BI Specialist,Data Analytics,37,2015-10-20,1748,7,168.83,False,5
+E2022149,Joseph Hall,Senior Pentester,Cybersecurity,25,2022-04-24,1571,7,114.06,False,5
+E2022150,Mary Gomez,Senior ML Engineer,AI/ML,34,2015-04-15,1476,8,148.56,False,4
+E2022151,Patrick Graham,ERP Consultant,ERP Implementation,56,2021-07-14,1710,8,71.38,True,1
+E2022152,Blake Edwards,IoT Manager,IoT,65,2021-01-16,1314,9,200.55,False,1
+E2022153,Jared Bowman,Blockchain Developer,Blockchain,57,2021-06-14,1737,6,118.2,False,1
+E2022154,Jared Burch,ERP Consultant,ERP Implementation,39,2018-07-13,1718,8,89.21,False,0
+E2022155,Travis Stevens,BI Specialist,Data Analytics,52,2018-12-12,1785,5,71.95,False,0
+E2022156,Heidi Kim,ERP Consultant,ERP Implementation,65,2017-07-30,1829,8,71.55,False,1
+E2022157,Jeffrey Morales,Data Engineer,Data Analytics,50,2023-12-04,1910,7,89.4,False,2
+E2022158,Seth Reese,Senior Cloud Architect,Cloud Migration,29,2022-02-04,1694,7,116.0,False,4
+E2022159,Richard Jones,Partner,Cybersecurity,53,2017-12-14,861,9,304.67,False,3
+E2022160,Kerry Lee,DevOps Engineer,Cloud Migration,32,2015-10-27,1612,6,107.81,False,3
+E2022161,Heather Mullen,IoT Manager,IoT,46,2016-05-02,1564,8,195.85,False,6
+E2022162,Brittany Garcia,Cloud Migration Lead,Cloud Migration,26,2022-01-27,1429,9,178.92,False,7
+E2022163,Christopher Hernandez,Digital Strategist,Digital Transformation,54,2016-09-15,1970,5,115.0,False,2
+E2022164,Angela Bean,Senior Blockchain Developer,Blockchain,48,2021-08-05,1660,8,111.61,False,2
+E2022165,Julie Elliott,Data Engineer,Data Analytics,43,2018-03-14,1888,8,117.8,False,2
+E2022166,Melanie Macias,Cybersecurity Director,Cybersecurity,33,2017-05-12,1376,9,247.1,False,5
+E2022167,Victoria Morris,Senior ERP Consultant,ERP Implementation,30,2018-01-26,1460,7,188.84,False,4
+E2022168,Emily Gonzales,Junior Pentester,Cybersecurity,42,2017-08-06,2110,4,58.09,False,1
+E2022169,Mark Hogan,Cloud Architect,Cloud Migration,37,2021-01-20,1614,5,111.34,False,1
+E2022170,Heather Jones,AI Architect,AI/ML,55,2018-02-28,1789,6,119.2,False,3
+E2022171,Andrew Wood,Blockchain Lead,Blockchain,57,2023-01-12,1351,6,178.84,False,2
+E2022172,Matthew Madden,Blockchain Developer,Blockchain,51,2023-03-16,1670,7,118.06,False,2
+E2022173,Kirk Cruz,DevOps Engineer,Cloud Migration,38,2018-02-04,1680,7,89.47,False,0
+E2022174,Tiffany Stevenson,Senior ERP Consultant,ERP Implementation,26,2022-05-31,1497,8,138.55,False,1
+E2022175,Terry Armstrong,AI/ML Lead,AI/ML,39,2017-12-22,1312,7,184.04,False,8
+E2022176,Larry Mason,Senior Security Architect,Cybersecurity,55,2020-10-15,1725,6,154.14,False,4
+E2022177,Joanna Shepherd,AI/ML Director,AI/ML,51,2017-05-04,1285,9,223.12,False,1
+E2022178,Vickie Miller,IoT Architect,IoT,40,2020-06-06,1926,7,97.69,False,1
+E2022179,Amanda Zimmerman,Junior Digital Strategist,Digital Transformation,38,2021-09-14,2050,7,56.25,False,3
+E2022180,Kelly Bishop MD,Senior Digital Strategist,Digital Transformation,30,2018-08-25,1614,7,176.19,False,7
+E2022181,Jasmine Schroeder,Senior DevOps Engineer,Cloud Migration,35,2018-11-24,1738,6,183.36,False,3
+E2022182,Amy Mccoy,Blockchain Developer,Blockchain,55,2018-01-02,1614,7,92.02,False,3
+E2022183,Gary Grant,ML Engineer,AI/ML,59,2019-08-12,1945,7,85.12,False,3
+E2022184,David York,Senior IoT Architect,IoT,49,2023-03-02,1537,7,125.93,False,1
+E2022185,Lindsey Hernandez,Senior Digital Strategist,Digital Transformation,52,2023-09-29,1674,6,119.46,False,6
+E2022186,Matthew Rangel,Security Architect,Cybersecurity,62,2023-10-02,1794,5,72.88,False,2
+E2022187,Matthew Bates,Cloud Migration Director,Cloud Migration,65,2021-01-02,1107,8,251.37,False,3
+E2022188,Michael Miller,Senior IoT Architect,IoT,38,2019-08-21,1591,7,127.02,False,4
+E2022189,Maria Murphy,Data Scientist,AI/ML,26,2023-11-16,1652,8,118.32,False,1
+E2022190,Michael Valentine,Digital Transformation Director,Digital Transformation,43,2017-10-09,1323,9,283.66,True,2
+E2022191,Susan Davis DDS,Senior IoT Architect,IoT,65,2015-10-30,1443,6,134.73,False,7
+E2022192,Alicia Parker,Data Scientist,AI/ML,24,2016-01-27,1909,6,99.02,False,3
+E2022193,Gloria Miranda,BI Specialist,Data Analytics,62,2018-05-22,1817,5,76.96,False,1
+E2022194,Zachary Moore,Junior DevOps Engineer,Cloud Migration,40,2019-10-26,1992,6,53.32,False,3
+E2022195,Richard Romero,Senior Digital Strategist,Digital Transformation,54,2020-07-28,1595,6,162.62,False,6
+E2022196,Nancy Rose,Senior Cloud Architect,Cloud Migration,52,2020-01-06,1603,6,148.89,False,2
+E2022197,Sherri Williamson,Digital Transformation Manager,Digital Transformation,45,2017-04-30,1248,7,190.18,False,8
+E2022198,Brittany White,Data Analytics Lead,Data Analytics,29,2015-08-30,1467,7,249.38,False,5
+E2022199,Lori Orr,IoT Architect,IoT,43,2022-09-23,1618,7,114.02,False,3

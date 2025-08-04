@@ -1,0 +1,801 @@
+tender_id,client_name,tech_domain,service_type,communication_channel,estimated_value,margin_pct,industry,team_size,status,is_rfp,submission_date,decision_date,complexity
+T2021000,Frazier Inc Systems,Data Analytics,Integration,LinkedIn,1153741514.03,30.48,Data Analytics,6,Awarded,True,2023-05-28,2023-04-28,Medium
+T2021001,"Rodriguez, Figueroa and Sanchez Technologies",Cloud Migration,Optimization,LinkedIn,1899134771.36,28.24,Cloud Migration,8,Submitted,True,2023-05-15,2021-06-10,Medium
+T2021002,Burton Ltd Solutions,Digital Transformation,Integration,Email,1121030503.79,20.83,Cybersecurity,3,Awarded,True,2022-07-01,2022-12-28,Low
+T2021003,"Reid, Ferguson and Sanchez Technologies",IoT,Training,LinkedIn,1513946565.47,39.9,IoT,7,Awarded,True,2021-08-06,2022-10-04,High
+T2021004,"Walter, Edwards and Rios Technologies",Data Analytics,Training,LinkedIn,1415181024.06,25.65,Data Analytics,5,Lost,False,2021-01-02,2022-11-25,Medium
+T2021005,ERP Masters,Digital Transformation,Training,LinkedIn,1045787840.76,19.68,ERP Implementation,6,Lost,True,2023-09-23,2021-06-21,High
+T2021006,Baker and Sons Systems,Cybersecurity,Implementation,Conference,677399124.28,31.21,Blockchain,8,Submitted,False,2023-05-17,2022-04-09,High
+T2021007,Harrell LLC Solutions,ERP Implementation,Integration,Referral,1015928713.95,11.38,ERP Implementation,14,Awarded,True,2023-11-26,2023-08-13,Low
+T2021008,Blake and Sons Solutions,Data Analytics,Training,LinkedIn,1321494960.8,22.94,Data Analytics,6,Submitted,True,2021-05-01,2022-05-14,Low
+T2021009,DataMind Analytics,Cloud Migration,Integration,Conference,787256101.71,20.46,Data Analytics,12,Awarded,True,2023-08-27,2022-06-12,High
+T2021010,"Adams, Zuniga and Wong Technologies",Blockchain,Managed Services,LinkedIn,1123845798.25,47.33,Blockchain,9,Awarded,True,2021-04-21,2021-08-20,Low
+T2021011,Harrell LLC Solutions,ERP Implementation,Implementation,Referral,784322482.23,20.34,ERP Implementation,11,Submitted,True,2023-05-15,2022-02-10,Medium
+T2021012,"Henderson, Ramirez and Lewis Solutions",Cloud Migration,Strategy,Conference,1243296374.51,22.28,AI/ML,9,Awarded,True,2021-01-31,2021-08-10,High
+T2021013,"Henderson, Ramirez and Lewis Solutions",AI/ML,Optimization,LinkedIn,1346082938.12,29.25,AI/ML,5,Awarded,True,2023-02-16,2021-02-04,High
+T2021014,Garcia-James Solutions,Blockchain,Implementation,LinkedIn,1101839787.86,37.0,IoT,10,Submitted,True,2021-04-30,2024-02-15,Low
+T2021015,Arnold Ltd Solutions,Digital Transformation,Strategy,Conference,2096297927.6,18.99,Digital Transformation,5,Lost,True,2022-01-16,2021-06-20,Medium
+T2021016,Rodriguez-Graham Systems,IoT,Training,LinkedIn,875619330.56,31.93,AI/ML,6,Awarded,True,2023-05-09,2024-01-06,Medium
+T2021017,Garcia-James Solutions,IoT,Managed Services,Referral,833798382.91,36.11,IoT,6,Awarded,True,2022-09-07,2023-08-25,Medium
+T2021018,AI Nexus,AI/ML,Strategy,Conference,668037081.92,36.04,AI/ML,8,Submitted,True,2022-06-28,2021-10-29,High
+T2021019,AI Nexus,ERP Implementation,Optimization,LinkedIn,1275767314.39,13.36,AI/ML,15,Awarded,True,2023-12-20,2021-02-16,Medium
+T2021020,"Hoffman, Baker and Richards Systems",Cybersecurity,Managed Services,Conference,1266047605.88,33.69,Cybersecurity,5,Submitted,True,2021-11-15,2022-08-11,Medium
+T2021021,"Gardner, Robinson and Lawrence Technologies",Data Analytics,Training,Conference,1098733698.34,27.42,AI/ML,7,Awarded,False,2021-04-15,2021-08-08,Medium
+T2021022,Abbott-Munoz Systems,Blockchain,Integration,LinkedIn,969026014.71,32.61,Blockchain,5,Lost,True,2023-06-24,2024-03-05,High
+T2021023,"Hoffman, Baker and Richards Systems",Cybersecurity,Training,LinkedIn,1651404453.67,27.7,Cybersecurity,5,Submitted,True,2021-10-31,2023-06-30,Low
+T2021024,Dudley Group Systems,IoT,Managed Services,Email,708629394.74,33.72,IoT,3,Submitted,True,2021-07-30,2023-01-25,High
+T2021025,"Adams, Zuniga and Wong Technologies",Cybersecurity,Optimization,Email,1071398450.16,31.62,Blockchain,5,Submitted,False,2021-12-29,2023-05-25,Low
+T2021026,"Romero, Gonzalez and Brooks Labs",IoT,Managed Services,Referral,1444830955.18,28.62,Blockchain,6,Submitted,False,2023-02-23,2021-04-20,High
+T2021027,Blake and Sons Solutions,Data Analytics,Managed Services,Email,1590221759.31,33.15,Data Analytics,8,Lost,False,2022-04-02,2021-03-20,Medium
+T2021028,"Flowers, Martin and Kelly Technologies",Digital Transformation,Managed Services,Referral,1096064162.55,17.8,Digital Transformation,7,Awarded,True,2022-11-10,2021-03-28,Low
+T2021029,Garcia-James Solutions,IoT,Strategy,Email,1611479949.68,33.66,IoT,7,Submitted,True,2022-10-05,2023-07-13,Medium
+T2021030,"Walter, Edwards and Rios Technologies",Data Analytics,Managed Services,Referral,1137453223.77,25.6,Data Analytics,6,Submitted,True,2023-12-01,2024-02-07,Medium
+T2021031,"Romero, Gonzalez and Brooks Labs",Data Analytics,Integration,LinkedIn,839983907.4,22.47,Blockchain,4,Lost,True,2021-09-13,2022-10-08,Medium
+T2021032,"Dyer, Potter and Mack Solutions",AI/ML,Training,LinkedIn,1806446129.17,39.06,AI/ML,6,Submitted,True,2023-02-16,2022-01-22,Medium
+T2021033,Dudley Group Systems,IoT,Managed Services,Referral,1625067431.78,31.64,IoT,7,Submitted,False,2022-10-22,2023-09-10,Medium
+T2021034,Rodriguez-Graham Systems,AI/ML,Integration,LinkedIn,990994311.98,36.81,AI/ML,5,Submitted,True,2022-11-18,2021-08-10,High
+T2021035,"Henderson, Ramirez and Lewis Solutions",AI/ML,Implementation,LinkedIn,1907703975.68,36.81,AI/ML,5,Submitted,True,2023-09-01,2021-06-29,Medium
+T2021036,"Ferrell, Rice and Maddox Systems",IoT,Assessment,Referral,1922992446.8,31.82,IoT,9,Awarded,True,2021-01-12,2021-09-06,High
+T2021037,Blake and Sons Solutions,Data Analytics,Strategy,Email,1538888178.0,14.9,Data Analytics,10,Awarded,False,2021-09-06,2023-08-23,Low
+T2021038,"Watts, Robinson and Nguyen Technologies",Data Analytics,Optimization,Email,1099424913.18,28.44,Data Analytics,8,Lost,True,2023-10-31,2023-06-23,High
+T2021039,"Hoffman, Baker and Richards Systems",Cybersecurity,Assessment,LinkedIn,662469187.03,30.46,Cybersecurity,7,Submitted,True,2022-07-22,2024-01-03,Medium
+T2021040,"Henderson, Ramirez and Lewis Solutions",AI/ML,Implementation,LinkedIn,1338598556.73,33.9,AI/ML,6,Submitted,True,2021-06-15,2021-11-10,Low
+T2021041,James Group Systems,ERP Implementation,Assessment,Referral,1029433217.54,27.39,ERP Implementation,9,Awarded,True,2023-05-02,2021-06-07,Medium
+T2021042,"Adams, Zuniga and Wong Technologies",Blockchain,Optimization,Conference,1034545633.58,35.96,Blockchain,3,Lost,True,2023-09-04,2021-02-12,High
+T2021043,Dudley Group Systems,IoT,Assessment,Conference,1327257488.97,36.58,IoT,6,Submitted,True,2021-03-01,2023-04-07,Medium
+T2021044,Rodriguez-Graham Systems,Cybersecurity,Training,Referral,1402799204.17,27.35,AI/ML,5,Awarded,False,2021-02-25,2021-07-21,Medium
+T2021045,"Rodriguez, Figueroa and Sanchez Technologies",Cybersecurity,Managed Services,LinkedIn,1608147570.42,30.49,Cloud Migration,7,Submitted,True,2023-02-16,2022-08-23,High
+T2021046,"Adams, Zuniga and Wong Technologies",Blockchain,Integration,LinkedIn,1090014281.07,36.49,Blockchain,3,Awarded,False,2022-12-18,2022-05-05,Medium
+T2021047,Frazier Inc Systems,Data Analytics,Implementation,LinkedIn,775253627.09,26.04,Data Analytics,6,Lost,True,2022-05-04,2021-10-16,Medium
+T2021048,ERP Masters,ERP Implementation,Optimization,LinkedIn,1300574413.86,21.48,ERP Implementation,12,Awarded,True,2021-08-23,2022-01-01,High
+T2021049,IoT Connect,IoT,Assessment,Email,1120879115.56,32.03,IoT,9,Lost,True,2022-05-13,2021-08-27,Medium
+T2021050,Dudley Group Systems,Cloud Migration,Managed Services,Referral,1060028553.69,17.92,IoT,8,Awarded,True,2021-05-22,2023-12-03,Medium
+T2021051,TechNovate Solutions,Blockchain,Integration,LinkedIn,945355966.08,38.29,Digital Transformation,8,Lost,True,2021-11-10,2023-07-11,Low
+T2021052,Wilkerson-Day Systems,Digital Transformation,Assessment,Conference,1357581352.33,21.19,IoT,10,Awarded,False,2022-07-04,2022-11-22,High
+T2021053,BlockChain Innovations,Blockchain,Training,LinkedIn,1267267218.9,49.43,Blockchain,10,Awarded,True,2021-02-28,2023-11-09,High
+T2021054,Davis and Sons Technologies,Cloud Migration,Managed Services,LinkedIn,1176043298.56,26.29,Cloud Migration,12,Submitted,True,2022-07-20,2024-03-14,Low
+T2021055,"Guzman, Hoffman and Baldwin Technologies",IoT,Training,Referral,1193076517.04,22.41,IoT,10,Awarded,True,2023-10-03,2023-08-06,High
+T2021056,BlockChain Innovations,Blockchain,Managed Services,LinkedIn,2517992798.93,40.3,Blockchain,6,Awarded,True,2023-12-24,2023-01-05,Medium
+T2021057,"Romero, Gonzalez and Brooks Labs",Blockchain,Managed Services,LinkedIn,1316469648.15,39.04,Blockchain,10,Awarded,True,2022-01-30,2022-11-08,Low
+T2021058,Baker and Sons Systems,Cybersecurity,Managed Services,LinkedIn,846949702.47,29.83,Blockchain,7,Awarded,False,2023-12-11,2022-09-02,High
+T2021059,"Guzman, Hoffman and Baldwin Technologies",IoT,Strategy,LinkedIn,1506922289.33,37.71,IoT,7,Awarded,True,2021-04-04,2021-05-22,Medium
+T2021060,Smith-Bowen Systems,Blockchain,Training,LinkedIn,915461660.09,43.96,IoT,3,Submitted,True,2022-11-29,2022-02-12,High
+T2021061,Garcia-James Solutions,Blockchain,Assessment,LinkedIn,789728647.42,47.01,IoT,4,Awarded,True,2021-04-20,2021-12-07,Low
+T2021062,"Ross, Robinson and Bright Solutions",Cloud Migration,Training,Email,2320136754.34,27.93,ERP Implementation,9,Awarded,True,2022-04-08,2024-01-06,Medium
+T2021063,Gray-Mayo Systems,Digital Transformation,Managed Services,Conference,1014707225.55,17.05,Digital Transformation,9,Awarded,True,2021-07-23,2022-04-01,Medium
+T2021064,Garcia-James Solutions,IoT,Training,LinkedIn,1034012376.76,32.5,IoT,5,Submitted,True,2023-07-12,2023-09-20,Medium
+T2021065,Blake and Sons Solutions,Data Analytics,Strategy,LinkedIn,1227596674.09,20.25,Data Analytics,10,Awarded,False,2022-02-10,2023-06-20,Low
+T2021066,Blake and Sons Solutions,Data Analytics,Strategy,Email,1386201359.48,22.69,Data Analytics,5,Submitted,False,2022-08-15,2023-07-19,Low
+T2021067,Smith-Bowen Systems,IoT,Training,Conference,1914525408.66,27.4,IoT,7,Awarded,True,2021-03-23,2023-07-04,High
+T2021068,Burton Ltd Solutions,Cybersecurity,Training,LinkedIn,1091847250.64,26.08,Cybersecurity,8,Lost,False,2022-07-06,2021-04-23,High
+T2021069,Davis and Sons Technologies,Cloud Migration,Implementation,Conference,831295582.11,29.07,Cloud Migration,12,Lost,True,2023-10-05,2021-08-05,Medium
+T2021070,"Adams, Zuniga and Wong Technologies",Blockchain,Managed Services,Conference,1780033649.47,41.14,Blockchain,5,Awarded,True,2023-04-01,2024-03-02,Low
+T2021071,BlockChain Innovations,Blockchain,Optimization,LinkedIn,1271096100.62,31.96,Blockchain,9,Awarded,False,2023-08-05,2023-05-27,Low
+T2021072,Wilkerson-Day Systems,IoT,Optimization,Referral,1520495553.2,33.3,IoT,10,Submitted,True,2021-09-26,2022-09-12,Medium
+T2021073,Smith-Bowen Systems,IoT,Integration,LinkedIn,809249873.99,25.82,IoT,6,Submitted,True,2023-04-16,2021-08-09,Medium
+T2021074,ERP Masters,ERP Implementation,Assessment,LinkedIn,1314668896.26,22.61,ERP Implementation,10,Lost,True,2022-07-14,2023-05-31,High
+T2021075,Perez Inc Solutions,AI/ML,Implementation,LinkedIn,1334322810.21,36.25,AI/ML,7,Lost,True,2021-10-07,2021-06-22,Medium
+T2021076,"Adams, Zuniga and Wong Technologies",Blockchain,Optimization,Conference,1289385245.85,36.6,Blockchain,7,Submitted,False,2023-09-30,2021-12-01,Medium
+T2021077,Perez Inc Solutions,AI/ML,Assessment,LinkedIn,970624128.09,36.47,AI/ML,8,Awarded,True,2022-01-22,2022-06-04,Medium
+T2021078,Blake and Sons Solutions,IoT,Integration,LinkedIn,1386301373.47,41.33,Data Analytics,10,Lost,True,2021-11-08,2023-11-11,High
+T2021079,"Rodriguez, Figueroa and Sanchez Technologies",Cloud Migration,Optimization,Conference,1464414530.38,19.04,Cloud Migration,9,Lost,True,2023-07-25,2021-03-03,High
+T2021080,"Adams, Zuniga and Wong Technologies",Cybersecurity,Managed Services,LinkedIn,1522897580.54,25.13,Blockchain,6,Awarded,True,2021-06-14,2022-12-04,High
+T2021081,Baker and Sons Systems,Blockchain,Optimization,LinkedIn,940150553.29,45.79,Blockchain,10,Awarded,True,2022-04-26,2022-09-11,High
+T2021082,"Romero, Gonzalez and Brooks Labs",Blockchain,Assessment,Email,1361141546.52,44.82,Blockchain,4,Submitted,True,2021-03-01,2021-05-05,Medium
+T2021083,SecureNet Systems,Cybersecurity,Implementation,LinkedIn,2124480574.21,34.11,Cybersecurity,5,Awarded,True,2022-01-04,2022-01-14,Low
+T2021084,Carlson-Cruz Labs,Data Analytics,Implementation,Conference,959223278.15,26.77,Cybersecurity,5,Awarded,True,2022-06-07,2021-02-19,High
+T2021085,"Watts, Robinson and Nguyen Technologies",Cybersecurity,Training,LinkedIn,941525691.47,25.55,Data Analytics,6,Submitted,False,2022-05-28,2023-08-24,High
+T2021086,"Guzman, Hoffman and Baldwin Technologies",Blockchain,Training,LinkedIn,1332204427.55,39.61,IoT,9,Awarded,True,2022-08-28,2021-03-16,High
+T2021087,"Dyer, Potter and Mack Solutions",AI/ML,Training,LinkedIn,1541328052.8,36.38,AI/ML,4,Awarded,False,2022-08-10,2022-05-17,Medium
+T2021088,Williams and Sons Technologies,Cloud Migration,Integration,LinkedIn,1859950110.74,25.07,Cloud Migration,12,Awarded,False,2021-10-08,2021-08-17,High
+T2021089,Frazier Inc Systems,Data Analytics,Training,Referral,2719750619.27,26.68,Data Analytics,3,Awarded,True,2022-08-28,2022-12-01,High
+T2021090,Davis and Sons Technologies,Cloud Migration,Training,Referral,929918970.72,28.13,Cloud Migration,13,Awarded,True,2021-12-03,2022-07-11,High
+T2021091,Perez Inc Solutions,Digital Transformation,Optimization,Referral,1389899116.72,16.65,AI/ML,8,Submitted,False,2021-10-16,2022-05-08,High
+T2021092,Harrell LLC Solutions,ERP Implementation,Strategy,LinkedIn,1489871076.33,18.88,ERP Implementation,13,Awarded,True,2021-09-11,2023-08-20,Medium
+T2021093,"Romero, Gonzalez and Brooks Labs",Blockchain,Strategy,LinkedIn,1176613936.66,42.37,Blockchain,8,Awarded,True,2022-11-03,2022-04-29,Medium
+T2021094,"Ferrell, Rice and Maddox Systems",Digital Transformation,Implementation,Conference,763406422.74,17.77,IoT,4,Submitted,True,2023-10-06,2021-09-25,Low
+T2021095,Baker and Sons Systems,Blockchain,Training,LinkedIn,1554896649.9,37.77,Blockchain,9,Awarded,True,2023-04-30,2021-08-21,High
+T2021096,Carlson-Cruz Labs,Cybersecurity,Integration,Email,827594323.95,31.07,Cybersecurity,4,Awarded,True,2022-04-29,2023-02-12,Low
+T2021097,Rodriguez-Graham Systems,AI/ML,Strategy,Email,1349973086.0,35.87,AI/ML,6,Awarded,True,2021-09-08,2023-08-20,Low
+T2021098,"Gardner, Robinson and Lawrence Technologies",AI/ML,Strategy,LinkedIn,1259364179.08,30.58,AI/ML,4,Awarded,True,2021-09-15,2024-04-01,Medium
+T2021099,"Hoffman, Baker and Richards Systems",Cybersecurity,Managed Services,LinkedIn,853506904.36,30.29,Cybersecurity,5,Awarded,False,2021-01-06,2022-08-21,High
+T2021100,Doyle Ltd Solutions,Digital Transformation,Integration,Referral,1422939496.52,23.79,Digital Transformation,4,Lost,True,2023-01-04,2022-06-02,Medium
+T2021101,CloudScape Technologies,Cloud Migration,Training,LinkedIn,1649760387.46,30.42,Cloud Migration,14,Submitted,True,2023-07-08,2023-02-11,Medium
+T2021102,IoT Connect,IoT,Integration,LinkedIn,907684824.75,25.11,IoT,3,Awarded,False,2023-12-04,2022-10-10,Medium
+T2021103,CloudScape Technologies,Cloud Migration,Assessment,Conference,1403017434.05,27.58,Cloud Migration,14,Awarded,True,2023-06-28,2021-06-30,High
+T2021104,Arnold Ltd Solutions,Digital Transformation,Training,LinkedIn,3820223348.99,24.58,Digital Transformation,7,Awarded,True,2022-10-28,2023-03-22,High
+T2021105,Wilkerson-Day Systems,IoT,Strategy,Conference,1690727879.41,34.85,IoT,9,Awarded,True,2022-03-17,2023-06-30,Medium
+T2021106,Blake and Sons Solutions,Data Analytics,Assessment,Referral,1462148336.34,32.77,Data Analytics,9,Awarded,True,2022-10-03,2022-07-07,Medium
+T2021107,Doyle Ltd Solutions,Digital Transformation,Optimization,Conference,1510106545.37,20.42,Digital Transformation,4,Submitted,True,2023-02-03,2021-10-24,Medium
+T2021108,"Snyder, Campos and Callahan Technologies",ERP Implementation,Managed Services,Conference,1120129003.1,16.14,Digital Transformation,14,Lost,False,2023-05-17,2021-05-16,High
+T2021109,Burton Ltd Solutions,Cybersecurity,Implementation,LinkedIn,1232508697.68,27.57,Cybersecurity,8,Submitted,True,2021-08-10,2023-01-18,High
+T2021110,Galloway-Wyatt Technologies,IoT,Optimization,LinkedIn,686815133.27,43.57,IoT,6,Awarded,True,2021-02-23,2022-08-01,Low
+T2021111,Abbott-Munoz Systems,Digital Transformation,Strategy,Email,741318205.07,25.43,Blockchain,8,Submitted,True,2023-04-01,2021-06-22,Low
+T2021112,"Ferrell, Rice and Maddox Systems",Cloud Migration,Assessment,Referral,1667248430.44,22.64,IoT,11,Awarded,True,2023-01-28,2022-10-31,High
+T2021113,"Ross, Robinson and Bright Solutions",ERP Implementation,Implementation,Referral,870372505.84,20.32,ERP Implementation,10,Awarded,True,2021-06-17,2022-08-11,Medium
+T2021114,"Reid, Ferguson and Sanchez Technologies",IoT,Implementation,Conference,1474573457.65,28.42,IoT,7,Awarded,True,2023-05-31,2021-09-15,Medium
+T2021115,Rodriguez-Graham Systems,AI/ML,Strategy,LinkedIn,1283289905.14,31.35,AI/ML,6,Submitted,False,2021-04-23,2021-02-15,Medium
+T2021116,"Gardner, Robinson and Lawrence Technologies",Digital Transformation,Strategy,LinkedIn,989069514.42,22.23,AI/ML,4,Awarded,True,2021-09-22,2023-03-20,Medium
+T2021117,Blake and Sons Solutions,Data Analytics,Strategy,Referral,1454504290.46,38.72,Data Analytics,8,Awarded,False,2023-06-13,2021-03-10,Medium
+T2021118,AI Nexus,IoT,Managed Services,Conference,1271790482.67,21.87,AI/ML,9,Submitted,True,2022-10-28,2022-01-17,High
+T2021119,Carlson-Cruz Labs,Cybersecurity,Strategy,Conference,1553047985.81,26.69,Cybersecurity,6,Awarded,True,2023-06-12,2023-05-01,Medium
+T2021120,"Flowers, Martin and Kelly Technologies",ERP Implementation,Strategy,LinkedIn,1161913842.25,16.04,Digital Transformation,10,Awarded,True,2023-11-11,2022-03-04,High
+T2021121,Williams and Sons Technologies,Cloud Migration,Implementation,Email,1559267251.42,27.52,Cloud Migration,10,Submitted,True,2021-12-22,2021-12-10,High
+T2021122,Frazier Inc Systems,Data Analytics,Assessment,Email,1087780162.27,22.0,Data Analytics,10,Awarded,False,2023-07-09,2024-04-01,Medium
+T2021123,Carlson-Cruz Labs,Cybersecurity,Implementation,Email,988556651.21,27.63,Cybersecurity,6,Awarded,True,2022-09-13,2022-08-16,Medium
+T2021124,Williams and Sons Technologies,Cloud Migration,Strategy,LinkedIn,1357960518.34,33.83,Cloud Migration,15,Submitted,False,2021-06-07,2021-08-03,Medium
+T2021125,"Walter, Edwards and Rios Technologies",Data Analytics,Assessment,Conference,1583833265.47,21.7,Data Analytics,3,Lost,True,2022-01-21,2022-11-20,Medium
+T2021126,"Walter, Edwards and Rios Technologies",Data Analytics,Optimization,LinkedIn,1639233935.49,38.61,Data Analytics,4,Lost,True,2021-06-22,2023-11-30,Medium
+T2021127,DataMind Analytics,Data Analytics,Training,Conference,1039998447.3,20.4,Data Analytics,10,Awarded,True,2023-02-03,2022-09-02,Medium
+T2021128,"Mcclure, Ward and Lee Systems",Data Analytics,Strategy,LinkedIn,972571778.83,34.33,Data Analytics,8,Awarded,True,2023-03-03,2022-09-04,Medium
+T2021129,"Dyer, Potter and Mack Solutions",Cybersecurity,Integration,LinkedIn,1517219916.77,32.22,AI/ML,8,Submitted,True,2023-03-14,2021-10-22,Medium
+T2021130,BlockChain Innovations,Blockchain,Optimization,LinkedIn,1181319265.09,35.37,Blockchain,8,Submitted,False,2023-12-15,2021-08-10,Medium
+T2021131,"Reid, Ferguson and Sanchez Technologies",IoT,Implementation,LinkedIn,884416785.75,15.79,IoT,7,Lost,True,2023-09-23,2022-02-28,Medium
+T2021132,"Rodriguez, Figueroa and Sanchez Technologies",Cloud Migration,Training,LinkedIn,827086898.62,23.74,Cloud Migration,9,Awarded,False,2023-12-15,2021-04-18,Medium
+T2021133,Carlson-Cruz Labs,Cybersecurity,Implementation,LinkedIn,783054507.81,38.16,Cybersecurity,5,Lost,False,2021-12-06,2023-07-16,Low
+T2021134,Galloway-Wyatt Technologies,IoT,Training,LinkedIn,1250710281.61,29.8,IoT,10,Submitted,False,2023-07-09,2022-05-25,Medium
+T2021135,Dudley Group Systems,Blockchain,Managed Services,Email,781711757.2,47.21,IoT,6,Awarded,True,2023-06-22,2023-09-03,High
+T2021136,James Group Systems,ERP Implementation,Optimization,Conference,1206301853.79,25.82,ERP Implementation,10,Submitted,True,2022-05-28,2021-05-17,Medium
+T2021137,Galloway-Wyatt Technologies,IoT,Managed Services,LinkedIn,1381431781.74,27.09,IoT,4,Submitted,True,2023-07-10,2023-12-18,Low
+T2021138,"Reid, Ferguson and Sanchez Technologies",IoT,Managed Services,Email,1004434180.9,33.0,IoT,10,Lost,True,2023-03-23,2023-11-25,Medium
+T2021139,James Group Systems,ERP Implementation,Strategy,LinkedIn,1071324103.12,20.35,ERP Implementation,13,Lost,True,2021-10-27,2021-11-08,Low
+T2021140,Perez Inc Solutions,AI/ML,Assessment,LinkedIn,1466866722.11,35.57,AI/ML,7,Awarded,False,2021-02-08,2022-07-09,Medium
+T2021141,Doyle Ltd Solutions,Digital Transformation,Strategy,Referral,829563842.22,29.93,Digital Transformation,9,Awarded,True,2021-09-07,2021-05-08,Medium
+T2021142,"Ferrell, Rice and Maddox Systems",Blockchain,Training,LinkedIn,669558393.68,50.67,IoT,10,Awarded,True,2022-05-11,2021-11-21,Medium
+T2021143,TechNovate Solutions,Digital Transformation,Implementation,LinkedIn,1434741371.4,21.24,Digital Transformation,9,Awarded,True,2023-01-09,2021-06-18,High
+T2021144,Baker and Sons Systems,Blockchain,Assessment,Email,997682276.17,41.4,Blockchain,3,Lost,True,2023-03-04,2023-03-06,Medium
+T2021145,CloudScape Technologies,Cloud Migration,Integration,LinkedIn,1037266784.3,23.96,Cloud Migration,11,Awarded,True,2022-11-12,2021-10-31,Low
+T2021146,Baker and Sons Systems,Blockchain,Integration,Conference,1551729431.43,37.05,Blockchain,10,Awarded,True,2021-10-04,2021-06-09,High
+T2021147,"Watts, Robinson and Nguyen Technologies",Data Analytics,Strategy,LinkedIn,976887837.46,29.79,Data Analytics,6,Awarded,True,2023-03-27,2024-02-17,Medium
+T2021148,DataMind Analytics,Data Analytics,Optimization,LinkedIn,1318743379.97,32.5,Data Analytics,3,Awarded,True,2023-01-24,2023-07-14,High
+T2021149,"Romero, Gonzalez and Brooks Labs",Blockchain,Implementation,Email,1452633468.9,44.06,Blockchain,8,Awarded,True,2023-11-30,2022-07-31,High
+T2021150,Harrell LLC Solutions,ERP Implementation,Training,Conference,1016570929.67,15.86,ERP Implementation,10,Submitted,True,2022-11-03,2022-09-28,Medium
+T2021151,Burton Ltd Solutions,Cybersecurity,Assessment,Conference,1444264971.15,33.74,Cybersecurity,6,Submitted,False,2022-12-24,2023-07-10,Medium
+T2021152,SecureNet Systems,Cybersecurity,Training,Conference,1245687588.05,29.9,Cybersecurity,6,Lost,True,2021-03-05,2021-11-19,High
+T2021153,Rodriguez-Graham Systems,AI/ML,Optimization,LinkedIn,1007042709.44,41.39,AI/ML,5,Awarded,True,2021-03-08,2021-12-11,Medium
+T2021154,Galloway-Wyatt Technologies,IoT,Training,Referral,1131825307.99,34.74,IoT,5,Awarded,True,2022-07-25,2022-06-26,High
+T2021155,CloudScape Technologies,Blockchain,Managed Services,LinkedIn,1672170524.22,38.91,Cloud Migration,4,Awarded,False,2022-03-16,2022-09-07,Medium
+T2021156,Morales-Jones Technologies,Digital Transformation,Assessment,LinkedIn,1535018346.12,26.13,Digital Transformation,4,Submitted,False,2021-06-29,2022-11-16,Medium
+T2021157,"Baker, Mason and White Solutions",Cloud Migration,Optimization,Conference,1210206001.78,31.53,Cloud Migration,12,Submitted,False,2021-12-23,2023-02-10,Medium
+T2021158,ERP Masters,Cybersecurity,Strategy,LinkedIn,1095717516.69,33.41,ERP Implementation,7,Awarded,True,2023-08-16,2024-03-05,Low
+T2021159,BlockChain Innovations,Blockchain,Training,LinkedIn,1156555886.94,41.62,Blockchain,10,Awarded,True,2021-06-01,2021-10-14,High
+T2021160,Frazier Inc Systems,Data Analytics,Implementation,Conference,1437688405.31,28.48,Data Analytics,8,Lost,False,2022-01-08,2021-10-22,Medium
+T2021161,SecureNet Systems,Cybersecurity,Managed Services,LinkedIn,2252871499.96,25.91,Cybersecurity,5,Lost,True,2023-11-29,2022-09-04,High
+T2021162,Garcia-James Solutions,IoT,Implementation,Email,835464733.58,26.97,IoT,7,Awarded,True,2021-07-11,2023-11-26,Medium
+T2021163,"Snyder, Campos and Callahan Technologies",Cybersecurity,Integration,LinkedIn,1524990606.28,35.79,Digital Transformation,8,Lost,True,2021-03-26,2021-03-30,Low
+T2021164,Frazier Inc Systems,Digital Transformation,Training,Conference,1452074312.96,25.12,Data Analytics,9,Awarded,True,2022-08-17,2022-10-11,Medium
+T2021165,Rodriguez-Graham Systems,AI/ML,Implementation,LinkedIn,918799943.73,34.94,AI/ML,4,Awarded,True,2022-02-22,2022-12-28,Medium
+T2021166,Arnold Ltd Solutions,ERP Implementation,Assessment,Referral,981513931.36,20.38,Digital Transformation,13,Submitted,True,2021-08-06,2022-11-15,Medium
+T2021167,ERP Masters,ERP Implementation,Strategy,LinkedIn,1150702042.19,24.88,ERP Implementation,9,Submitted,True,2023-05-07,2022-06-23,High
+T2021168,"Mcclain, Miller and Henderson Solutions",ERP Implementation,Assessment,LinkedIn,1092068593.1,15.87,Data Analytics,10,Lost,True,2022-09-24,2023-11-15,Low
+T2021169,"Flowers, Martin and Kelly Technologies",Digital Transformation,Training,Email,1015490834.3,24.06,Digital Transformation,6,Awarded,True,2023-10-11,2023-09-21,Medium
+T2021170,TechNovate Solutions,IoT,Integration,LinkedIn,1293815500.92,27.89,Digital Transformation,7,Awarded,True,2021-04-03,2023-05-01,Low
+T2021171,"Hoffman, Baker and Richards Systems",Cybersecurity,Assessment,Conference,1032937298.07,31.22,Cybersecurity,4,Awarded,False,2022-07-27,2021-10-01,Low
+T2021172,IoT Connect,IoT,Training,Referral,1289306430.8,29.64,IoT,8,Lost,False,2022-02-12,2023-12-09,Medium
+T2021173,DataMind Analytics,Data Analytics,Optimization,LinkedIn,788400010.59,20.76,Data Analytics,8,Awarded,True,2023-11-22,2021-11-13,Medium
+T2021174,Carlson-Cruz Labs,Cybersecurity,Integration,LinkedIn,1128010313.85,26.41,Cybersecurity,8,Lost,True,2023-11-05,2023-12-10,Medium
+T2021175,"Baker, Mason and White Solutions",Cloud Migration,Managed Services,Conference,1872166482.61,26.55,Cloud Migration,8,Awarded,True,2023-05-04,2022-10-23,High
+T2021176,Harrell LLC Solutions,AI/ML,Integration,LinkedIn,1146263913.79,39.29,ERP Implementation,6,Awarded,False,2022-04-12,2021-05-16,Medium
+T2021177,"Mcclain, Miller and Henderson Solutions",Data Analytics,Implementation,Referral,890235390.64,27.9,Data Analytics,9,Lost,True,2021-08-14,2022-02-25,Low
+T2021178,Arnold Ltd Solutions,Digital Transformation,Assessment,Conference,1102843506.53,21.91,Digital Transformation,6,Awarded,True,2023-08-24,2021-06-07,High
+T2021179,Wilkerson-Day Systems,IoT,Training,LinkedIn,938305358.32,33.61,IoT,10,Awarded,False,2023-07-31,2024-01-27,Medium
+T2021180,Williams and Sons Technologies,Cloud Migration,Training,Referral,1904674477.33,27.6,Cloud Migration,12,Awarded,False,2022-07-26,2024-03-18,Medium
+T2021181,Dudley Group Systems,Data Analytics,Managed Services,Conference,1356629016.81,27.46,IoT,10,Awarded,True,2022-07-15,2022-09-12,Low
+T2021182,Rodriguez-Graham Systems,AI/ML,Optimization,Referral,1066223856.56,38.45,AI/ML,7,Awarded,False,2021-10-27,2022-09-17,Low
+T2021183,"Baker, Mason and White Solutions",Cloud Migration,Integration,Email,1207155978.8,26.12,Cloud Migration,12,Awarded,True,2022-07-10,2024-03-27,Medium
+T2021184,"Rodriguez, Figueroa and Sanchez Technologies",Cloud Migration,Implementation,Referral,953692970.57,25.49,Cloud Migration,11,Submitted,False,2022-04-08,2022-05-22,Low
+T2021185,"Adams, Zuniga and Wong Technologies",Blockchain,Strategy,LinkedIn,1396388037.32,40.12,Blockchain,5,Lost,False,2021-11-20,2023-05-14,Medium
+T2021186,Perez Inc Solutions,AI/ML,Managed Services,LinkedIn,1603631411.74,42.26,AI/ML,6,Submitted,True,2021-07-03,2022-05-21,Medium
+T2021187,Harrell LLC Solutions,AI/ML,Assessment,Email,955314353.37,45.77,ERP Implementation,5,Lost,True,2021-03-16,2023-04-24,High
+T2021188,Davis and Sons Technologies,Digital Transformation,Managed Services,Referral,1270603575.36,26.36,Cloud Migration,3,Awarded,True,2022-11-18,2022-09-05,Medium
+T2021189,Frazier Inc Systems,Data Analytics,Optimization,Conference,943649906.32,38.95,Data Analytics,5,Awarded,True,2021-08-19,2022-12-09,Low
+T2021190,"Watts, Robinson and Nguyen Technologies",Data Analytics,Integration,Referral,1004682577.56,23.8,Data Analytics,3,Awarded,True,2022-01-31,2022-01-25,Medium
+T2021191,"Ferrell, Rice and Maddox Systems",IoT,Assessment,Conference,1027124279.23,21.38,IoT,4,Awarded,True,2021-10-15,2023-10-05,Medium
+T2021192,"Henderson, Ramirez and Lewis Solutions",AI/ML,Optimization,LinkedIn,1258106204.47,31.2,AI/ML,7,Submitted,True,2021-01-24,2022-07-20,Medium
+T2021193,Smith-Bowen Systems,IoT,Managed Services,Conference,2111377744.33,33.71,IoT,10,Submitted,True,2022-09-29,2021-09-28,Medium
+T2021194,Blair PLC Solutions,AI/ML,Assessment,LinkedIn,1011483783.47,39.75,AI/ML,5,Submitted,False,2023-02-05,2023-06-01,High
+T2021195,Perez Inc Solutions,Data Analytics,Training,Referral,1393843715.08,23.51,AI/ML,4,Awarded,False,2021-06-09,2024-03-31,Low
+T2021196,"Hoffman, Baker and Richards Systems",Data Analytics,Implementation,Conference,2083245620.0,21.4,Cybersecurity,5,Awarded,True,2021-08-27,2022-03-27,High
+T2021197,Morales-Jones Technologies,Digital Transformation,Assessment,Conference,1044707295.73,27.9,Digital Transformation,3,Submitted,True,2021-04-29,2024-03-20,Medium
+T2021198,Dudley Group Systems,IoT,Integration,LinkedIn,1805163472.72,23.43,IoT,3,Submitted,True,2023-05-18,2023-01-06,High
+T2021199,Baker and Sons Systems,Cloud Migration,Strategy,Email,1743394954.66,24.43,Blockchain,15,Submitted,True,2021-10-05,2023-06-10,Medium
+T2021200,James Group Systems,ERP Implementation,Assessment,Email,1004687889.08,12.03,ERP Implementation,14,Submitted,False,2021-09-30,2023-01-13,Low
+T2021201,Baker and Sons Systems,Blockchain,Optimization,LinkedIn,1219674012.49,40.03,Blockchain,6,Submitted,True,2022-09-04,2023-09-06,Medium
+T2021202,Baker and Sons Systems,Blockchain,Implementation,LinkedIn,1449682289.51,37.75,Blockchain,6,Awarded,True,2022-01-22,2021-09-19,Low
+T2021203,"Dyer, Potter and Mack Solutions",AI/ML,Implementation,Conference,1152318035.35,29.66,AI/ML,4,Submitted,True,2021-03-10,2023-08-03,Medium
+T2021204,"Baker, Mason and White Solutions",Data Analytics,Assessment,Referral,1403292262.9,28.6,Cloud Migration,9,Submitted,True,2021-04-26,2021-11-13,Medium
+T2021205,Blair PLC Solutions,AI/ML,Managed Services,Email,858212805.22,38.56,AI/ML,8,Awarded,False,2022-10-19,2022-05-31,Medium
+T2021206,Doyle Ltd Solutions,Data Analytics,Strategy,Conference,1764367887.08,20.33,Digital Transformation,7,Awarded,True,2021-12-25,2023-06-24,Medium
+T2021207,SecureNet Systems,IoT,Integration,Referral,960735137.89,33.66,Cybersecurity,8,Awarded,True,2023-02-10,2022-02-11,High
+T2021208,Perez Inc Solutions,AI/ML,Optimization,LinkedIn,1245070098.47,42.76,AI/ML,5,Awarded,True,2023-04-26,2023-06-03,Medium
+T2021209,"Rodriguez, Figueroa and Sanchez Technologies",Cloud Migration,Integration,LinkedIn,1227212069.36,30.9,Cloud Migration,13,Submitted,True,2023-01-30,2021-08-08,Medium
+T2021210,"Guzman, Hoffman and Baldwin Technologies",IoT,Optimization,LinkedIn,2036212968.76,42.3,IoT,3,Submitted,False,2022-03-21,2023-10-09,Medium
+T2021211,"Mcclure, Ward and Lee Systems",Data Analytics,Implementation,Email,1609559802.99,26.76,Data Analytics,6,Lost,True,2023-09-08,2022-06-11,Medium
+T2021212,"Baker, Mason and White Solutions",Cloud Migration,Optimization,Email,1813174015.6,28.23,Cloud Migration,13,Submitted,True,2023-01-06,2022-10-24,Medium
+T2021213,"Walter, Edwards and Rios Technologies",Blockchain,Optimization,LinkedIn,1477431164.49,35.18,Data Analytics,10,Lost,False,2023-01-30,2022-11-02,Medium
+T2021214,"Ross, Robinson and Bright Solutions",Cybersecurity,Training,LinkedIn,709544258.92,35.29,ERP Implementation,8,Awarded,True,2021-11-09,2022-03-08,Medium
+T2021215,James Group Systems,ERP Implementation,Managed Services,LinkedIn,652280750.19,14.08,ERP Implementation,13,Awarded,True,2023-10-02,2023-09-01,Low
+T2021216,Williams and Sons Technologies,Cloud Migration,Implementation,Referral,1491454948.14,23.65,Cloud Migration,15,Lost,True,2021-05-01,2024-01-09,Low
+T2021217,AI Nexus,AI/ML,Implementation,Conference,1229635613.32,42.51,AI/ML,7,Lost,True,2021-11-06,2021-02-18,Medium
+T2021218,"Watts, Robinson and Nguyen Technologies",Data Analytics,Integration,Conference,794898380.77,36.14,Data Analytics,10,Awarded,True,2023-04-23,2021-02-24,Low
+T2021219,Harrell LLC Solutions,ERP Implementation,Training,Email,1182729771.41,11.48,ERP Implementation,8,Lost,True,2022-01-03,2021-09-07,High
+T2021220,Wilkerson-Day Systems,IoT,Optimization,LinkedIn,1190866290.64,33.92,IoT,7,Awarded,False,2021-06-11,2023-03-06,High
+T2021221,"Watts, Robinson and Nguyen Technologies",Data Analytics,Managed Services,Email,1170877456.07,17.66,Data Analytics,6,Awarded,False,2021-03-06,2021-08-10,Medium
+T2021222,James Group Systems,ERP Implementation,Integration,LinkedIn,1470189356.86,13.48,ERP Implementation,8,Submitted,True,2023-06-08,2022-12-10,Medium
+T2021223,IoT Connect,AI/ML,Assessment,LinkedIn,907125478.53,36.83,IoT,8,Submitted,False,2022-07-29,2024-02-17,Medium
+T2021224,DataMind Analytics,Data Analytics,Implementation,Referral,875224709.68,25.43,Data Analytics,3,Awarded,False,2023-03-27,2021-07-07,Medium
+T2021225,"Ross, Robinson and Bright Solutions",ERP Implementation,Integration,Referral,1601646460.86,19.69,ERP Implementation,14,Lost,True,2021-10-14,2021-07-10,Medium
+T2021226,Williams and Sons Technologies,Cloud Migration,Managed Services,Conference,1398924037.77,20.07,Cloud Migration,9,Awarded,True,2023-03-24,2022-11-30,Low
+T2021227,Abbott-Munoz Systems,Blockchain,Training,LinkedIn,948026894.27,37.35,Blockchain,8,Lost,True,2023-02-18,2021-07-25,High
+T2021228,Blair PLC Solutions,Cloud Migration,Assessment,LinkedIn,881541451.27,24.46,AI/ML,10,Awarded,True,2023-03-09,2022-11-10,Medium
+T2021229,BlockChain Innovations,Blockchain,Optimization,LinkedIn,839562861.36,37.23,Blockchain,8,Submitted,True,2022-01-19,2023-07-02,Medium
+T2021230,"Hoffman, Baker and Richards Systems",Cybersecurity,Managed Services,LinkedIn,1215394247.41,39.82,Cybersecurity,4,Awarded,True,2022-10-27,2023-03-30,Low
+T2021231,"Adams, Zuniga and Wong Technologies",Blockchain,Training,LinkedIn,1282336000.79,36.5,Blockchain,6,Awarded,True,2021-12-14,2021-11-11,Medium
+T2021232,Abbott-Munoz Systems,Blockchain,Managed Services,LinkedIn,1125467564.47,39.44,Blockchain,9,Awarded,True,2021-06-07,2023-02-09,Medium
+T2021233,"Henderson, Ramirez and Lewis Solutions",Blockchain,Assessment,LinkedIn,1509444579.55,43.07,AI/ML,6,Submitted,True,2023-03-22,2022-12-12,High
+T2021234,James Group Systems,ERP Implementation,Optimization,Conference,1011813201.01,17.35,ERP Implementation,14,Lost,True,2021-10-06,2022-10-08,Medium
+T2021235,Smith-Bowen Systems,IoT,Managed Services,LinkedIn,602849977.11,30.62,IoT,9,Submitted,True,2023-10-03,2022-06-11,Medium
+T2021236,Abbott-Munoz Systems,IoT,Training,LinkedIn,1812218385.7,24.42,Blockchain,6,Lost,True,2021-02-25,2023-09-03,High
+T2021237,"Gardner, Robinson and Lawrence Technologies",AI/ML,Optimization,LinkedIn,1116030987.52,43.22,AI/ML,4,Lost,False,2023-10-20,2021-11-12,Medium
+T2021238,"Henderson, Ramirez and Lewis Solutions",AI/ML,Optimization,LinkedIn,1320307268.13,37.88,AI/ML,7,Awarded,True,2023-09-09,2023-05-01,Medium
+T2021239,Smith-Bowen Systems,IoT,Integration,LinkedIn,1682636511.69,47.39,IoT,8,Lost,True,2021-06-24,2021-09-11,High
+T2021240,"Dyer, Potter and Mack Solutions",AI/ML,Strategy,LinkedIn,902873620.83,34.36,AI/ML,8,Awarded,True,2023-03-30,2022-12-11,High
+T2021241,"Reid, Ferguson and Sanchez Technologies",IoT,Training,LinkedIn,1278296756.45,23.97,IoT,6,Awarded,True,2022-03-29,2023-08-01,Medium
+T2021242,"Watts, Robinson and Nguyen Technologies",Cybersecurity,Assessment,LinkedIn,784909644.13,26.22,Data Analytics,4,Submitted,True,2021-06-25,2021-09-25,High
+T2021243,Harrell LLC Solutions,ERP Implementation,Optimization,LinkedIn,869380005.23,16.77,ERP Implementation,15,Submitted,True,2023-09-03,2021-08-18,Medium
+T2021244,Smith-Bowen Systems,IoT,Optimization,LinkedIn,1566715467.64,40.44,IoT,3,Awarded,True,2022-12-04,2021-09-11,Medium
+T2021245,"Mcclain, Miller and Henderson Solutions",Data Analytics,Managed Services,Conference,1874745062.86,27.96,Data Analytics,5,Awarded,False,2022-04-20,2023-05-10,Medium
+T2021246,Davis and Sons Technologies,Cloud Migration,Integration,Conference,928768449.42,25.39,Cloud Migration,8,Awarded,True,2023-05-30,2023-04-07,Low
+T2021247,"Gardner, Robinson and Lawrence Technologies",AI/ML,Training,Conference,1413632248.99,42.62,AI/ML,4,Submitted,False,2022-01-18,2023-02-19,Medium
+T2021248,"Watts, Robinson and Nguyen Technologies",Data Analytics,Training,Conference,1135857461.75,22.81,Data Analytics,10,Lost,True,2023-03-07,2023-04-14,Medium
+T2021249,Williams and Sons Technologies,Cloud Migration,Optimization,Conference,794255185.34,20.62,Cloud Migration,10,Awarded,False,2021-06-23,2021-11-01,Medium
+T2021250,"Henderson, Ramirez and Lewis Solutions",AI/ML,Training,LinkedIn,2132541442.97,39.63,AI/ML,5,Awarded,True,2023-02-25,2023-06-16,Low
+T2021251,"Ferrell, Rice and Maddox Systems",IoT,Training,Email,1423872415.39,25.01,IoT,5,Submitted,True,2022-01-19,2022-11-06,High
+T2021252,Carlson-Cruz Labs,Cybersecurity,Assessment,LinkedIn,1039096750.77,26.75,Cybersecurity,4,Submitted,False,2023-11-02,2023-11-10,Medium
+T2021253,Morales-Jones Technologies,Digital Transformation,Implementation,Referral,928014622.92,19.04,Digital Transformation,10,Submitted,True,2022-03-28,2022-09-21,Low
+T2021254,Blake and Sons Solutions,Data Analytics,Training,LinkedIn,937259026.21,28.24,Data Analytics,10,Awarded,False,2023-11-13,2021-09-19,Medium
+T2021255,Abbott-Munoz Systems,ERP Implementation,Optimization,Conference,1184615215.5,21.35,Blockchain,8,Awarded,True,2023-05-21,2021-08-28,High
+T2021256,Frazier Inc Systems,Digital Transformation,Assessment,Referral,915962680.84,20.81,Data Analytics,3,Submitted,False,2021-06-28,2023-07-19,High
+T2021257,ERP Masters,Data Analytics,Optimization,LinkedIn,1508486469.07,25.12,ERP Implementation,8,Awarded,True,2021-12-06,2021-11-12,High
+T2021258,"Gardner, Robinson and Lawrence Technologies",ERP Implementation,Managed Services,Conference,896930292.82,22.5,AI/ML,10,Lost,True,2022-07-02,2023-12-20,High
+T2021259,Rodriguez-Graham Systems,Cybersecurity,Strategy,Email,1506675516.66,30.5,AI/ML,7,Lost,False,2021-09-17,2021-10-29,Medium
+T2021260,"Baker, Mason and White Solutions",Cloud Migration,Assessment,LinkedIn,1415520771.45,16.65,Cloud Migration,14,Submitted,True,2023-04-29,2023-03-10,Medium
+T2021261,"Ferrell, Rice and Maddox Systems",Cloud Migration,Integration,Conference,1427135149.18,21.69,IoT,12,Lost,True,2023-09-27,2022-12-02,Medium
+T2021262,Harrell LLC Solutions,ERP Implementation,Optimization,Email,699789860.59,16.18,ERP Implementation,13,Submitted,True,2022-03-23,2023-06-29,High
+T2021263,Morales-Jones Technologies,Digital Transformation,Training,Referral,1220078164.6,13.86,Digital Transformation,8,Awarded,True,2023-09-21,2023-01-04,High
+T2021264,SecureNet Systems,Cybersecurity,Strategy,Conference,916855364.96,31.3,Cybersecurity,7,Submitted,False,2023-06-23,2023-08-23,Low
+T2021265,"Reid, Ferguson and Sanchez Technologies",IoT,Integration,Conference,730543444.96,35.19,IoT,5,Awarded,False,2022-07-16,2021-08-10,Medium
+T2021266,Garcia-James Solutions,IoT,Strategy,Conference,836260243.83,31.67,IoT,5,Awarded,True,2022-04-25,2023-06-29,Medium
+T2021267,"Baker, Mason and White Solutions",Cloud Migration,Implementation,LinkedIn,1219826997.58,21.74,Cloud Migration,9,Awarded,True,2023-07-01,2021-02-19,Low
+T2021268,"Mcclure, Ward and Lee Systems",IoT,Strategy,Conference,1071567766.84,27.7,Data Analytics,10,Submitted,True,2021-07-29,2021-08-30,Medium
+T2021269,Dudley Group Systems,IoT,Integration,Referral,1011487359.92,37.03,IoT,5,Lost,True,2023-12-23,2024-03-29,Low
+T2021270,Frazier Inc Systems,Data Analytics,Integration,LinkedIn,856909802.09,32.18,Data Analytics,6,Awarded,False,2023-06-26,2022-04-20,Low
+T2021271,IoT Connect,IoT,Managed Services,LinkedIn,1853285533.96,34.65,IoT,9,Lost,True,2021-10-14,2022-06-22,Medium
+T2021272,BlockChain Innovations,Blockchain,Optimization,Conference,946883574.63,27.64,Blockchain,7,Lost,True,2022-09-10,2022-03-27,Medium
+T2021273,"Walter, Edwards and Rios Technologies",Data Analytics,Optimization,LinkedIn,1131535801.38,30.89,Data Analytics,3,Lost,False,2023-10-11,2023-04-01,Low
+T2021274,Morales-Jones Technologies,Digital Transformation,Managed Services,LinkedIn,1003299316.82,23.86,Digital Transformation,3,Lost,True,2023-05-12,2023-02-18,Medium
+T2021275,Davis and Sons Technologies,Cloud Migration,Strategy,LinkedIn,1147730221.31,25.43,Cloud Migration,9,Submitted,True,2021-05-04,2023-04-26,Medium
+T2021276,"Ferrell, Rice and Maddox Systems",IoT,Strategy,Conference,1297988417.67,37.84,IoT,9,Awarded,True,2021-11-09,2022-08-22,Low
+T2021277,BlockChain Innovations,Blockchain,Training,LinkedIn,1062820636.9,41.69,Blockchain,5,Awarded,True,2021-05-16,2022-10-28,Medium
+T2021278,Harrell LLC Solutions,Data Analytics,Assessment,LinkedIn,1056246922.09,25.56,ERP Implementation,4,Submitted,True,2021-04-23,2022-10-26,Medium
+T2021279,"Dyer, Potter and Mack Solutions",Cloud Migration,Integration,LinkedIn,1059920704.01,26.97,AI/ML,10,Submitted,True,2022-12-12,2024-01-07,Medium
+T2021280,Harrell LLC Solutions,ERP Implementation,Integration,LinkedIn,2241420197.33,21.45,ERP Implementation,12,Lost,False,2021-03-02,2022-12-18,High
+T2021281,Abbott-Munoz Systems,Blockchain,Assessment,LinkedIn,1090550246.74,44.36,Blockchain,4,Awarded,True,2023-10-21,2022-01-07,Medium
+T2021282,Garcia-James Solutions,Cloud Migration,Strategy,LinkedIn,1064033451.85,31.01,IoT,8,Lost,True,2021-04-05,2023-09-24,Medium
+T2021283,Doyle Ltd Solutions,Digital Transformation,Training,Email,888752529.94,11.81,Digital Transformation,3,Lost,False,2023-05-09,2022-05-05,Medium
+T2021284,"Adams, Zuniga and Wong Technologies",ERP Implementation,Training,LinkedIn,1082242629.34,10.65,Blockchain,9,Awarded,True,2021-04-18,2022-02-02,Medium
+T2021285,Wilkerson-Day Systems,IoT,Optimization,LinkedIn,1988579641.12,32.09,IoT,10,Submitted,False,2022-11-02,2021-07-26,Medium
+T2021286,TechNovate Solutions,Digital Transformation,Integration,LinkedIn,1126098814.97,23.63,Digital Transformation,7,Awarded,True,2023-10-08,2022-03-07,High
+T2021287,Baker and Sons Systems,Data Analytics,Strategy,LinkedIn,619494689.2,32.15,Blockchain,9,Submitted,True,2021-01-20,2022-12-18,Low
+T2021288,"Dyer, Potter and Mack Solutions",AI/ML,Strategy,Conference,1515505429.57,36.18,AI/ML,6,Submitted,False,2023-05-10,2023-11-04,High
+T2021289,Doyle Ltd Solutions,Cloud Migration,Optimization,LinkedIn,1694886293.32,17.61,Digital Transformation,11,Awarded,False,2023-02-02,2023-08-27,High
+T2021290,BlockChain Innovations,Blockchain,Strategy,LinkedIn,1061733625.45,41.69,Blockchain,9,Awarded,True,2021-09-25,2022-05-30,Medium
+T2021291,Arnold Ltd Solutions,IoT,Managed Services,Referral,2376662753.77,35.16,Digital Transformation,8,Awarded,True,2022-02-20,2021-11-05,High
+T2021292,"Snyder, Campos and Callahan Technologies",Digital Transformation,Assessment,LinkedIn,1295576303.19,22.91,Digital Transformation,10,Awarded,True,2023-01-04,2022-04-01,Medium
+T2021293,"Watts, Robinson and Nguyen Technologies",Data Analytics,Optimization,LinkedIn,931961411.8,25.7,Data Analytics,5,Awarded,False,2021-03-24,2022-04-16,High
+T2021294,Arnold Ltd Solutions,Digital Transformation,Assessment,Referral,930218563.68,26.15,Digital Transformation,8,Awarded,True,2022-06-17,2022-01-22,Low
+T2021295,"Flowers, Martin and Kelly Technologies",Data Analytics,Optimization,LinkedIn,1042052377.11,28.36,Digital Transformation,4,Awarded,True,2021-05-07,2022-05-01,Low
+T2021296,"Flowers, Martin and Kelly Technologies",Digital Transformation,Training,Conference,1329214376.87,24.39,Digital Transformation,4,Awarded,False,2021-06-03,2021-03-16,High
+T2021297,"Guzman, Hoffman and Baldwin Technologies",Blockchain,Optimization,Referral,1031985402.79,45.19,IoT,4,Lost,True,2021-03-29,2023-09-02,Low
+T2021298,"Ross, Robinson and Bright Solutions",ERP Implementation,Strategy,Referral,896605177.49,18.65,ERP Implementation,15,Awarded,True,2022-12-26,2022-04-15,High
+T2021299,Abbott-Munoz Systems,Blockchain,Training,Referral,1346730212.85,37.78,Blockchain,3,Awarded,True,2022-08-28,2023-11-18,Medium
+T2022000,"Hoffman, Baker and Richards Systems",Cybersecurity,Implementation,LinkedIn,911959082.84,33.78,Cybersecurity,7,Awarded,True,2023-12-13,2022-06-25,Medium
+T2022001,Baker and Sons Systems,IoT,Assessment,Referral,1806119822.47,36.35,Blockchain,8,Awarded,True,2023-10-26,2022-11-20,Medium
+T2022002,Davis and Sons Technologies,Cloud Migration,Optimization,Conference,2111773647.88,27.07,Cloud Migration,8,Awarded,True,2023-08-25,2024-01-20,Medium
+T2022003,"Snyder, Campos and Callahan Technologies",Cybersecurity,Managed Services,LinkedIn,827863520.12,26.13,Digital Transformation,5,Awarded,False,2021-04-25,2022-04-25,Medium
+T2022004,James Group Systems,ERP Implementation,Implementation,Referral,1883822082.18,11.11,ERP Implementation,10,Submitted,True,2023-01-05,2021-03-29,High
+T2022005,Williams and Sons Technologies,Cybersecurity,Optimization,Conference,1182716653.11,33.27,Cloud Migration,5,Lost,False,2023-10-06,2024-02-15,Medium
+T2022006,Morales-Jones Technologies,Digital Transformation,Strategy,LinkedIn,857994772.51,23.4,Digital Transformation,6,Awarded,True,2022-02-17,2021-10-25,Medium
+T2022007,Davis and Sons Technologies,ERP Implementation,Training,LinkedIn,1250140314.52,32.23,Cloud Migration,10,Awarded,True,2021-08-16,2024-01-13,High
+T2022008,AI Nexus,AI/ML,Training,Email,1495139373.93,35.55,AI/ML,7,Submitted,True,2021-10-07,2021-12-19,High
+T2022009,"Reid, Ferguson and Sanchez Technologies",Blockchain,Integration,Conference,1286151787.18,42.41,IoT,5,Lost,True,2023-01-01,2022-05-03,Medium
+T2022010,Davis and Sons Technologies,Cloud Migration,Implementation,Referral,1385318322.78,21.05,Cloud Migration,12,Submitted,True,2023-03-13,2021-04-07,Low
+T2022011,Arnold Ltd Solutions,Data Analytics,Assessment,Conference,1800591921.07,37.41,Digital Transformation,4,Submitted,False,2022-05-03,2023-01-11,High
+T2022012,"Mcclain, Miller and Henderson Solutions",Data Analytics,Assessment,Email,1031614178.49,35.97,Data Analytics,8,Submitted,True,2021-05-19,2023-01-18,Medium
+T2022013,IoT Connect,AI/ML,Implementation,LinkedIn,1158068308.79,30.05,IoT,7,Lost,True,2023-02-15,2023-01-20,Medium
+T2022014,IoT Connect,Data Analytics,Optimization,LinkedIn,1669871867.73,28.28,IoT,4,Lost,True,2022-10-15,2022-07-19,High
+T2022015,AI Nexus,AI/ML,Integration,Referral,1902853378.66,26.54,AI/ML,5,Submitted,False,2021-07-10,2022-12-24,Medium
+T2022016,Carlson-Cruz Labs,AI/ML,Training,LinkedIn,1058047386.36,34.21,Cybersecurity,5,Lost,True,2021-07-27,2022-12-10,Medium
+T2022017,"Guzman, Hoffman and Baldwin Technologies",IoT,Integration,Conference,732005274.44,26.94,IoT,7,Submitted,True,2021-04-12,2023-04-15,Medium
+T2022018,Morales-Jones Technologies,Digital Transformation,Strategy,LinkedIn,1229349087.55,26.12,Digital Transformation,9,Submitted,True,2023-09-11,2022-03-15,Low
+T2022019,"Gardner, Robinson and Lawrence Technologies",AI/ML,Assessment,LinkedIn,815434491.35,28.55,AI/ML,4,Lost,True,2023-03-26,2023-09-22,Medium
+T2022020,"Dyer, Potter and Mack Solutions",AI/ML,Implementation,Conference,1984160493.76,33.32,AI/ML,7,Awarded,True,2022-01-18,2023-08-01,Low
+T2022021,Gray-Mayo Systems,Digital Transformation,Training,LinkedIn,766091669.14,20.7,Digital Transformation,7,Submitted,False,2021-07-18,2021-07-25,Medium
+T2022022,Baker and Sons Systems,Blockchain,Training,Conference,1108128294.75,38.77,Blockchain,6,Submitted,True,2023-12-07,2023-06-07,High
+T2022023,Rodriguez-Graham Systems,Blockchain,Assessment,LinkedIn,1183174383.6,26.52,AI/ML,6,Submitted,True,2021-03-13,2023-11-25,Medium
+T2022024,Wilkerson-Day Systems,Cybersecurity,Implementation,LinkedIn,1481938979.32,28.85,IoT,7,Lost,True,2022-03-10,2022-03-01,Low
+T2022025,"Reid, Ferguson and Sanchez Technologies",IoT,Optimization,Conference,1686168762.41,41.24,IoT,6,Awarded,False,2022-06-13,2022-11-16,High
+T2022026,AI Nexus,AI/ML,Managed Services,LinkedIn,862889765.1,33.66,AI/ML,8,Lost,True,2021-01-26,2024-01-06,High
+T2022027,ERP Masters,ERP Implementation,Strategy,LinkedIn,1224160095.16,32.87,ERP Implementation,9,Awarded,True,2022-08-09,2024-02-01,High
+T2022028,"Adams, Zuniga and Wong Technologies",Blockchain,Strategy,Conference,1193931825.66,40.07,Blockchain,10,Submitted,True,2023-04-03,2021-04-20,Medium
+T2022029,"Mcclure, Ward and Lee Systems",Data Analytics,Managed Services,LinkedIn,1151633441.46,28.99,Data Analytics,10,Lost,True,2022-09-13,2022-10-29,Medium
+T2022030,Morales-Jones Technologies,Cloud Migration,Implementation,Email,1020641916.92,22.13,Digital Transformation,11,Awarded,False,2022-10-20,2022-08-05,High
+T2022031,Burton Ltd Solutions,Cybersecurity,Optimization,LinkedIn,1021693976.16,29.84,Cybersecurity,5,Awarded,True,2023-11-24,2023-03-07,High
+T2022032,"Walter, Edwards and Rios Technologies",Cloud Migration,Implementation,LinkedIn,1241621901.89,21.44,Data Analytics,14,Awarded,True,2021-03-01,2022-01-21,Low
+T2022033,"Guzman, Hoffman and Baldwin Technologies",Data Analytics,Managed Services,LinkedIn,1888319610.48,26.73,IoT,3,Awarded,True,2023-08-09,2023-12-01,Medium
+T2022034,ERP Masters,ERP Implementation,Training,LinkedIn,1668527494.44,6.75,ERP Implementation,15,Awarded,False,2023-08-30,2024-03-05,Medium
+T2022035,"Mcclain, Miller and Henderson Solutions",Digital Transformation,Managed Services,Referral,645630688.9,28.23,Data Analytics,4,Submitted,True,2022-03-15,2022-04-29,Medium
+T2022036,Rodriguez-Graham Systems,AI/ML,Strategy,Conference,1075792051.35,33.29,AI/ML,8,Lost,False,2021-01-19,2023-09-28,High
+T2022037,Frazier Inc Systems,Data Analytics,Managed Services,Referral,952318668.63,20.96,Data Analytics,6,Awarded,False,2022-07-18,2023-06-17,High
+T2022038,Williams and Sons Technologies,Cloud Migration,Integration,LinkedIn,2034338236.43,19.45,Cloud Migration,12,Awarded,True,2021-07-29,2021-02-15,Medium
+T2022039,"Dyer, Potter and Mack Solutions",ERP Implementation,Managed Services,Conference,1761130567.18,24.68,AI/ML,12,Awarded,True,2022-11-20,2022-08-20,Medium
+T2022040,Abbott-Munoz Systems,Blockchain,Implementation,Conference,857078222.86,43.61,Blockchain,7,Submitted,False,2021-04-27,2023-05-08,Medium
+T2022041,Rodriguez-Graham Systems,AI/ML,Managed Services,LinkedIn,1392780084.4,32.38,AI/ML,7,Submitted,True,2023-03-07,2021-04-13,Medium
+T2022042,"Ross, Robinson and Bright Solutions",ERP Implementation,Integration,Referral,1489423259.83,13.89,ERP Implementation,11,Awarded,False,2023-01-05,2023-12-05,Medium
+T2022043,"Mcclain, Miller and Henderson Solutions",Cybersecurity,Implementation,LinkedIn,1074701769.93,28.8,Data Analytics,7,Awarded,False,2022-01-10,2022-12-19,Medium
+T2022044,Blake and Sons Solutions,Data Analytics,Assessment,Referral,1374058041.3,31.55,Data Analytics,7,Awarded,True,2022-06-18,2022-09-25,Medium
+T2022045,ERP Masters,ERP Implementation,Assessment,Referral,1702824568.3,18.2,ERP Implementation,9,Lost,True,2023-02-21,2024-01-21,Medium
+T2022046,SecureNet Systems,Cybersecurity,Managed Services,LinkedIn,1446678333.61,24.59,Cybersecurity,5,Awarded,True,2023-07-27,2021-11-20,Medium
+T2022047,"Baker, Mason and White Solutions",Cloud Migration,Integration,LinkedIn,1095954321.55,27.97,Cloud Migration,13,Lost,True,2021-04-29,2021-02-09,Medium
+T2022048,"Gardner, Robinson and Lawrence Technologies",Cybersecurity,Assessment,Conference,826260953.62,31.63,AI/ML,5,Awarded,False,2021-09-23,2023-07-08,Medium
+T2022049,"Flowers, Martin and Kelly Technologies",Digital Transformation,Strategy,Conference,1137711514.2,26.62,Digital Transformation,3,Awarded,False,2021-01-29,2022-11-21,High
+T2022050,Wilkerson-Day Systems,IoT,Implementation,Conference,1647389987.56,29.39,IoT,6,Awarded,True,2021-09-22,2021-08-29,Medium
+T2022051,"Snyder, Campos and Callahan Technologies",Digital Transformation,Managed Services,LinkedIn,788164111.98,18.48,Digital Transformation,3,Lost,True,2023-12-02,2024-01-09,Medium
+T2022052,Rodriguez-Graham Systems,ERP Implementation,Managed Services,Email,1442376971.59,12.22,AI/ML,15,Awarded,True,2023-04-07,2021-03-11,Medium
+T2022053,Harrell LLC Solutions,Data Analytics,Strategy,Referral,2035879061.0,21.6,ERP Implementation,5,Awarded,True,2021-03-18,2023-03-10,High
+T2022054,Garcia-James Solutions,AI/ML,Integration,LinkedIn,2000558421.87,24.59,IoT,4,Submitted,False,2021-04-09,2021-09-25,Medium
+T2022055,James Group Systems,ERP Implementation,Implementation,LinkedIn,1168213324.39,21.06,ERP Implementation,10,Awarded,True,2022-09-09,2023-06-11,Medium
+T2022056,"Dyer, Potter and Mack Solutions",AI/ML,Assessment,Conference,1355581178.43,32.28,AI/ML,5,Lost,True,2021-08-30,2022-09-01,Low
+T2022057,IoT Connect,IoT,Optimization,Conference,1674442052.23,31.81,IoT,7,Awarded,True,2023-04-20,2022-09-27,Low
+T2022058,"Hoffman, Baker and Richards Systems",Cybersecurity,Managed Services,LinkedIn,1258071471.77,30.57,Cybersecurity,7,Submitted,True,2021-07-02,2021-09-14,High
+T2022059,"Dyer, Potter and Mack Solutions",AI/ML,Strategy,Email,1182233865.21,33.18,AI/ML,8,Awarded,True,2022-06-09,2022-05-19,Medium
+T2022060,Blair PLC Solutions,AI/ML,Optimization,LinkedIn,719958954.84,36.54,AI/ML,5,Submitted,True,2022-10-03,2023-06-22,High
+T2022061,IoT Connect,AI/ML,Integration,LinkedIn,1503008355.91,28.26,IoT,5,Awarded,True,2023-06-16,2022-08-03,High
+T2022062,BlockChain Innovations,Blockchain,Assessment,LinkedIn,1138025156.25,40.85,Blockchain,4,Awarded,True,2023-03-01,2023-10-07,High
+T2022063,Frazier Inc Systems,Cybersecurity,Optimization,LinkedIn,1334776622.18,30.09,Data Analytics,4,Submitted,True,2023-09-16,2023-07-17,Low
+T2022064,James Group Systems,AI/ML,Assessment,Referral,952179248.59,32.3,ERP Implementation,5,Lost,True,2023-04-23,2023-07-22,Low
+T2022065,Garcia-James Solutions,IoT,Integration,LinkedIn,896710338.81,32.98,IoT,6,Lost,True,2021-07-15,2023-07-06,Medium
+T2022066,"Henderson, Ramirez and Lewis Solutions",AI/ML,Implementation,Conference,721599040.99,37.04,AI/ML,7,Lost,True,2021-04-22,2021-02-23,Medium
+T2022067,"Mcclain, Miller and Henderson Solutions",Data Analytics,Optimization,Conference,1385787661.65,33.15,Data Analytics,10,Submitted,False,2022-10-19,2022-06-08,Medium
+T2022068,Abbott-Munoz Systems,Blockchain,Assessment,LinkedIn,1614938276.76,41.28,Blockchain,9,Lost,True,2023-06-29,2023-08-06,Low
+T2022069,Morales-Jones Technologies,Digital Transformation,Integration,LinkedIn,1630359367.77,30.33,Digital Transformation,10,Awarded,True,2023-04-25,2021-04-14,Medium
+T2022070,TechNovate Solutions,Digital Transformation,Integration,Referral,819235534.97,12.8,Digital Transformation,6,Awarded,False,2023-01-15,2021-05-22,High
+T2022071,"Watts, Robinson and Nguyen Technologies",Data Analytics,Integration,Referral,1212054383.0,24.88,Data Analytics,10,Awarded,False,2021-08-22,2021-08-18,High
+T2022072,Blake and Sons Solutions,Data Analytics,Training,LinkedIn,967312470.4,30.59,Data Analytics,7,Awarded,False,2021-04-04,2022-01-02,Medium
+T2022073,"Baker, Mason and White Solutions",IoT,Implementation,LinkedIn,958749509.72,32.93,Cloud Migration,6,Submitted,False,2022-03-18,2023-08-25,High
+T2022074,"Guzman, Hoffman and Baldwin Technologies",Cloud Migration,Integration,Referral,788589882.74,21.94,IoT,8,Lost,True,2023-07-12,2023-08-25,Medium
+T2022075,"Walter, Edwards and Rios Technologies",Data Analytics,Training,Conference,801703901.31,23.38,Data Analytics,3,Lost,False,2023-09-17,2023-12-08,High
+T2022076,Davis and Sons Technologies,Cloud Migration,Strategy,LinkedIn,1649681074.45,20.12,Cloud Migration,10,Awarded,True,2022-10-22,2023-11-29,High
+T2022077,"Adams, Zuniga and Wong Technologies",Data Analytics,Managed Services,LinkedIn,2649057884.45,23.25,Blockchain,8,Awarded,True,2023-04-26,2023-12-16,Medium
+T2022078,Smith-Bowen Systems,IoT,Implementation,LinkedIn,1271173232.5,34.47,IoT,6,Submitted,False,2022-12-09,2021-10-29,High
+T2022079,Frazier Inc Systems,Cybersecurity,Integration,Conference,1483764450.19,25.71,Data Analytics,6,Submitted,True,2023-09-11,2023-06-04,Medium
+T2022080,Baker and Sons Systems,Blockchain,Training,Referral,1247438671.65,37.12,Blockchain,3,Submitted,True,2021-04-19,2021-05-26,Low
+T2022081,"Mcclain, Miller and Henderson Solutions",Digital Transformation,Integration,LinkedIn,1168442274.16,34.8,Data Analytics,3,Awarded,True,2021-03-08,2023-02-04,High
+T2022082,IoT Connect,IoT,Integration,Conference,973883604.06,37.75,IoT,6,Awarded,True,2023-11-13,2022-09-12,Medium
+T2022083,SecureNet Systems,IoT,Training,Conference,2045678732.02,31.83,Cybersecurity,8,Submitted,False,2022-02-20,2023-07-27,High
+T2022084,"Ferrell, Rice and Maddox Systems",ERP Implementation,Optimization,Referral,2071398554.71,16.87,IoT,11,Awarded,True,2023-07-09,2022-01-29,High
+T2022085,AI Nexus,AI/ML,Strategy,LinkedIn,1015874084.88,38.54,AI/ML,8,Awarded,True,2022-06-26,2021-10-24,Low
+T2022086,Garcia-James Solutions,IoT,Strategy,Conference,1610034773.04,35.16,IoT,5,Submitted,True,2021-04-15,2022-10-09,Medium
+T2022087,"Ross, Robinson and Bright Solutions",ERP Implementation,Training,LinkedIn,750828531.2,23.11,ERP Implementation,13,Submitted,True,2021-05-20,2023-12-01,Low
+T2022088,Baker and Sons Systems,Blockchain,Implementation,LinkedIn,1116539144.14,36.36,Blockchain,6,Awarded,True,2022-08-25,2022-04-23,High
+T2022089,Carlson-Cruz Labs,Cybersecurity,Strategy,Email,1448735448.29,29.63,Cybersecurity,4,Awarded,True,2022-05-15,2021-04-22,Medium
+T2022090,Arnold Ltd Solutions,Digital Transformation,Assessment,Referral,805643561.58,22.89,Digital Transformation,4,Submitted,False,2021-02-20,2023-12-25,High
+T2022091,Galloway-Wyatt Technologies,IoT,Strategy,Conference,1444358337.17,33.9,IoT,10,Submitted,True,2022-10-19,2023-12-19,Low
+T2022092,IoT Connect,IoT,Integration,Email,1663167072.53,34.8,IoT,3,Submitted,True,2022-03-13,2023-06-18,High
+T2022093,"Gardner, Robinson and Lawrence Technologies",AI/ML,Integration,Conference,1380220771.61,39.17,AI/ML,7,Lost,True,2021-11-11,2021-03-20,Medium
+T2022094,"Mcclure, Ward and Lee Systems",Data Analytics,Optimization,LinkedIn,730665995.6,27.65,Data Analytics,5,Submitted,True,2022-04-12,2022-07-14,Medium
+T2022095,Gray-Mayo Systems,Digital Transformation,Assessment,Conference,1279917660.57,24.15,Digital Transformation,3,Awarded,True,2021-05-10,2021-05-04,High
+T2022096,AI Nexus,AI/ML,Optimization,LinkedIn,819930965.48,36.36,AI/ML,6,Awarded,True,2022-07-31,2023-07-16,Medium
+T2022097,"Dyer, Potter and Mack Solutions",AI/ML,Implementation,LinkedIn,1649439112.06,29.59,AI/ML,5,Awarded,False,2022-08-28,2021-11-22,Medium
+T2022098,Harrell LLC Solutions,ERP Implementation,Training,Email,1475415509.16,19.8,ERP Implementation,8,Lost,True,2021-03-27,2021-02-10,Medium
+T2022099,"Flowers, Martin and Kelly Technologies",Digital Transformation,Implementation,Email,1213387802.19,22.14,Digital Transformation,7,Awarded,False,2022-12-06,2022-04-09,Medium
+T2022100,Frazier Inc Systems,Cybersecurity,Training,LinkedIn,1030120745.05,34.69,Data Analytics,5,Lost,True,2022-01-07,2021-05-22,High
+T2022101,"Hoffman, Baker and Richards Systems",Cybersecurity,Integration,Conference,1046872193.74,30.48,Cybersecurity,6,Submitted,True,2023-09-25,2022-12-09,Medium
+T2022102,"Dyer, Potter and Mack Solutions",AI/ML,Strategy,LinkedIn,1096077398.38,32.83,AI/ML,8,Lost,True,2023-07-12,2022-12-04,Medium
+T2022103,Dudley Group Systems,IoT,Optimization,LinkedIn,1041711314.52,33.11,IoT,8,Awarded,True,2021-01-10,2022-11-03,Medium
+T2022104,Blake and Sons Solutions,IoT,Implementation,LinkedIn,919529871.65,38.28,Data Analytics,8,Awarded,True,2023-09-10,2023-09-05,Medium
+T2022105,Dudley Group Systems,IoT,Optimization,LinkedIn,1053976469.12,31.07,IoT,4,Submitted,False,2022-02-07,2022-07-24,High
+T2022106,"Ferrell, Rice and Maddox Systems",IoT,Optimization,LinkedIn,1275650028.53,39.23,IoT,3,Awarded,True,2023-04-10,2022-04-11,High
+T2022107,"Hoffman, Baker and Richards Systems",Cybersecurity,Assessment,Referral,770143305.91,35.16,Cybersecurity,8,Awarded,True,2023-03-15,2022-05-03,High
+T2022108,"Snyder, Campos and Callahan Technologies",Digital Transformation,Assessment,LinkedIn,1570475878.45,23.34,Digital Transformation,4,Awarded,True,2022-05-05,2022-01-05,High
+T2022109,"Rodriguez, Figueroa and Sanchez Technologies",Cloud Migration,Integration,LinkedIn,1655550454.7,25.41,Cloud Migration,10,Awarded,False,2021-03-24,2022-04-24,High
+T2022110,Blake and Sons Solutions,Data Analytics,Integration,LinkedIn,1835457325.37,25.41,Data Analytics,3,Submitted,False,2023-01-10,2023-04-05,Medium
+T2022111,"Watts, Robinson and Nguyen Technologies",AI/ML,Strategy,Email,1078571924.39,46.49,Data Analytics,6,Awarded,True,2022-07-15,2022-07-24,Medium
+T2022112,"Ross, Robinson and Bright Solutions",ERP Implementation,Training,Conference,1859866638.03,17.77,ERP Implementation,13,Awarded,False,2023-11-25,2022-06-30,Medium
+T2022113,Blake and Sons Solutions,Data Analytics,Assessment,LinkedIn,1028016722.46,35.9,Data Analytics,8,Awarded,False,2021-01-14,2023-11-24,High
+T2022114,Gray-Mayo Systems,Digital Transformation,Implementation,LinkedIn,1105120147.0,19.9,Digital Transformation,7,Submitted,True,2021-08-31,2022-05-17,Medium
+T2022115,"Mcclure, Ward and Lee Systems",Blockchain,Implementation,Conference,912920806.6,33.28,Data Analytics,10,Awarded,True,2023-04-22,2021-03-17,Medium
+T2022116,"Rodriguez, Figueroa and Sanchez Technologies",Cloud Migration,Training,LinkedIn,955185394.0,19.98,Cloud Migration,8,Submitted,True,2022-01-04,2023-12-25,High
+T2022117,Burton Ltd Solutions,AI/ML,Strategy,Referral,1290144028.06,34.83,Cybersecurity,6,Submitted,True,2023-08-24,2023-10-14,Low
+T2022118,"Adams, Zuniga and Wong Technologies",Blockchain,Training,Conference,891351195.66,47.75,Blockchain,5,Awarded,True,2022-12-03,2023-08-17,Medium
+T2022119,AI Nexus,AI/ML,Strategy,LinkedIn,1127827018.33,39.92,AI/ML,4,Submitted,False,2023-10-30,2023-06-09,High
+T2022120,Burton Ltd Solutions,Cybersecurity,Training,Conference,1472461204.76,29.75,Cybersecurity,8,Submitted,False,2023-10-28,2021-09-28,Low
+T2022121,"Dyer, Potter and Mack Solutions",AI/ML,Optimization,Conference,1348796031.33,29.39,AI/ML,4,Awarded,True,2023-05-12,2023-02-28,High
+T2022122,Smith-Bowen Systems,IoT,Optimization,LinkedIn,1394066228.98,32.83,IoT,10,Awarded,True,2021-07-20,2023-06-21,Low
+T2022123,Perez Inc Solutions,Cloud Migration,Managed Services,LinkedIn,2512000591.33,26.45,AI/ML,14,Submitted,False,2021-01-15,2024-01-06,Low
+T2022124,TechNovate Solutions,Digital Transformation,Assessment,LinkedIn,1025510313.51,18.81,Digital Transformation,8,Awarded,True,2022-06-04,2022-07-20,High
+T2022125,"Reid, Ferguson and Sanchez Technologies",IoT,Optimization,Conference,1018006503.17,28.88,IoT,9,Submitted,True,2023-09-16,2022-02-01,Medium
+T2022126,"Hoffman, Baker and Richards Systems",Cybersecurity,Managed Services,Email,1718057687.64,26.81,Cybersecurity,8,Awarded,True,2021-10-10,2021-10-01,High
+T2022127,Gray-Mayo Systems,Cybersecurity,Assessment,LinkedIn,1013353931.73,37.1,Digital Transformation,8,Awarded,False,2021-04-17,2021-12-26,Medium
+T2022128,"Ferrell, Rice and Maddox Systems",IoT,Assessment,LinkedIn,1385296379.2,27.84,IoT,5,Lost,True,2021-05-12,2022-07-23,Medium
+T2022129,BlockChain Innovations,Blockchain,Training,Conference,1454073586.26,37.24,Blockchain,9,Awarded,True,2021-04-28,2022-01-24,Medium
+T2022130,Gray-Mayo Systems,Digital Transformation,Implementation,Referral,763201042.83,23.01,Digital Transformation,7,Submitted,True,2023-11-23,2022-05-20,Medium
+T2022131,Rodriguez-Graham Systems,AI/ML,Implementation,LinkedIn,2061126635.97,42.74,AI/ML,4,Submitted,True,2023-03-30,2023-01-24,Medium
+T2022132,"Flowers, Martin and Kelly Technologies",Digital Transformation,Strategy,Conference,1070556893.24,18.94,Digital Transformation,4,Awarded,False,2022-12-14,2023-01-12,High
+T2022133,Abbott-Munoz Systems,Blockchain,Assessment,Email,1329531306.55,41.43,Blockchain,10,Awarded,True,2023-04-14,2023-12-03,Low
+T2022134,AI Nexus,AI/ML,Optimization,LinkedIn,2198006479.02,38.29,AI/ML,4,Awarded,True,2022-05-28,2023-07-26,High
+T2022135,"Ross, Robinson and Bright Solutions",ERP Implementation,Optimization,LinkedIn,946485402.25,19.12,ERP Implementation,13,Awarded,True,2021-02-26,2023-10-15,Low
+T2022136,AI Nexus,AI/ML,Integration,Conference,965808630.04,28.1,AI/ML,5,Awarded,False,2023-04-25,2023-01-24,Medium
+T2022137,TechNovate Solutions,Digital Transformation,Assessment,LinkedIn,2060310709.11,21.83,Digital Transformation,4,Awarded,False,2021-06-05,2024-03-11,High
+T2022138,Perez Inc Solutions,AI/ML,Managed Services,LinkedIn,1286114718.52,32.41,AI/ML,8,Submitted,False,2022-01-25,2023-11-18,High
+T2022139,"Henderson, Ramirez and Lewis Solutions",Digital Transformation,Optimization,LinkedIn,1717736479.89,21.92,AI/ML,6,Submitted,True,2021-11-16,2021-09-06,Low
+T2022140,BlockChain Innovations,Blockchain,Optimization,Conference,1025549749.88,52.63,Blockchain,3,Lost,False,2023-09-15,2023-03-02,Medium
+T2022141,Morales-Jones Technologies,Digital Transformation,Assessment,Conference,1644995592.95,19.55,Digital Transformation,7,Submitted,True,2021-04-21,2024-01-12,High
+T2022142,Perez Inc Solutions,AI/ML,Optimization,LinkedIn,2092797399.65,38.41,AI/ML,7,Awarded,True,2021-09-04,2023-12-28,Medium
+T2022143,Smith-Bowen Systems,IoT,Training,Conference,1079720071.84,34.92,IoT,9,Submitted,True,2022-06-16,2022-02-18,Medium
+T2022144,"Henderson, Ramirez and Lewis Solutions",AI/ML,Managed Services,Email,1677157701.38,37.95,AI/ML,6,Submitted,True,2023-05-09,2023-03-04,Medium
+T2022145,"Flowers, Martin and Kelly Technologies",Digital Transformation,Training,LinkedIn,1400279208.48,26.1,Digital Transformation,5,Awarded,False,2022-07-07,2022-05-28,Medium
+T2022146,James Group Systems,ERP Implementation,Assessment,Referral,1707923182.38,25.33,ERP Implementation,10,Lost,True,2023-10-21,2021-11-02,High
+T2022147,"Ferrell, Rice and Maddox Systems",IoT,Managed Services,Referral,1460972643.83,38.91,IoT,10,Submitted,False,2021-04-08,2023-04-26,Low
+T2022148,"Mcclain, Miller and Henderson Solutions",Data Analytics,Optimization,Referral,1256717983.92,27.16,Data Analytics,10,Awarded,True,2022-11-17,2022-07-17,Medium
+T2022149,"Hoffman, Baker and Richards Systems",Cybersecurity,Strategy,Referral,941207871.16,36.03,Cybersecurity,6,Awarded,True,2022-02-12,2024-02-07,Low
+T2022150,Blair PLC Solutions,AI/ML,Optimization,Conference,1068747923.49,36.84,AI/ML,7,Awarded,False,2023-02-20,2022-09-09,Medium
+T2022151,Doyle Ltd Solutions,ERP Implementation,Optimization,Conference,1764778171.85,20.14,Digital Transformation,14,Lost,True,2022-12-05,2022-05-13,Medium
+T2022152,Frazier Inc Systems,Data Analytics,Managed Services,LinkedIn,1219474961.25,28.96,Data Analytics,9,Lost,False,2023-01-14,2024-01-02,High
+T2022153,"Adams, Zuniga and Wong Technologies",Blockchain,Integration,Referral,1504356920.96,33.2,Blockchain,5,Submitted,True,2021-06-13,2022-04-07,Low
+T2022154,IoT Connect,IoT,Training,Email,2301280849.53,35.23,IoT,10,Submitted,False,2023-12-10,2021-07-20,Low
+T2022155,Carlson-Cruz Labs,Cybersecurity,Managed Services,Conference,1284326607.76,28.46,Cybersecurity,7,Submitted,False,2023-06-27,2021-10-16,Low
+T2022156,"Mcclain, Miller and Henderson Solutions",Data Analytics,Optimization,Conference,1930396507.21,29.25,Data Analytics,8,Awarded,False,2022-07-12,2024-02-28,Medium
+T2022157,Smith-Bowen Systems,IoT,Integration,Conference,1307603274.1,31.52,IoT,10,Awarded,False,2023-06-10,2024-01-08,Medium
+T2022158,Baker and Sons Systems,Blockchain,Optimization,LinkedIn,1271849549.19,43.04,Blockchain,6,Submitted,True,2023-04-25,2022-07-17,Low
+T2022159,TechNovate Solutions,Digital Transformation,Managed Services,Referral,1274707116.8,19.77,Digital Transformation,5,Submitted,True,2023-10-05,2023-10-05,Medium
+T2022160,"Reid, Ferguson and Sanchez Technologies",Data Analytics,Implementation,Referral,883852444.92,33.37,IoT,8,Awarded,True,2023-03-20,2022-06-26,Low
+T2022161,"Romero, Gonzalez and Brooks Labs",Blockchain,Managed Services,Referral,974776755.96,40.66,Blockchain,6,Submitted,True,2023-11-25,2022-08-10,Medium
+T2022162,"Romero, Gonzalez and Brooks Labs",Blockchain,Optimization,LinkedIn,761498840.42,45.98,Blockchain,6,Submitted,True,2021-08-15,2023-08-21,Medium
+T2022163,Abbott-Munoz Systems,Blockchain,Implementation,LinkedIn,1346694409.97,37.21,Blockchain,3,Submitted,True,2022-01-16,2021-08-28,Medium
+T2022164,"Rodriguez, Figueroa and Sanchez Technologies",AI/ML,Strategy,LinkedIn,1179115243.64,42.83,Cloud Migration,5,Awarded,True,2022-10-01,2023-11-17,High
+T2022165,"Watts, Robinson and Nguyen Technologies",Data Analytics,Optimization,LinkedIn,2114538452.4,25.22,Data Analytics,4,Awarded,True,2022-06-30,2023-04-14,Low
+T2022166,Perez Inc Solutions,AI/ML,Optimization,Referral,621790322.63,27.76,AI/ML,6,Awarded,True,2022-05-25,2023-03-30,High
+T2022167,Gray-Mayo Systems,Digital Transformation,Assessment,Email,1034453403.58,24.2,Digital Transformation,6,Awarded,True,2022-03-03,2023-09-26,Medium
+T2022168,Dudley Group Systems,Cybersecurity,Integration,Conference,1487350540.22,24.89,IoT,4,Lost,True,2022-06-03,2023-10-13,Medium
+T2022169,"Guzman, Hoffman and Baldwin Technologies",IoT,Strategy,LinkedIn,1015382971.16,33.22,IoT,6,Submitted,True,2021-01-31,2022-01-08,High
+T2022170,"Snyder, Campos and Callahan Technologies",Digital Transformation,Strategy,Referral,1562405530.81,15.6,Digital Transformation,3,Awarded,True,2021-11-14,2023-03-02,High
+T2022171,"Henderson, Ramirez and Lewis Solutions",AI/ML,Managed Services,LinkedIn,1167350537.28,38.25,AI/ML,8,Lost,False,2021-05-03,2021-06-02,Medium
+T2022172,Doyle Ltd Solutions,Cloud Migration,Managed Services,LinkedIn,872374924.79,34.23,Digital Transformation,11,Lost,False,2022-12-13,2023-07-18,High
+T2022173,CloudScape Technologies,Cloud Migration,Managed Services,LinkedIn,977181394.94,17.37,Cloud Migration,10,Lost,True,2023-06-16,2024-03-20,Medium
+T2022174,Smith-Bowen Systems,IoT,Managed Services,Conference,1293680525.94,31.77,IoT,8,Awarded,True,2021-11-25,2021-06-21,Medium
+T2022175,Gray-Mayo Systems,Digital Transformation,Assessment,LinkedIn,1336569238.36,20.79,Digital Transformation,8,Submitted,True,2023-02-16,2022-02-14,High
+T2022176,Carlson-Cruz Labs,Data Analytics,Integration,LinkedIn,1854506871.51,21.74,Cybersecurity,4,Lost,False,2022-01-24,2024-01-09,Medium
+T2022177,"Hoffman, Baker and Richards Systems",Cybersecurity,Integration,LinkedIn,1681486446.01,29.59,Cybersecurity,7,Awarded,True,2021-05-17,2021-04-30,High
+T2022178,"Rodriguez, Figueroa and Sanchez Technologies",Cloud Migration,Assessment,LinkedIn,1379216256.53,26.71,Cloud Migration,9,Submitted,True,2023-03-07,2023-10-31,Medium
+T2022179,Smith-Bowen Systems,IoT,Training,LinkedIn,1375478966.92,34.85,IoT,6,Awarded,True,2022-03-04,2023-11-03,High
+T2022180,BlockChain Innovations,Blockchain,Training,Conference,1791825981.1,43.21,Blockchain,8,Awarded,False,2023-01-26,2021-05-30,High
+T2022181,Abbott-Munoz Systems,Blockchain,Strategy,Conference,1487639401.46,40.98,Blockchain,7,Lost,False,2021-07-18,2021-08-26,High
+T2022182,Baker and Sons Systems,Blockchain,Training,LinkedIn,1852478749.14,39.55,Blockchain,6,Awarded,True,2023-05-01,2021-09-04,High
+T2022183,"Ross, Robinson and Bright Solutions",ERP Implementation,Strategy,Conference,2064259511.25,16.62,ERP Implementation,14,Submitted,True,2023-04-03,2023-11-30,Medium
+T2022184,"Mcclain, Miller and Henderson Solutions",Data Analytics,Managed Services,Conference,782905649.79,27.8,Data Analytics,8,Awarded,False,2023-02-01,2023-05-25,High
+T2022185,"Reid, Ferguson and Sanchez Technologies",ERP Implementation,Assessment,Conference,980369188.59,20.64,IoT,11,Awarded,False,2022-06-05,2023-02-07,High
+T2022186,Gray-Mayo Systems,AI/ML,Training,Conference,988765828.18,39.2,Digital Transformation,6,Submitted,True,2022-09-11,2021-02-13,Medium
+T2022187,Blake and Sons Solutions,Data Analytics,Training,LinkedIn,682240681.99,25.77,Data Analytics,7,Awarded,True,2021-11-13,2021-08-12,Low
+T2022188,Williams and Sons Technologies,Cloud Migration,Implementation,LinkedIn,581191858.22,22.74,Cloud Migration,11,Submitted,True,2023-03-30,2022-04-21,High
+T2022189,Harrell LLC Solutions,ERP Implementation,Optimization,Conference,1510761515.92,12.08,ERP Implementation,15,Lost,False,2021-07-15,2022-10-08,Low
+T2022190,"Ross, Robinson and Bright Solutions",ERP Implementation,Managed Services,Referral,1366327810.24,23.93,ERP Implementation,13,Lost,True,2021-09-04,2022-05-10,High
+T2022191,Burton Ltd Solutions,IoT,Managed Services,LinkedIn,1185513525.06,27.17,Cybersecurity,3,Awarded,True,2023-10-26,2022-04-28,Low
+T2022192,Rodriguez-Graham Systems,IoT,Implementation,Email,849574226.73,31.98,AI/ML,4,Awarded,False,2021-10-31,2021-10-28,Medium
+T2022193,Perez Inc Solutions,AI/ML,Managed Services,LinkedIn,1564706285.23,42.52,AI/ML,7,Submitted,True,2021-09-25,2021-11-03,Medium
+T2022194,"Guzman, Hoffman and Baldwin Technologies",IoT,Training,Conference,1212343415.62,30.9,IoT,6,Awarded,False,2022-05-20,2022-06-11,Low
+T2022195,"Reid, Ferguson and Sanchez Technologies",IoT,Strategy,Email,651791196.91,33.04,IoT,4,Awarded,True,2022-12-15,2022-02-25,Medium
+T2022196,Burton Ltd Solutions,Cybersecurity,Managed Services,Referral,980094942.05,28.76,Cybersecurity,5,Awarded,False,2023-06-25,2021-11-25,Medium
+T2022197,Blake and Sons Solutions,Data Analytics,Strategy,LinkedIn,1105347045.7,22.99,Data Analytics,4,Awarded,True,2021-10-30,2022-09-12,Low
+T2022198,Smith-Bowen Systems,Digital Transformation,Managed Services,Conference,1457528656.44,30.99,IoT,3,Submitted,True,2022-02-22,2024-02-24,Medium
+T2022199,Garcia-James Solutions,IoT,Integration,Conference,1427984881.17,29.14,IoT,5,Awarded,True,2023-12-15,2021-04-30,Medium
+T2022200,SecureNet Systems,Cybersecurity,Managed Services,Referral,1587054126.14,37.0,Cybersecurity,8,Submitted,True,2021-01-18,2021-06-16,Medium
+T2022201,Abbott-Munoz Systems,Blockchain,Optimization,Email,990454261.32,40.3,Blockchain,8,Submitted,True,2023-03-03,2022-05-19,High
+T2022202,"Walter, Edwards and Rios Technologies",Cloud Migration,Optimization,Email,1353285118.6,28.49,Data Analytics,15,Awarded,True,2022-02-12,2023-11-22,High
+T2022203,"Hoffman, Baker and Richards Systems",AI/ML,Managed Services,LinkedIn,1455051045.08,39.48,Cybersecurity,8,Awarded,True,2021-11-18,2021-03-09,Medium
+T2022204,Williams and Sons Technologies,Cloud Migration,Optimization,LinkedIn,1024207229.36,30.25,Cloud Migration,12,Submitted,True,2023-03-04,2021-04-01,High
+T2022205,Abbott-Munoz Systems,Blockchain,Integration,LinkedIn,1276049941.73,46.59,Blockchain,9,Submitted,False,2023-12-03,2022-05-11,Medium
+T2022206,"Ross, Robinson and Bright Solutions",ERP Implementation,Assessment,Email,977979174.26,30.38,ERP Implementation,13,Awarded,True,2021-10-11,2024-02-13,Medium
+T2022207,"Guzman, Hoffman and Baldwin Technologies",Digital Transformation,Assessment,Conference,1276169071.19,30.68,IoT,5,Lost,False,2021-10-25,2024-04-01,High
+T2022208,Arnold Ltd Solutions,Digital Transformation,Implementation,Conference,1040107103.33,18.74,Digital Transformation,4,Awarded,False,2021-03-02,2022-11-14,High
+T2022209,"Adams, Zuniga and Wong Technologies",Digital Transformation,Implementation,Conference,1365798481.79,20.4,Blockchain,7,Awarded,True,2022-01-14,2021-03-25,High
+T2022210,Carlson-Cruz Labs,Cybersecurity,Implementation,Conference,1012456383.31,32.61,Cybersecurity,8,Awarded,True,2021-02-23,2023-02-05,Low
+T2022211,Perez Inc Solutions,AI/ML,Integration,Referral,2286839079.94,34.88,AI/ML,7,Awarded,True,2023-03-05,2023-11-03,Medium
+T2022212,"Mcclain, Miller and Henderson Solutions",Data Analytics,Managed Services,LinkedIn,1370789077.4,36.64,Data Analytics,3,Lost,True,2022-02-20,2022-03-25,Low
+T2022213,Gray-Mayo Systems,Blockchain,Implementation,Conference,1246698478.63,40.19,Digital Transformation,10,Awarded,False,2023-02-19,2022-11-02,Medium
+T2022214,"Romero, Gonzalez and Brooks Labs",Blockchain,Training,LinkedIn,884840100.66,43.07,Blockchain,3,Submitted,True,2021-03-28,2022-06-18,Medium
+T2022215,"Flowers, Martin and Kelly Technologies",AI/ML,Optimization,LinkedIn,728996914.04,33.71,Digital Transformation,8,Awarded,True,2022-08-20,2023-07-20,Medium
+T2022216,Dudley Group Systems,Digital Transformation,Managed Services,Conference,1460309243.56,24.0,IoT,9,Awarded,True,2023-11-25,2021-11-18,Medium
+T2022217,Frazier Inc Systems,Data Analytics,Implementation,Referral,1928390025.33,25.58,Data Analytics,4,Awarded,False,2021-10-05,2023-04-16,Medium
+T2022218,Gray-Mayo Systems,Digital Transformation,Assessment,Conference,775053653.25,15.87,Digital Transformation,6,Submitted,True,2021-12-02,2021-10-11,Low
+T2022219,"Baker, Mason and White Solutions",Cloud Migration,Integration,LinkedIn,1646445847.48,26.12,Cloud Migration,14,Awarded,True,2021-11-24,2023-03-17,Medium
+T2022220,DataMind Analytics,ERP Implementation,Implementation,Conference,1047937726.84,28.42,Data Analytics,10,Lost,True,2021-04-16,2023-06-09,Medium
+T2022221,Harrell LLC Solutions,Blockchain,Strategy,LinkedIn,1188791091.41,45.39,ERP Implementation,5,Lost,False,2021-01-08,2022-07-03,Low
+T2022222,Morales-Jones Technologies,AI/ML,Implementation,Conference,1567665269.86,34.14,Digital Transformation,7,Submitted,True,2023-07-19,2023-05-20,Medium
+T2022223,Burton Ltd Solutions,Cybersecurity,Managed Services,LinkedIn,749440609.26,33.26,Cybersecurity,8,Awarded,True,2022-03-02,2021-05-11,Low
+T2022224,SecureNet Systems,Cybersecurity,Integration,LinkedIn,1819418324.86,37.38,Cybersecurity,4,Awarded,True,2022-11-10,2021-07-29,Low
+T2022225,"Adams, Zuniga and Wong Technologies",Cybersecurity,Integration,Conference,1354226580.5,26.87,Blockchain,8,Awarded,True,2021-12-30,2023-08-21,High
+T2022226,Galloway-Wyatt Technologies,Cloud Migration,Managed Services,Referral,1300425569.15,27.47,IoT,13,Lost,False,2023-05-26,2024-03-03,Low
+T2022227,Perez Inc Solutions,AI/ML,Managed Services,Conference,983146075.3,32.25,AI/ML,6,Awarded,True,2022-03-05,2021-05-30,Low
+T2022228,Harrell LLC Solutions,Cloud Migration,Assessment,Conference,1709683298.51,24.87,ERP Implementation,12,Awarded,True,2023-12-13,2023-01-25,High
+T2022229,Carlson-Cruz Labs,Cybersecurity,Assessment,Conference,1076058838.01,32.72,Cybersecurity,7,Lost,False,2022-04-22,2022-09-17,High
+T2022230,TechNovate Solutions,Digital Transformation,Integration,Conference,511671048.33,25.86,Digital Transformation,4,Lost,False,2023-04-30,2023-05-28,Low
+T2022231,Williams and Sons Technologies,Cloud Migration,Integration,Conference,713605713.19,30.74,Cloud Migration,8,Submitted,True,2021-05-19,2022-10-23,Medium
+T2022232,"Hoffman, Baker and Richards Systems",Cybersecurity,Managed Services,LinkedIn,859493921.47,28.19,Cybersecurity,6,Awarded,True,2021-03-01,2022-01-25,Low
+T2022233,"Mcclure, Ward and Lee Systems",Blockchain,Integration,Email,1703589470.39,33.53,Data Analytics,3,Submitted,True,2023-08-02,2024-02-04,High
+T2022234,"Watts, Robinson and Nguyen Technologies",IoT,Optimization,Email,1334345095.82,29.66,Data Analytics,3,Awarded,True,2022-10-09,2024-03-13,Medium
+T2022235,"Gardner, Robinson and Lawrence Technologies",AI/ML,Strategy,LinkedIn,1387636153.13,34.77,AI/ML,6,Lost,True,2021-03-05,2022-12-26,High
+T2022236,"Ferrell, Rice and Maddox Systems",IoT,Implementation,LinkedIn,818396594.75,32.38,IoT,9,Awarded,False,2022-09-24,2022-11-06,High
+T2022237,Abbott-Munoz Systems,Blockchain,Managed Services,LinkedIn,1037031668.22,44.98,Blockchain,6,Awarded,False,2022-03-19,2024-01-11,Medium
+T2022238,ERP Masters,ERP Implementation,Strategy,LinkedIn,1057655740.83,12.22,ERP Implementation,11,Awarded,True,2023-09-16,2023-11-21,Low
+T2022239,"Mcclure, Ward and Lee Systems",Digital Transformation,Optimization,Referral,1552017914.7,29.5,Data Analytics,5,Lost,False,2023-11-24,2021-10-29,Medium
+T2022240,DataMind Analytics,Data Analytics,Strategy,Referral,1082975267.51,26.26,Data Analytics,4,Awarded,True,2021-06-28,2022-12-14,Medium
+T2022241,DataMind Analytics,Data Analytics,Strategy,Referral,2242326262.66,26.39,Data Analytics,7,Awarded,True,2022-03-06,2022-11-19,Medium
+T2022242,Blair PLC Solutions,AI/ML,Integration,LinkedIn,1368208111.87,36.91,AI/ML,7,Submitted,True,2022-07-15,2021-09-22,Low
+T2022243,Carlson-Cruz Labs,Cybersecurity,Managed Services,LinkedIn,1291915744.17,35.15,Cybersecurity,8,Awarded,True,2022-08-04,2022-06-16,Low
+T2022244,Dudley Group Systems,IoT,Strategy,LinkedIn,1133810957.55,30.7,IoT,10,Submitted,True,2021-04-14,2021-09-04,Medium
+T2022245,BlockChain Innovations,Blockchain,Training,LinkedIn,1189249898.62,39.64,Blockchain,10,Awarded,True,2022-02-10,2024-01-28,Low
+T2022246,"Watts, Robinson and Nguyen Technologies",Data Analytics,Strategy,LinkedIn,1221492177.62,31.64,Data Analytics,10,Awarded,True,2023-08-12,2023-09-21,Medium
+T2022247,Blake and Sons Solutions,Data Analytics,Managed Services,Referral,1173833006.38,31.66,Data Analytics,7,Awarded,True,2022-11-08,2022-11-27,Medium
+T2022248,CloudScape Technologies,Cloud Migration,Assessment,LinkedIn,660359587.14,25.39,Cloud Migration,15,Lost,True,2022-12-15,2021-10-18,Medium
+T2022249,"Flowers, Martin and Kelly Technologies",Cloud Migration,Optimization,LinkedIn,1334338928.82,29.58,Digital Transformation,9,Awarded,True,2023-04-27,2022-06-03,Medium
+T2022250,"Hoffman, Baker and Richards Systems",Cybersecurity,Managed Services,Conference,504399245.15,34.99,Cybersecurity,4,Submitted,True,2023-06-02,2023-07-11,Medium
+T2022251,"Mcclure, Ward and Lee Systems",Data Analytics,Integration,LinkedIn,1153282879.78,38.44,Data Analytics,4,Lost,True,2023-09-24,2021-09-22,Medium
+T2022252,"Watts, Robinson and Nguyen Technologies",Data Analytics,Implementation,LinkedIn,880308965.38,33.54,Data Analytics,10,Awarded,True,2021-08-11,2023-03-18,Medium
+T2022253,Frazier Inc Systems,Data Analytics,Training,LinkedIn,876748389.45,31.06,Data Analytics,5,Lost,True,2021-01-01,2021-11-27,Medium
+T2022254,Gray-Mayo Systems,Digital Transformation,Implementation,LinkedIn,2135495807.8,18.88,Digital Transformation,10,Submitted,False,2022-09-06,2022-10-16,High
+T2022255,"Reid, Ferguson and Sanchez Technologies",ERP Implementation,Training,Email,1283665046.46,19.05,IoT,8,Lost,True,2021-09-19,2022-09-25,Low
+T2022256,"Hoffman, Baker and Richards Systems",AI/ML,Strategy,Conference,1395417995.06,39.35,Cybersecurity,6,Lost,False,2022-04-27,2023-07-04,High
+T2022257,"Flowers, Martin and Kelly Technologies",Digital Transformation,Assessment,Referral,1341754039.61,22.75,Digital Transformation,9,Awarded,True,2021-12-22,2023-09-30,Low
+T2022258,"Hoffman, Baker and Richards Systems",Cybersecurity,Implementation,Email,1181995134.83,42.02,Cybersecurity,7,Submitted,False,2021-09-15,2021-11-02,Low
+T2022259,Frazier Inc Systems,Data Analytics,Integration,Referral,1648203259.3,29.01,Data Analytics,10,Awarded,False,2021-06-23,2021-11-08,Medium
+T2022260,"Adams, Zuniga and Wong Technologies",IoT,Training,Conference,1717034257.56,37.53,Blockchain,10,Awarded,False,2023-02-27,2023-01-28,Medium
+T2022261,"Reid, Ferguson and Sanchez Technologies",IoT,Integration,Conference,853498041.19,35.19,IoT,6,Awarded,True,2023-01-22,2021-04-09,High
+T2022262,"Ross, Robinson and Bright Solutions",ERP Implementation,Integration,LinkedIn,852643141.61,28.17,ERP Implementation,15,Submitted,False,2023-12-15,2022-08-26,Medium
+T2022263,BlockChain Innovations,Blockchain,Assessment,Conference,959067987.0,41.51,Blockchain,6,Awarded,True,2021-06-09,2024-02-09,High
+T2022264,Dudley Group Systems,IoT,Assessment,Email,1327261988.63,31.68,IoT,3,Awarded,False,2022-11-10,2023-06-12,Medium
+T2022265,Blair PLC Solutions,AI/ML,Integration,LinkedIn,1364878847.53,36.61,AI/ML,8,Awarded,False,2022-06-18,2021-06-05,Medium
+T2022266,"Snyder, Campos and Callahan Technologies",Digital Transformation,Optimization,LinkedIn,1377885024.34,30.07,Digital Transformation,7,Awarded,True,2023-09-20,2021-07-18,Low
+T2022267,AI Nexus,Digital Transformation,Managed Services,LinkedIn,1605950177.83,20.78,AI/ML,7,Lost,True,2021-08-17,2022-01-23,High
+T2022268,"Romero, Gonzalez and Brooks Labs",Blockchain,Managed Services,LinkedIn,832108113.49,45.95,Blockchain,5,Awarded,True,2022-01-06,2024-01-16,High
+T2022269,"Mcclure, Ward and Lee Systems",Cybersecurity,Optimization,Conference,1484148585.49,32.99,Data Analytics,5,Awarded,False,2023-02-24,2022-06-02,Medium
+T2022270,Harrell LLC Solutions,ERP Implementation,Strategy,LinkedIn,1817026703.95,18.51,ERP Implementation,13,Awarded,False,2021-08-26,2021-05-18,Low
+T2022271,"Flowers, Martin and Kelly Technologies",Digital Transformation,Assessment,Conference,1248774134.95,21.25,Digital Transformation,6,Awarded,True,2022-06-22,2021-11-24,Medium
+T2022272,"Reid, Ferguson and Sanchez Technologies",IoT,Assessment,Email,1208238068.07,31.13,IoT,10,Awarded,False,2021-03-26,2021-08-18,High
+T2022273,"Ferrell, Rice and Maddox Systems",IoT,Managed Services,Referral,780730059.96,26.52,IoT,7,Submitted,False,2022-06-07,2023-04-12,Medium
+T2022274,Rodriguez-Graham Systems,Data Analytics,Managed Services,Conference,932767819.82,35.97,AI/ML,5,Awarded,True,2021-05-20,2021-02-24,Medium
+T2022275,Wilkerson-Day Systems,IoT,Integration,Conference,630320037.82,27.04,IoT,6,Submitted,True,2021-02-18,2021-08-07,Low
+T2022276,Burton Ltd Solutions,Cybersecurity,Integration,Referral,808610856.17,26.81,Cybersecurity,8,Submitted,False,2021-06-26,2021-10-24,Medium
+T2022277,Frazier Inc Systems,Data Analytics,Integration,Email,1628133991.96,36.21,Data Analytics,4,Submitted,True,2021-06-05,2023-08-17,High
+T2022278,Abbott-Munoz Systems,ERP Implementation,Managed Services,LinkedIn,2363681080.32,16.56,Blockchain,9,Awarded,True,2022-11-13,2021-06-03,Medium
+T2022279,Garcia-James Solutions,IoT,Training,LinkedIn,1090940345.9,36.91,IoT,6,Awarded,True,2021-08-11,2021-11-21,Medium
+T2022280,"Reid, Ferguson and Sanchez Technologies",IoT,Integration,Conference,2391144720.46,19.5,IoT,10,Submitted,True,2021-05-25,2022-06-28,High
+T2022281,CloudScape Technologies,Cybersecurity,Strategy,Conference,734085199.09,23.05,Cloud Migration,4,Awarded,True,2022-11-07,2023-04-12,Medium
+T2022282,"Walter, Edwards and Rios Technologies",Blockchain,Optimization,LinkedIn,2500311099.51,45.11,Data Analytics,9,Awarded,False,2021-05-24,2024-02-11,Medium
+T2022283,James Group Systems,Blockchain,Managed Services,LinkedIn,1424273954.2,46.92,ERP Implementation,8,Awarded,True,2021-07-05,2023-02-18,Medium
+T2022284,"Mcclure, Ward and Lee Systems",Data Analytics,Integration,Conference,1553505685.54,30.97,Data Analytics,7,Submitted,True,2023-02-26,2022-02-26,Medium
+T2022285,James Group Systems,ERP Implementation,Integration,Conference,1308454761.02,23.79,ERP Implementation,15,Submitted,True,2021-02-21,2022-06-03,Medium
+T2022286,AI Nexus,Digital Transformation,Strategy,Conference,1180232559.84,22.52,AI/ML,10,Submitted,True,2021-03-29,2023-05-11,Low
+T2022287,Frazier Inc Systems,Data Analytics,Integration,Conference,1105488058.08,24.23,Data Analytics,5,Awarded,False,2021-03-17,2021-11-16,Medium
+T2022288,CloudScape Technologies,Cloud Migration,Implementation,Email,1167643428.52,16.54,Cloud Migration,8,Awarded,True,2021-12-19,2021-05-13,High
+T2022289,IoT Connect,IoT,Optimization,LinkedIn,863650286.48,27.06,IoT,4,Lost,True,2022-03-28,2021-06-09,High
+T2022290,"Reid, Ferguson and Sanchez Technologies",IoT,Managed Services,Referral,1825931244.66,32.9,IoT,9,Submitted,True,2021-10-09,2022-11-20,High
+T2022291,"Gardner, Robinson and Lawrence Technologies",Cybersecurity,Managed Services,LinkedIn,750766391.35,34.59,AI/ML,4,Submitted,True,2023-01-28,2024-03-09,Low
+T2022292,"Henderson, Ramirez and Lewis Solutions",AI/ML,Assessment,LinkedIn,1594756082.85,30.05,AI/ML,8,Awarded,True,2023-09-25,2021-07-15,Low
+T2022293,Davis and Sons Technologies,Digital Transformation,Integration,Conference,1124231281.81,17.09,Cloud Migration,10,Submitted,True,2022-07-09,2024-01-07,Medium
+T2022294,"Henderson, Ramirez and Lewis Solutions",AI/ML,Training,LinkedIn,899412151.18,37.75,AI/ML,7,Lost,True,2022-09-09,2023-01-13,Medium
+T2022295,"Hoffman, Baker and Richards Systems",Cybersecurity,Strategy,LinkedIn,805962384.89,30.53,Cybersecurity,8,Awarded,False,2023-11-06,2022-04-25,Medium
+T2022296,"Ferrell, Rice and Maddox Systems",IoT,Strategy,LinkedIn,1323690967.82,28.99,IoT,6,Awarded,True,2023-08-30,2023-11-15,Low
+T2022297,"Dyer, Potter and Mack Solutions",AI/ML,Implementation,Conference,1372497212.49,27.04,AI/ML,6,Awarded,True,2023-07-18,2021-04-29,Low
+T2022298,SecureNet Systems,Cybersecurity,Assessment,LinkedIn,1419403096.07,29.9,Cybersecurity,4,Awarded,True,2022-04-27,2023-07-30,Medium
+T2022299,Arnold Ltd Solutions,Digital Transformation,Implementation,Referral,1810732701.87,23.12,Digital Transformation,8,Awarded,True,2021-07-20,2022-05-31,High
+T2023000,"Guzman, Hoffman and Baldwin Technologies",IoT,Training,LinkedIn,1057246386.67,32.63,IoT,10,Awarded,False,2021-10-24,2022-04-18,High
+T2023001,"Watts, Robinson and Nguyen Technologies",Data Analytics,Integration,LinkedIn,1415494373.65,28.61,Data Analytics,10,Submitted,True,2022-07-07,2022-03-21,Medium
+T2023002,DataMind Analytics,Data Analytics,Strategy,LinkedIn,1217338537.85,28.24,Data Analytics,5,Lost,True,2021-12-17,2023-01-04,Medium
+T2023003,Blair PLC Solutions,AI/ML,Implementation,Conference,985722077.05,31.49,AI/ML,8,Awarded,True,2022-04-16,2021-07-27,Medium
+T2023004,Wilkerson-Day Systems,IoT,Optimization,Email,2032694931.28,24.99,IoT,10,Awarded,True,2023-05-27,2022-06-20,Medium
+T2023005,"Reid, Ferguson and Sanchez Technologies",IoT,Training,Referral,976889126.21,25.78,IoT,5,Lost,True,2021-04-01,2021-04-23,High
+T2023006,Harrell LLC Solutions,AI/ML,Assessment,LinkedIn,1572971892.38,31.41,ERP Implementation,7,Lost,True,2021-07-20,2023-08-15,Medium
+T2023007,BlockChain Innovations,Blockchain,Implementation,LinkedIn,1748594047.9,38.53,Blockchain,9,Submitted,True,2021-07-05,2021-03-04,Medium
+T2023008,Dudley Group Systems,IoT,Assessment,Conference,1307592539.95,28.63,IoT,3,Awarded,True,2023-04-11,2022-02-13,High
+T2023009,Galloway-Wyatt Technologies,IoT,Optimization,Referral,2288814917.56,27.82,IoT,3,Awarded,True,2022-11-13,2024-01-23,Low
+T2023010,"Reid, Ferguson and Sanchez Technologies",Data Analytics,Training,Referral,1319741197.8,22.06,IoT,4,Lost,False,2021-04-23,2023-12-21,High
+T2023011,Rodriguez-Graham Systems,AI/ML,Managed Services,LinkedIn,1361557372.29,38.17,AI/ML,7,Awarded,True,2023-01-21,2022-01-24,Medium
+T2023012,"Baker, Mason and White Solutions",Cloud Migration,Implementation,Referral,1156667738.69,24.07,Cloud Migration,11,Lost,True,2021-08-21,2023-10-07,High
+T2023013,"Snyder, Campos and Callahan Technologies",Data Analytics,Managed Services,Referral,1150721160.07,28.22,Digital Transformation,6,Awarded,True,2023-05-17,2022-08-21,Low
+T2023014,Galloway-Wyatt Technologies,IoT,Assessment,Conference,2334146599.99,36.82,IoT,4,Awarded,True,2023-12-28,2022-09-21,Medium
+T2023015,Galloway-Wyatt Technologies,Cloud Migration,Strategy,LinkedIn,797358051.64,22.21,IoT,15,Submitted,False,2022-08-14,2021-07-07,Low
+T2023016,Abbott-Munoz Systems,Blockchain,Optimization,LinkedIn,2607526949.8,39.56,Blockchain,5,Submitted,False,2021-02-16,2022-09-23,Medium
+T2023017,Rodriguez-Graham Systems,AI/ML,Assessment,LinkedIn,1966439375.27,30.98,AI/ML,6,Awarded,True,2022-08-21,2022-02-22,Low
+T2023018,Blake and Sons Solutions,ERP Implementation,Integration,Conference,1018583533.5,28.39,Data Analytics,13,Awarded,True,2023-12-22,2024-02-28,Medium
+T2023019,Dudley Group Systems,IoT,Implementation,Referral,1960125357.24,34.84,IoT,7,Awarded,True,2023-02-01,2022-09-13,High
+T2023020,SecureNet Systems,Cybersecurity,Training,LinkedIn,1131354213.26,28.1,Cybersecurity,5,Lost,False,2022-08-08,2022-02-08,High
+T2023021,"Baker, Mason and White Solutions",Cloud Migration,Implementation,Conference,886975802.53,22.09,Cloud Migration,10,Submitted,True,2022-10-11,2021-10-17,Medium
+T2023022,Galloway-Wyatt Technologies,IoT,Integration,Conference,833024156.37,28.75,IoT,3,Awarded,True,2023-02-03,2023-08-07,Medium
+T2023023,"Mcclain, Miller and Henderson Solutions",Data Analytics,Assessment,LinkedIn,954562148.12,28.17,Data Analytics,3,Lost,False,2023-07-28,2022-11-17,Low
+T2023024,"Romero, Gonzalez and Brooks Labs",Blockchain,Assessment,LinkedIn,754063081.64,41.17,Blockchain,7,Lost,False,2021-10-29,2023-07-25,Medium
+T2023025,ERP Masters,AI/ML,Strategy,LinkedIn,1544265095.0,36.65,ERP Implementation,8,Awarded,True,2022-03-28,2023-08-02,Medium
+T2023026,Arnold Ltd Solutions,Digital Transformation,Optimization,Conference,1345420243.55,12.03,Digital Transformation,6,Lost,True,2021-02-16,2021-07-21,Medium
+T2023027,Gray-Mayo Systems,Digital Transformation,Implementation,Email,836605317.78,28.14,Digital Transformation,9,Awarded,True,2023-11-14,2021-05-25,High
+T2023028,Galloway-Wyatt Technologies,IoT,Managed Services,Referral,1363691205.48,40.36,IoT,9,Awarded,True,2022-12-08,2023-01-20,Medium
+T2023029,Gray-Mayo Systems,Cloud Migration,Integration,LinkedIn,1182651224.64,21.47,Digital Transformation,15,Lost,False,2022-08-15,2022-01-01,High
+T2023030,"Reid, Ferguson and Sanchez Technologies",IoT,Implementation,LinkedIn,1230340621.95,34.79,IoT,4,Submitted,True,2023-12-12,2022-12-18,Low
+T2023031,"Snyder, Campos and Callahan Technologies",Cloud Migration,Assessment,LinkedIn,912367293.49,27.69,Digital Transformation,12,Submitted,True,2021-10-08,2022-03-15,Low
+T2023032,James Group Systems,ERP Implementation,Optimization,Conference,786922974.99,20.85,ERP Implementation,12,Awarded,True,2023-08-08,2022-05-05,Low
+T2023033,TechNovate Solutions,Digital Transformation,Strategy,LinkedIn,916967865.51,21.44,Digital Transformation,10,Awarded,False,2023-05-05,2022-02-02,Medium
+T2023034,Smith-Bowen Systems,IoT,Assessment,LinkedIn,1742493955.18,28.32,IoT,7,Lost,True,2023-01-11,2023-10-12,Medium
+T2023035,Garcia-James Solutions,IoT,Managed Services,Conference,1443731206.86,37.46,IoT,4,Awarded,True,2022-06-16,2021-12-30,Medium
+T2023036,Doyle Ltd Solutions,Digital Transformation,Managed Services,Referral,1093700507.22,16.54,Digital Transformation,5,Submitted,True,2023-05-10,2023-01-30,Low
+T2023037,Blair PLC Solutions,AI/ML,Implementation,Email,1254835534.92,41.07,AI/ML,8,Awarded,True,2021-07-13,2022-01-08,Medium
+T2023038,Arnold Ltd Solutions,Digital Transformation,Strategy,LinkedIn,1353217099.05,33.6,Digital Transformation,8,Awarded,True,2021-10-22,2021-02-26,Low
+T2023039,Blair PLC Solutions,AI/ML,Implementation,LinkedIn,1096095700.6,35.96,AI/ML,6,Submitted,True,2022-03-29,2022-02-20,High
+T2023040,"Hoffman, Baker and Richards Systems",Cybersecurity,Optimization,Referral,1148835121.43,30.67,Cybersecurity,8,Awarded,True,2021-08-22,2023-06-04,Medium
+T2023041,AI Nexus,AI/ML,Assessment,LinkedIn,1602396205.05,38.54,AI/ML,4,Awarded,True,2021-10-12,2023-07-25,High
+T2023042,Burton Ltd Solutions,Cybersecurity,Integration,Email,806637872.78,26.07,Cybersecurity,5,Awarded,False,2021-08-31,2022-05-01,Low
+T2023043,Smith-Bowen Systems,IoT,Implementation,LinkedIn,1400580565.23,22.82,IoT,5,Submitted,True,2021-08-17,2021-07-09,Low
+T2023044,Perez Inc Solutions,AI/ML,Optimization,LinkedIn,630414502.26,29.48,AI/ML,4,Awarded,True,2023-08-19,2021-10-01,High
+T2023045,DataMind Analytics,Data Analytics,Optimization,Conference,2540572113.66,29.94,Data Analytics,4,Submitted,True,2022-02-14,2022-02-13,Medium
+T2023046,CloudScape Technologies,Cloud Migration,Training,Referral,1546565513.03,24.97,Cloud Migration,12,Awarded,True,2023-10-23,2022-06-10,Medium
+T2023047,AI Nexus,AI/ML,Training,LinkedIn,1167450774.0,35.41,AI/ML,4,Submitted,True,2022-08-01,2022-01-17,High
+T2023048,Baker and Sons Systems,Blockchain,Training,Conference,1102309008.91,44.6,Blockchain,6,Lost,True,2022-01-15,2023-07-20,Medium
+T2023049,IoT Connect,IoT,Assessment,LinkedIn,1324451993.26,33.34,IoT,9,Submitted,True,2021-08-20,2022-11-05,Low
+T2023050,ERP Masters,ERP Implementation,Integration,Conference,1619475201.22,16.66,ERP Implementation,13,Submitted,False,2021-06-18,2022-12-03,Medium
+T2023051,James Group Systems,ERP Implementation,Integration,Conference,958645329.86,19.13,ERP Implementation,12,Lost,True,2023-04-15,2022-09-18,High
+T2023052,"Reid, Ferguson and Sanchez Technologies",IoT,Integration,LinkedIn,918465485.1,34.68,IoT,10,Awarded,True,2023-10-04,2021-09-03,Medium
+T2023053,Wilkerson-Day Systems,IoT,Assessment,LinkedIn,1199318816.91,32.14,IoT,5,Awarded,True,2021-07-28,2022-01-11,Low
+T2023054,"Guzman, Hoffman and Baldwin Technologies",IoT,Strategy,Conference,1386661295.14,37.43,IoT,9,Submitted,True,2023-10-20,2022-08-24,High
+T2023055,"Snyder, Campos and Callahan Technologies",Digital Transformation,Managed Services,Referral,1536979815.08,21.87,Digital Transformation,9,Awarded,True,2023-04-09,2023-10-20,Medium
+T2023056,Doyle Ltd Solutions,Cloud Migration,Assessment,LinkedIn,1421670422.24,31.95,Digital Transformation,15,Submitted,False,2021-03-02,2021-08-22,High
+T2023057,AI Nexus,AI/ML,Assessment,LinkedIn,811345395.06,35.05,AI/ML,5,Awarded,True,2022-09-13,2021-08-16,High
+T2023058,"Dyer, Potter and Mack Solutions",Blockchain,Managed Services,Conference,1097376170.31,34.67,AI/ML,6,Awarded,True,2022-06-20,2024-02-15,Medium
+T2023059,Baker and Sons Systems,Blockchain,Assessment,Email,1137005498.97,36.95,Blockchain,3,Lost,True,2023-07-11,2022-11-06,High
+T2023060,Gray-Mayo Systems,Digital Transformation,Integration,LinkedIn,1409728691.28,22.28,Digital Transformation,7,Submitted,True,2022-10-02,2023-04-07,Medium
+T2023061,ERP Masters,ERP Implementation,Assessment,Conference,1391580198.91,19.65,ERP Implementation,15,Awarded,True,2021-04-25,2023-04-12,Medium
+T2023062,"Snyder, Campos and Callahan Technologies",ERP Implementation,Managed Services,Referral,664878788.5,20.32,Digital Transformation,12,Submitted,True,2021-09-20,2023-02-20,Medium
+T2023063,"Romero, Gonzalez and Brooks Labs",Blockchain,Assessment,Conference,1151727714.41,35.3,Blockchain,8,Submitted,True,2023-01-02,2023-05-24,Medium
+T2023064,"Dyer, Potter and Mack Solutions",AI/ML,Training,LinkedIn,1439747946.39,28.95,AI/ML,6,Submitted,True,2022-09-17,2021-09-22,Medium
+T2023065,CloudScape Technologies,Cloud Migration,Training,LinkedIn,1733457549.54,32.65,Cloud Migration,14,Awarded,True,2021-02-11,2023-09-19,Medium
+T2023066,Arnold Ltd Solutions,Digital Transformation,Optimization,LinkedIn,1880818930.06,20.93,Digital Transformation,4,Awarded,True,2022-02-26,2022-12-20,Medium
+T2023067,"Dyer, Potter and Mack Solutions",AI/ML,Assessment,Conference,1086937002.09,35.74,AI/ML,6,Submitted,True,2021-06-04,2024-02-02,Medium
+T2023068,Garcia-James Solutions,IoT,Optimization,Email,1098283532.52,28.93,IoT,9,Submitted,False,2021-07-08,2021-08-13,Medium
+T2023069,Abbott-Munoz Systems,Blockchain,Assessment,Referral,1265686051.98,38.06,Blockchain,10,Submitted,False,2022-09-11,2023-11-30,High
+T2023070,"Reid, Ferguson and Sanchez Technologies",IoT,Assessment,LinkedIn,1203703733.5,32.8,IoT,9,Submitted,True,2022-01-05,2021-03-10,Medium
+T2023071,Wilkerson-Day Systems,Blockchain,Managed Services,LinkedIn,1718897891.12,42.18,IoT,10,Lost,True,2023-06-08,2021-06-02,Medium
+T2023072,Galloway-Wyatt Technologies,IoT,Optimization,LinkedIn,770296365.06,36.75,IoT,7,Awarded,True,2021-05-12,2022-03-23,High
+T2023073,Abbott-Munoz Systems,Cybersecurity,Implementation,LinkedIn,1591672603.82,17.23,Blockchain,8,Awarded,True,2022-01-29,2021-03-28,Medium
+T2023074,Dudley Group Systems,IoT,Assessment,Conference,1124186678.18,25.17,IoT,9,Awarded,True,2021-11-23,2022-08-12,Low
+T2023075,Garcia-James Solutions,Digital Transformation,Integration,Conference,700399292.13,16.15,IoT,5,Lost,False,2023-09-23,2021-03-12,Low
+T2023076,BlockChain Innovations,Blockchain,Assessment,LinkedIn,1510190784.39,42.71,Blockchain,4,Lost,True,2021-07-04,2023-04-23,High
+T2023077,Harrell LLC Solutions,Data Analytics,Training,LinkedIn,552764489.78,25.12,ERP Implementation,4,Awarded,True,2023-12-12,2022-06-30,Medium
+T2023078,BlockChain Innovations,Blockchain,Managed Services,LinkedIn,1352602674.77,37.27,Blockchain,8,Lost,False,2022-04-29,2023-06-16,Medium
+T2023079,IoT Connect,IoT,Assessment,Email,1270610403.87,24.61,IoT,10,Submitted,True,2023-10-02,2024-01-28,Medium
+T2023080,ERP Masters,ERP Implementation,Managed Services,Conference,1430861759.69,19.92,ERP Implementation,11,Lost,False,2023-01-14,2023-10-01,High
+T2023081,Dudley Group Systems,IoT,Optimization,Email,898138276.11,32.6,IoT,3,Awarded,False,2021-04-22,2022-06-05,Medium
+T2023082,James Group Systems,ERP Implementation,Optimization,Email,1146748527.15,25.98,ERP Implementation,13,Awarded,True,2022-04-30,2023-07-26,Medium
+T2023083,"Flowers, Martin and Kelly Technologies",Digital Transformation,Managed Services,LinkedIn,908926591.32,21.86,Digital Transformation,6,Submitted,False,2023-06-18,2022-11-11,High
+T2023084,Frazier Inc Systems,Data Analytics,Optimization,LinkedIn,922238536.81,25.78,Data Analytics,4,Awarded,True,2023-04-26,2022-12-13,High
+T2023085,IoT Connect,Digital Transformation,Assessment,Conference,2009733218.36,21.14,IoT,8,Awarded,False,2022-11-01,2023-08-17,Medium
+T2023086,SecureNet Systems,Cybersecurity,Optimization,LinkedIn,741130187.62,23.14,Cybersecurity,7,Awarded,True,2022-02-14,2022-10-18,Medium
+T2023087,BlockChain Innovations,Blockchain,Optimization,LinkedIn,1129406573.84,47.36,Blockchain,5,Awarded,True,2022-10-17,2023-08-13,Medium
+T2023088,"Romero, Gonzalez and Brooks Labs",Blockchain,Optimization,LinkedIn,1642896509.37,36.65,Blockchain,8,Submitted,True,2023-01-23,2022-02-07,Medium
+T2023089,James Group Systems,Data Analytics,Training,LinkedIn,2079842887.7,24.97,ERP Implementation,3,Awarded,True,2021-07-02,2023-09-05,Low
+T2023090,Smith-Bowen Systems,AI/ML,Training,LinkedIn,1038851753.04,38.39,IoT,7,Submitted,True,2023-01-24,2022-01-14,High
+T2023091,ERP Masters,ERP Implementation,Optimization,Conference,1002778818.91,30.79,ERP Implementation,15,Awarded,True,2022-02-21,2022-02-25,High
+T2023092,Abbott-Munoz Systems,Blockchain,Assessment,LinkedIn,1315579451.57,43.71,Blockchain,5,Lost,True,2022-08-03,2022-02-22,Medium
+T2023093,"Adams, Zuniga and Wong Technologies",AI/ML,Implementation,LinkedIn,1921186187.09,41.51,Blockchain,6,Awarded,False,2023-01-28,2023-08-27,Low
+T2023094,Perez Inc Solutions,AI/ML,Integration,LinkedIn,959314877.03,35.16,AI/ML,7,Submitted,True,2023-05-17,2022-07-09,Low
+T2023095,"Hoffman, Baker and Richards Systems",Cybersecurity,Assessment,LinkedIn,981350917.92,32.3,Cybersecurity,5,Lost,False,2021-04-04,2021-02-10,Medium
+T2023096,Carlson-Cruz Labs,Cybersecurity,Implementation,Email,1252886440.05,40.07,Cybersecurity,6,Lost,True,2022-01-03,2022-07-18,Low
+T2023097,Morales-Jones Technologies,Blockchain,Integration,LinkedIn,1271113812.45,38.17,Digital Transformation,8,Awarded,True,2021-08-28,2022-11-03,Low
+T2023098,"Rodriguez, Figueroa and Sanchez Technologies",Cloud Migration,Integration,Email,898530372.73,18.26,Cloud Migration,12,Awarded,True,2022-06-24,2022-07-25,Medium
+T2023099,"Reid, Ferguson and Sanchez Technologies",ERP Implementation,Optimization,Referral,987499941.29,26.0,IoT,15,Lost,True,2023-06-21,2021-05-19,Low
+T2023100,SecureNet Systems,Cybersecurity,Implementation,LinkedIn,1412675279.18,24.77,Cybersecurity,6,Awarded,True,2023-10-11,2021-04-24,Medium
+T2023101,"Baker, Mason and White Solutions",Cloud Migration,Optimization,Conference,1492086439.22,30.93,Cloud Migration,9,Awarded,True,2022-12-17,2021-08-10,Medium
+T2023102,Blair PLC Solutions,AI/ML,Optimization,LinkedIn,958343424.52,39.98,AI/ML,8,Submitted,False,2022-03-11,2021-02-08,Medium
+T2023103,"Ross, Robinson and Bright Solutions",ERP Implementation,Optimization,Email,1886813708.02,12.89,ERP Implementation,11,Awarded,True,2022-11-05,2021-03-25,Medium
+T2023104,Rodriguez-Graham Systems,AI/ML,Optimization,LinkedIn,1115429505.09,33.39,AI/ML,4,Awarded,True,2023-08-01,2023-10-10,Medium
+T2023105,Abbott-Munoz Systems,Blockchain,Integration,LinkedIn,1420996583.55,46.64,Blockchain,3,Awarded,True,2021-09-22,2022-04-08,High
+T2023106,Frazier Inc Systems,Data Analytics,Training,Referral,2302487696.3,30.28,Data Analytics,4,Lost,True,2023-03-28,2022-07-07,Low
+T2023107,"Flowers, Martin and Kelly Technologies",Digital Transformation,Assessment,Referral,1588581501.25,18.78,Digital Transformation,5,Awarded,True,2021-11-12,2021-10-04,Medium
+T2023108,"Reid, Ferguson and Sanchez Technologies",Digital Transformation,Managed Services,Email,1303518472.42,22.29,IoT,5,Awarded,False,2023-11-16,2022-03-16,Medium
+T2023109,James Group Systems,ERP Implementation,Strategy,Conference,1400515200.0,27.64,ERP Implementation,14,Awarded,False,2022-01-17,2023-07-09,Medium
+T2023110,BlockChain Innovations,Blockchain,Integration,LinkedIn,1659044183.11,42.69,Blockchain,10,Submitted,True,2021-11-14,2023-11-11,Medium
+T2023111,Frazier Inc Systems,Data Analytics,Strategy,LinkedIn,934939499.54,26.18,Data Analytics,9,Lost,True,2021-11-01,2021-10-19,Medium
+T2023112,Dudley Group Systems,IoT,Training,LinkedIn,666698382.98,26.78,IoT,3,Submitted,True,2021-08-09,2023-12-12,Medium
+T2023113,IoT Connect,IoT,Managed Services,Referral,863748994.79,42.28,IoT,7,Submitted,True,2023-10-29,2021-03-05,Low
+T2023114,"Dyer, Potter and Mack Solutions",AI/ML,Strategy,Conference,1106769544.76,33.89,AI/ML,7,Submitted,False,2022-09-02,2022-11-04,Medium
+T2023115,"Watts, Robinson and Nguyen Technologies",Blockchain,Managed Services,Conference,1536044500.21,41.54,Data Analytics,7,Lost,False,2022-01-19,2022-04-08,Low
+T2023116,"Romero, Gonzalez and Brooks Labs",Digital Transformation,Assessment,Referral,1009612112.91,26.3,Blockchain,4,Awarded,True,2021-08-27,2021-02-27,Low
+T2023117,Perez Inc Solutions,AI/ML,Integration,LinkedIn,1308999921.79,34.16,AI/ML,8,Awarded,True,2023-01-09,2023-04-19,High
+T2023118,BlockChain Innovations,Blockchain,Optimization,LinkedIn,1947785555.75,38.76,Blockchain,4,Submitted,False,2021-02-24,2022-04-04,Medium
+T2023119,Doyle Ltd Solutions,Digital Transformation,Strategy,Conference,1499231701.44,24.45,Digital Transformation,6,Awarded,True,2023-08-29,2023-06-14,Low
+T2023120,"Mcclain, Miller and Henderson Solutions",Blockchain,Strategy,Email,1710065372.44,43.31,Data Analytics,10,Lost,True,2022-02-17,2022-09-26,Medium
+T2023121,"Flowers, Martin and Kelly Technologies",Digital Transformation,Assessment,LinkedIn,815005724.08,22.91,Digital Transformation,9,Lost,False,2022-08-19,2021-04-16,Medium
+T2023122,Morales-Jones Technologies,Digital Transformation,Implementation,Referral,989141754.88,24.0,Digital Transformation,10,Awarded,True,2023-05-15,2022-11-08,Medium
+T2023123,Abbott-Munoz Systems,IoT,Assessment,Referral,1433900921.89,29.36,Blockchain,4,Awarded,True,2023-07-08,2023-07-13,Low
+T2023124,Blair PLC Solutions,Blockchain,Training,LinkedIn,1210303210.08,46.19,AI/ML,6,Submitted,False,2022-11-26,2023-09-17,Low
+T2023125,Blair PLC Solutions,IoT,Optimization,Email,2004017519.45,33.54,AI/ML,8,Awarded,False,2021-11-28,2022-03-31,Medium
+T2023126,"Romero, Gonzalez and Brooks Labs",Blockchain,Implementation,LinkedIn,2624772895.47,41.2,Blockchain,5,Submitted,True,2023-05-02,2023-11-08,Medium
+T2023127,"Gardner, Robinson and Lawrence Technologies",AI/ML,Managed Services,Email,709113709.14,37.83,AI/ML,6,Awarded,True,2023-10-29,2021-04-06,High
+T2023128,"Mcclure, Ward and Lee Systems",Data Analytics,Training,Conference,1348289777.02,31.77,Data Analytics,4,Submitted,True,2022-11-28,2023-01-28,High
+T2023129,"Hoffman, Baker and Richards Systems",Cybersecurity,Training,LinkedIn,1471737752.87,36.45,Cybersecurity,8,Awarded,False,2023-06-16,2023-08-25,High
+T2023130,ERP Masters,Cloud Migration,Training,Referral,832934701.99,24.31,ERP Implementation,8,Submitted,True,2022-02-25,2023-02-10,Low
+T2023131,Blair PLC Solutions,Blockchain,Implementation,Conference,931772405.5,38.95,AI/ML,4,Awarded,True,2021-10-10,2021-10-09,High
+T2023132,Gray-Mayo Systems,AI/ML,Managed Services,LinkedIn,1434853801.25,32.1,Digital Transformation,7,Submitted,True,2022-06-29,2023-03-04,High
+T2023133,"Adams, Zuniga and Wong Technologies",Blockchain,Optimization,Conference,1353766761.76,48.35,Blockchain,5,Awarded,True,2022-04-13,2021-11-09,High
+T2023134,"Adams, Zuniga and Wong Technologies",Blockchain,Strategy,Email,1374197937.17,34.02,Blockchain,8,Awarded,False,2023-11-26,2021-06-22,Low
+T2023135,Arnold Ltd Solutions,Digital Transformation,Strategy,Referral,1001555779.71,27.98,Digital Transformation,9,Awarded,True,2021-11-06,2021-05-29,High
+T2023136,"Baker, Mason and White Solutions",Digital Transformation,Integration,Conference,1207915202.51,21.33,Cloud Migration,7,Awarded,False,2021-01-17,2022-08-26,High
+T2023137,Carlson-Cruz Labs,IoT,Training,Conference,1460784429.9,28.08,Cybersecurity,6,Awarded,True,2023-06-25,2023-01-08,High
+T2023138,Frazier Inc Systems,Data Analytics,Strategy,LinkedIn,1363901271.51,27.4,Data Analytics,7,Submitted,True,2021-09-16,2024-01-01,High
+T2023139,Blair PLC Solutions,AI/ML,Training,LinkedIn,1054695344.18,30.56,AI/ML,6,Awarded,True,2021-02-17,2021-03-29,High
+T2023140,Baker and Sons Systems,Blockchain,Integration,LinkedIn,1075342802.09,43.61,Blockchain,7,Awarded,True,2021-05-03,2023-03-05,Medium
+T2023141,"Walter, Edwards and Rios Technologies",Data Analytics,Assessment,LinkedIn,1066730738.15,36.63,Data Analytics,4,Submitted,False,2023-07-18,2022-12-26,High
+T2023142,"Romero, Gonzalez and Brooks Labs",Data Analytics,Integration,LinkedIn,1590847179.45,29.12,Blockchain,7,Awarded,False,2021-10-14,2023-03-15,Medium
+T2023143,"Henderson, Ramirez and Lewis Solutions",AI/ML,Optimization,LinkedIn,709103912.2,27.91,AI/ML,5,Awarded,True,2021-10-28,2023-06-21,High
+T2023144,BlockChain Innovations,Blockchain,Assessment,LinkedIn,1756397213.23,32.37,Blockchain,5,Submitted,True,2023-12-14,2023-05-05,Medium
+T2023145,Wilkerson-Day Systems,Digital Transformation,Assessment,Conference,2590754711.68,19.24,IoT,9,Awarded,False,2023-05-04,2021-12-30,Low
+T2023146,"Rodriguez, Figueroa and Sanchez Technologies",Cloud Migration,Integration,Conference,1271064620.28,22.18,Cloud Migration,9,Submitted,True,2021-11-18,2024-03-20,Medium
+T2023147,ERP Masters,ERP Implementation,Managed Services,Conference,2195296920.07,27.71,ERP Implementation,9,Awarded,True,2021-11-10,2021-09-29,Medium
+T2023148,Galloway-Wyatt Technologies,IoT,Implementation,Conference,1728059860.39,42.31,IoT,5,Awarded,True,2022-09-17,2022-09-03,Medium
+T2023149,"Romero, Gonzalez and Brooks Labs",Blockchain,Strategy,LinkedIn,1436554483.68,45.12,Blockchain,8,Lost,True,2022-09-27,2023-08-15,High
+T2023150,James Group Systems,ERP Implementation,Optimization,Referral,1019317949.97,23.89,ERP Implementation,10,Submitted,True,2023-07-11,2023-08-08,Low
+T2023151,Harrell LLC Solutions,ERP Implementation,Assessment,Referral,1201387459.11,15.91,ERP Implementation,14,Submitted,True,2021-04-04,2023-07-27,High
+T2023152,Frazier Inc Systems,Data Analytics,Training,LinkedIn,1049717444.25,27.15,Data Analytics,3,Awarded,False,2022-09-25,2024-03-25,Medium
+T2023153,Frazier Inc Systems,Data Analytics,Training,LinkedIn,1601724729.5,31.48,Data Analytics,3,Awarded,False,2023-10-27,2021-03-10,Low
+T2023154,Baker and Sons Systems,Blockchain,Implementation,LinkedIn,1873387831.48,40.44,Blockchain,6,Lost,False,2023-06-29,2021-07-23,High
+T2023155,Burton Ltd Solutions,Cybersecurity,Optimization,Conference,1134726444.99,24.29,Cybersecurity,7,Lost,True,2022-01-05,2023-05-30,Low
+T2023156,Wilkerson-Day Systems,IoT,Strategy,LinkedIn,686965268.68,28.42,IoT,4,Awarded,True,2022-01-10,2022-07-08,High
+T2023157,Doyle Ltd Solutions,Digital Transformation,Strategy,Conference,1159472533.87,21.59,Digital Transformation,5,Awarded,True,2021-02-25,2021-05-30,Medium
+T2023158,IoT Connect,IoT,Managed Services,Conference,1453149031.41,39.57,IoT,8,Awarded,False,2021-09-05,2021-05-17,Medium
+T2023159,Burton Ltd Solutions,Cybersecurity,Assessment,Conference,2097439283.66,24.88,Cybersecurity,8,Lost,True,2022-10-14,2023-09-09,Medium
+T2023160,AI Nexus,AI/ML,Strategy,LinkedIn,1432066853.82,41.11,AI/ML,5,Submitted,False,2021-07-27,2022-06-19,High
+T2023161,Frazier Inc Systems,Digital Transformation,Strategy,Conference,901818202.13,20.87,Data Analytics,10,Lost,True,2021-10-19,2023-03-06,Medium
+T2023162,"Mcclain, Miller and Henderson Solutions",IoT,Strategy,Email,1667147409.62,30.14,Data Analytics,10,Submitted,True,2022-08-16,2022-01-08,Low
+T2023163,Perez Inc Solutions,AI/ML,Managed Services,LinkedIn,1910686306.93,44.42,AI/ML,7,Lost,True,2023-11-12,2022-08-30,Low
+T2023164,"Romero, Gonzalez and Brooks Labs",Blockchain,Assessment,LinkedIn,859507448.64,37.56,Blockchain,4,Awarded,False,2022-07-27,2023-07-04,Medium
+T2023165,"Walter, Edwards and Rios Technologies",ERP Implementation,Integration,Referral,707482512.11,20.7,Data Analytics,13,Submitted,False,2023-07-17,2022-08-13,Medium
+T2023166,Arnold Ltd Solutions,Digital Transformation,Strategy,Conference,1150513847.1,23.62,Digital Transformation,8,Lost,True,2021-01-05,2023-10-03,Low
+T2023167,TechNovate Solutions,Digital Transformation,Optimization,Conference,745335014.23,19.67,Digital Transformation,10,Awarded,True,2021-06-08,2024-02-08,Low
+T2023168,"Dyer, Potter and Mack Solutions",AI/ML,Optimization,LinkedIn,1024986242.08,37.57,AI/ML,7,Awarded,True,2021-01-18,2021-10-13,Medium
+T2023169,"Guzman, Hoffman and Baldwin Technologies",IoT,Optimization,LinkedIn,508042983.42,26.15,IoT,3,Submitted,False,2023-01-03,2022-02-27,Low
+T2023170,Carlson-Cruz Labs,Cybersecurity,Implementation,Referral,2046569385.89,29.86,Cybersecurity,5,Lost,False,2021-03-17,2022-08-28,Medium
+T2023171,"Baker, Mason and White Solutions",Data Analytics,Strategy,LinkedIn,1048499993.39,36.31,Cloud Migration,9,Lost,True,2023-10-09,2022-01-15,Medium
+T2023172,"Dyer, Potter and Mack Solutions",Cybersecurity,Integration,LinkedIn,1384199118.86,26.99,AI/ML,5,Submitted,True,2022-04-12,2024-01-07,High
+T2023173,Abbott-Munoz Systems,Blockchain,Integration,Conference,1316566237.45,35.01,Blockchain,7,Awarded,True,2023-05-25,2021-05-17,High
+T2023174,Arnold Ltd Solutions,Digital Transformation,Strategy,Email,1737712180.37,25.83,Digital Transformation,7,Awarded,True,2023-01-11,2023-12-26,High
+T2023175,Harrell LLC Solutions,ERP Implementation,Training,LinkedIn,1131322516.52,19.5,ERP Implementation,14,Awarded,True,2022-02-03,2022-12-17,Low
+T2023176,"Ross, Robinson and Bright Solutions",Data Analytics,Strategy,Email,938404051.52,23.61,ERP Implementation,9,Lost,True,2022-11-06,2022-10-29,Low
+T2023177,"Ferrell, Rice and Maddox Systems",IoT,Training,Conference,1342722264.81,30.87,IoT,3,Awarded,False,2022-05-28,2022-06-21,Low
+T2023178,"Henderson, Ramirez and Lewis Solutions",AI/ML,Optimization,Referral,945100277.68,39.57,AI/ML,8,Submitted,True,2023-06-18,2021-08-14,Medium
+T2023179,"Snyder, Campos and Callahan Technologies",Digital Transformation,Assessment,Email,1108660313.6,29.46,Digital Transformation,3,Awarded,False,2021-05-14,2021-10-19,Low
+T2023180,Gray-Mayo Systems,Digital Transformation,Strategy,Conference,961102648.26,21.89,Digital Transformation,9,Submitted,True,2021-04-17,2022-09-26,High
+T2023181,"Flowers, Martin and Kelly Technologies",Digital Transformation,Optimization,Referral,1567846561.48,9.88,Digital Transformation,6,Awarded,True,2021-01-22,2023-08-17,Medium
+T2023182,"Reid, Ferguson and Sanchez Technologies",Cloud Migration,Assessment,LinkedIn,1105271686.52,28.68,IoT,8,Awarded,True,2021-08-10,2021-08-29,Low
+T2023183,"Baker, Mason and White Solutions",Cloud Migration,Training,Referral,1403924048.1,25.33,Cloud Migration,11,Submitted,True,2022-12-29,2023-06-12,Medium
+T2023184,Carlson-Cruz Labs,Cybersecurity,Strategy,LinkedIn,1026108651.03,22.19,Cybersecurity,4,Submitted,True,2023-11-17,2023-02-02,Medium
+T2023185,Baker and Sons Systems,Cybersecurity,Managed Services,Conference,825474105.05,33.97,Blockchain,8,Submitted,False,2023-11-27,2021-11-23,Low
+T2023186,"Walter, Edwards and Rios Technologies",AI/ML,Implementation,LinkedIn,800526935.03,36.47,Data Analytics,5,Awarded,True,2021-05-21,2022-12-31,Low
+T2023187,Perez Inc Solutions,AI/ML,Integration,Email,1189814005.9,37.33,AI/ML,8,Awarded,True,2022-11-19,2022-10-06,Medium
+T2023188,"Mcclain, Miller and Henderson Solutions",Data Analytics,Assessment,Referral,1705590266.82,19.92,Data Analytics,3,Submitted,True,2022-04-02,2022-05-17,Medium
+T2023189,"Gardner, Robinson and Lawrence Technologies",AI/ML,Optimization,Conference,943096857.94,31.33,AI/ML,6,Awarded,True,2022-01-13,2021-02-13,Medium
+T2023190,AI Nexus,AI/ML,Managed Services,LinkedIn,1697371107.63,36.0,AI/ML,5,Awarded,True,2023-01-08,2021-04-30,High
+T2023191,"Guzman, Hoffman and Baldwin Technologies",IoT,Integration,LinkedIn,1225064379.11,26.92,IoT,7,Submitted,False,2022-05-19,2022-01-31,Low
+T2023192,Davis and Sons Technologies,Cloud Migration,Assessment,LinkedIn,1480561080.26,27.14,Cloud Migration,10,Awarded,False,2022-11-25,2022-04-06,Medium
+T2023193,"Henderson, Ramirez and Lewis Solutions",AI/ML,Training,LinkedIn,1077217244.34,35.88,AI/ML,5,Lost,False,2023-06-08,2021-06-13,Low
+T2023194,"Rodriguez, Figueroa and Sanchez Technologies",Data Analytics,Managed Services,Conference,1234088458.1,23.86,Cloud Migration,8,Awarded,False,2022-05-16,2021-05-05,High
+T2023195,"Snyder, Campos and Callahan Technologies",Digital Transformation,Managed Services,Conference,500616118.06,16.64,Digital Transformation,5,Submitted,True,2022-07-28,2021-10-16,High
+T2023196,"Snyder, Campos and Callahan Technologies",Data Analytics,Optimization,Referral,1577229606.44,30.18,Digital Transformation,10,Awarded,True,2023-11-08,2023-04-05,High
+T2023197,Frazier Inc Systems,ERP Implementation,Implementation,Conference,888314200.33,8.19,Data Analytics,15,Awarded,True,2023-09-17,2023-11-10,Medium
+T2023198,"Snyder, Campos and Callahan Technologies",Digital Transformation,Implementation,Email,2229412466.79,25.1,Digital Transformation,3,Submitted,True,2022-04-26,2023-04-21,Medium
+T2023199,"Reid, Ferguson and Sanchez Technologies",Cybersecurity,Managed Services,Email,966657107.68,30.1,IoT,6,Awarded,True,2021-06-22,2022-09-27,Medium
