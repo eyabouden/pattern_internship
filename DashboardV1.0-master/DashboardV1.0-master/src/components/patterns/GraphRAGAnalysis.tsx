@@ -525,17 +525,87 @@ const GraphRAGAnalysis: React.FC<GraphRAGAnalysisProps> = ({ onPatternsDetected 
 const formatGraphRAGResponse = (responseText: string): string => {
   if (!responseText) return '';
   
+  // Try to detect and parse JSON arrays for project lists
+  const jsonArrayMatch = responseText.match(/\[\s*\{[\s\S]*?\}\s*\]/);
+  if (jsonArrayMatch) {
+    try {
+      const projects = JSON.parse(jsonArrayMatch[0]);
+      if (Array.isArray(projects) && projects.length > 0 && projects[0].project) {
+        // Format as beautiful project cards
+        let formatted = `
+          <div class="graphrag-projects mb-8">
+            <h1 class="text-3xl font-bold text-blue-900 mb-6 flex items-center">
+              🏢 <span class="ml-2">Food Industry SAP Projects Analysis</span>
+            </h1>
+            <div class="text-lg text-gray-600 mb-8 italic">✨ Strategic insights from historical project data</div>
+            <div class="space-y-6">
+        `;
+        
+        projects.forEach((project, index) => {
+          formatted += `
+            <div class="bg-gradient-to-r from-blue-50 to-indigo-50 border border-blue-200 rounded-xl p-6 shadow-lg hover:shadow-xl transition-shadow">
+              <div class="flex items-start mb-4">
+                <span class="bg-blue-600 text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm mr-4 mt-1">${index + 1}</span>
+                <div class="flex-1">
+                  <h3 class="text-xl font-bold text-blue-900 mb-3 flex items-center">
+                    📋 <span class="ml-2">${project.project}</span>
+                  </h3>
+                </div>
+              </div>
+              <div class="bg-white rounded-lg p-4 border-l-4 border-green-500">
+                <h4 class="text-lg font-semibold text-green-700 mb-2 flex items-center">
+                  🎯 <span class="ml-2">Challenge Resolved:</span>
+                </h4>
+                <p class="text-gray-700 leading-relaxed">${project.challenge}</p>
+              </div>
+            </div>
+          `;
+        });
+        
+        formatted += `
+            </div>
+            <div class="mt-8 bg-gradient-to-r from-green-50 to-blue-50 border border-green-200 rounded-lg p-4">
+              <div class="flex items-center text-green-800 font-semibold">
+                💡 <span class="ml-2">Key Insight:</span>
+              </div>
+              <p class="text-green-700 mt-2">These projects demonstrate Talan's proven expertise in SAP modernization and digital transformation across the Food Industry sector.</p>
+            </div>
+          </div>
+        `;
+        
+        return formatted;
+      }
+    } catch (e) {
+      // If JSON parsing fails, fall through to regular formatting
+    }
+  }
+  
+  // Regular formatting for non-JSON responses
   return responseText
-    // Make headers bold and larger
-    .replace(/\*\*([^*]+)\*\*/g, '<strong class="text-lg font-bold text-gray-900 block mt-4 mb-2">$1</strong>')
-    // Make bullet points with proper indentation
-    .replace(/^\s*\*\s+(.+)$/gm, '<div class="ml-6 mb-2 flex items-start"><span class="text-blue-600 mr-2 mt-1">•</span><span>$1</span></div>')
-    // Make numbered sections stand out
+    // Format main headers with emojis (# 🎯 Strategic Analysis)
+    .replace(/^# (.+)$/gm, '<h1 class="text-3xl font-bold text-blue-900 mt-8 mb-6 border-b-2 border-blue-200 pb-3">$1</h1>')
+    // Format section headers with emojis (## 📊 **Analysis Overview**)
+    .replace(/^## (.+)$/gm, '<h2 class="text-2xl font-bold text-blue-700 mt-6 mb-4 flex items-center">$1</h2>')
+    // Format subsection headers (### 🏢 **Projects Identified:**)
+    .replace(/^### (.+)$/gm, '<h3 class="text-xl font-semibold text-gray-800 mt-5 mb-3 flex items-center">$1</h3>')
+    // Format project titles (**🚀 [Project Name]**)
+    .replace(/\*\*🚀 ([^*]+)\*\*/g, '<div class="bg-gradient-to-r from-blue-50 to-indigo-50 border-l-4 border-blue-500 p-4 mt-4 mb-3 rounded-r-lg"><h4 class="text-lg font-bold text-blue-900 flex items-center mb-2">🚀 $1</h4>')
+    // Format challenge, industry, technology, impact items
+    .replace(/- \*\*([^:]+):\*\* (.+)$/gm, '<div class="ml-4 mb-2 flex items-start"><span class="font-semibold text-blue-700 min-w-0 mr-2">$1:</span><span class="text-gray-700">$2</span></div>')
+    // Close project boxes
+    .replace(/(<div class="ml-4 mb-2 flex items-start">.*?<\/div>)(?=\s*(?:\*\*🚀|\#\#|$))/gs, '$1</div>')
+    // Format regular bullet points with emojis
+    .replace(/^\s*\*\s+(.+)$/gm, '<div class="ml-6 mb-2 flex items-start"><span class="text-blue-600 mr-2 mt-1">•</span><span class="text-gray-700">$1</span></div>')
+    // Format numbered sections
     .replace(/^(\d+\..*?)$/gm, '<div class="text-xl font-bold text-blue-700 mt-6 mb-3 border-b border-blue-200 pb-2">$1</div>')
-    // Make sub-bullet points with different indentation
-    .replace(/^\s{4,}\*\s+(.+)$/gm, '<div class="ml-12 mb-1 flex items-start text-sm"><span class="text-gray-500 mr-2 mt-1">◦</span><span class="text-gray-700">$1</span></div>')
-    // Highlight important terms
-    .replace(/\*\*([^*]+)\*\*/g, '<span class="font-semibold text-blue-800 bg-blue-50 px-1 rounded">$1</span>')
+    // Format bold text within content
+    .replace(/\*\*([^*]+)\*\*/g, '<span class="font-semibold text-blue-800 bg-blue-50 px-2 py-1 rounded">$1</span>')
+    // Format JSON code blocks - hide them since we're parsing them above
+    .replace(/```json\s*([\s\S]*?)\s*```/g, '')
+    // Format general code blocks
+    .replace(/```\s*([\s\S]*?)\s*```/g, '<div class="bg-gray-900 text-green-400 border rounded-lg p-4 mt-4 mb-4 font-mono text-sm overflow-x-auto"><pre>$1</pre></div>')
+    // Add spacing between major sections
+    .replace(/(<\/h[12]>)/g, '$1<div class="mb-4"></div>')
     // Add spacing after paragraphs
     .replace(/\n\n/g, '<div class="mb-4"></div>')
     // Convert line breaks to HTML

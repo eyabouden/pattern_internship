@@ -16,7 +16,7 @@ const BusinessTypeSelection: React.FC<BusinessTypeSelectionProps> = ({ onBusines
               <Zap className="h-10 w-10 text-white" />
             </div>
             <div className="text-left">
-              <h1 className="text-4xl font-bold text-[#1A1A1A]">PatternAI</h1>
+              <h1 className="text-4xl font-bold text-[#1A1A1A]">IATA</h1>
               <p className="text-lg text-[#2D89C7]">Intelligent Business Analytics</p>
             </div>
           </div>

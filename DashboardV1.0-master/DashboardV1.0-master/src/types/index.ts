@@ -1,5 +1,5 @@
 export type BusinessType = 'sales' | 'marketing' | 'both' | null;
-export type ActiveSection = 'home' | 'competitors' | 'company-tracker' | 'competitor-chat' | 'decision-assistant' | 'sales-dashboard' | 'marketing-dashboard' | 'sales-patterns' | 'marketing-patterns';
+export type ActiveSection = 'home' | 'competitors' | 'company-tracker' | 'competitor-chat' | 'decision-assistant' | 'sales-dashboard' | 'marketing-dashboard' | 'sales-patterns' | 'marketing-patterns' | 'knowledge-graph';
 
 export interface Company {
   name: string;

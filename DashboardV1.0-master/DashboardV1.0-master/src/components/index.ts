@@ -7,6 +7,9 @@ export { default as BusinessTypeSelection } from './BusinessTypeSelection';
 export { default as CompanySetup } from './CompanySetup';
 export { default as CompetitorSelection } from './CompetitorSelection';
 
+// Knowledge Graph components
+export { default as KnowledgeGraphVisualization } from './knowledge-graph/KnowledgeGraphVisualization';
+
 // Dashboard components
 export { default as HomeDashboard } from './dashboard/HomeDashboard';
 export { default as CompetitorsSection } from './dashboard/CompetitorsSection';

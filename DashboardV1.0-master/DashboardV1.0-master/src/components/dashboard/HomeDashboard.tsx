@@ -45,7 +45,7 @@ const HomeDashboard: React.FC<HomeDashboardProps> = ({ businessType, company, on
               <Zap className="h-8 w-8 text-white" />
             </div>
             <div>
-              <h1 className="text-4xl font-bold mb-2">Welcome to PatternAI</h1>
+              <h1 className="text-4xl font-bold mb-2">Welcome to IATA</h1>
               <p className="text-xl text-blue-100">Intelligent Pattern Recognition for {company?.name}</p>
             </div>
           </div>
@@ -122,7 +122,7 @@ const HomeDashboard: React.FC<HomeDashboardProps> = ({ businessType, company, on
       {/* Platform Features */}
       <div className="bg-white rounded-3xl p-8 shadow-sm border border-gray-100">
         <div className="text-center mb-8">
-          <h2 className="text-3xl font-bold text-gray-900 mb-4">How PatternAI Works</h2>
+          <h2 className="text-3xl font-bold text-gray-900 mb-4">How IATA Works</h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
             Our advanced AI engine analyzes your business data to identify patterns, predict trends, and provide actionable insights for better decision-making.
           </p>

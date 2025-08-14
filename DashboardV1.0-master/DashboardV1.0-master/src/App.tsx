@@ -16,6 +16,8 @@ import SalesDashboard from './components/dashboard/SalesDashboard';
 import MarketingDashboard from './components/dashboard/MarketingDashboard';
 import SalesPatterns from './components/patterns/SalesPatterns';
 import MarketingPatterns from './components/patterns/MarketingPatterns';
+import CompetitorChat from './components/dashboard/CompetitorChat';
+import KnowledgeGraphVisualization from './components/knowledge-graph/KnowledgeGraphVisualization';
 
 function App() {
   const [company, setCompany] = useState<Company | null>(null);
@@ -83,6 +85,10 @@ function App() {
         return <HomeDashboard businessType={businessType} company={company} onSectionChange={setActiveSection} />;
       case 'competitors':
         return <CompetitorsSection company={company} />;
+      case 'competitor-chat':
+        return <CompetitorChat />;
+      case 'knowledge-graph':
+        return <KnowledgeGraphVisualization />;
       case 'company-tracker':
         return <CompanyTracker />;
       case 'decision-assistant':

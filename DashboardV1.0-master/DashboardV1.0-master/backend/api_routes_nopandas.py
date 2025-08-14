@@ -1,5 +1,9 @@
 """
-API Routes Module for Pattern Analysis Backend - Pandas Free Version
+API # Add the backend d        # Initialize GraphRAG using the wrapper class
+        google_api_key = os.getenv('GOOGLE_API_KEY', 'AIzaSyA1CTxhgunnghEmp-0YQiqy1Hdz615ymV0')
+        self.graph_rag_analyzer = GraphRAGWrapper(google_api_key)tory to Python path for graphrag_wrapper
+sys.path.append(os.path.dirname(__file__))
+from graphrag_wrapper import GraphRAGWrappertes Module for Pattern Analysis Backend - Pandas Free Version
 """
 from flask import request, jsonify
 from datetime import datetime
@@ -7,12 +11,12 @@ import logging
 import os
 import sys
 
-# Add the graphRAG directory to Python path
-sys.path.append(os.path.join(os.path.dirname(__file__), "..", "graphRAG"))
-from graphrag_from_json import GraphRAGFromJSON
+# Add the backend directory to Python path for working_graphrag
+sys.path.append(os.path.dirname(__file__))
+from working_graphrag import WorkingGraphRAG
 
 # Import MURAG for competitor intelligence
-from MURAG import PDFCopilot
+from MURAG_simple import PDFCopilot
 
 from config import UPLOAD_FOLDER
 
@@ -24,18 +28,18 @@ class APIRoutes:
     def __init__(self, app):
         self.app = app
         
-        # Initialize GraphRAG using the new class
-        google_api_key = os.getenv('GOOGLE_API_KEY', 'AIzaSyASgbjsK530ZrtX7wqVTPY1Lblcg2YBzQ8')
+        # Initialize GraphRAG using the new working class
+        google_api_key = os.getenv('GOOGLE_API_KEY', 'AIzaSyA1CTxhgunnghEmp-0YQiqy1Hdz615ymV0')
         json_path = os.path.join(os.path.dirname(__file__), "..", "graphRAG", "case_studies_graph.json")
-        self.graph_rag_analyzer = GraphRAGFromJSON(json_path, google_api_key)
+        self.graph_rag_analyzer = WorkingGraphRAG(json_path, google_api_key)
         
-        # Initialize MURAG for competitor intelligence
-        together_api_key = os.getenv('TOGETHER_API_KEY', '')
-        if together_api_key:
-            self.murag_copilot = PDFCopilot(together_api_key)
-        else:
+        # Initialize MURAG for competitor intelligence (now uses Google Gemini)
+        try:
+            self.murag_copilot = PDFCopilot()
+            logger.info("MURAG competitor intelligence initialized successfully")
+        except Exception as e:
             self.murag_copilot = None
-            logger.warning("TOGETHER_API_KEY not set - competitor intelligence disabled")
+            logger.warning(f"MURAG initialization failed: {e}")
         
         # Register routes
         self.register_routes()
@@ -48,13 +52,25 @@ class APIRoutes:
     
     def health_check(self):
         """Health check endpoint"""
+        murag_status = 'disabled'
+        murag_details = {}
+        
+        if self.murag_copilot:
+            try:
+                murag_details = self.murag_copilot.get_status()
+                murag_status = 'available' if murag_details.get('ai_enabled', False) else 'limited'
+            except Exception as e:
+                murag_status = 'error'
+                murag_details = {'error': str(e)}
+        
         return jsonify({
             'status': 'healthy',
             'timestamp': datetime.now().isoformat(),
             'services': {
                 'graph_rag_analyzer': 'available',
-                'competitor_intelligence': 'available' if self.murag_copilot else 'disabled'
-            }
+                'competitor_intelligence': murag_status
+            },
+            'murag_details': murag_details
         })
     
     def upload_data(self):
@@ -140,7 +156,7 @@ class APIRoutes:
             
             logger.info(f"🚀 Starting GraphRAG analysis with query: {query}")
             
-            # Run analysis using GraphRAG from JSON
+            # Run analysis using GraphRAGWrapper
             result = self.graph_rag_analyzer.answer_question(
                 query=query,
                 hops=config.get('hops', 1),
@@ -148,50 +164,59 @@ class APIRoutes:
                 max_nodes=config.get('max_nodes', 1500)
             )
             
+            # Safely extract metadata
+            metadata = result.get('metadata', {})
+            logger.info(f"📊 GraphRAG metadata: {metadata}")
+            
+            # Convert metadata to frontend format (camelCase)
+            formatted_metadata = {
+                'retrievedDocs': metadata.get('retrieved_docs', len(result.get('docs', []))),
+                'seedCount': metadata.get('seed_count', len([d for d in result.get('docs', []) if d.metadata.get('kind') == 'node'])),
+                'subgraphNodes': metadata.get('subgraph_nodes', len(result.get('sub_nodes', []))),
+                'subgraphEdges': metadata.get('subgraph_edges', len(result.get('sub_edges', []))),
+                'query': query,
+                'approach': 'graphrag_wrapper',
+                'hops': config.get('hops', 1),
+                'k': config.get('k', 12)
+            }
+            
             # Format response for frontend compatibility
             response = {
                 'success': True,
-                'patterns': result['answer'],
-                'analysisMetadata': {
-                    'retrievedDocs': result['metadata']['retrieved_docs'],
-                    'seedCount': result['metadata']['seed_count'],
-                    'subgraphNodes': result['metadata']['subgraph_nodes'],
-                    'subgraphEdges': result['metadata']['subgraph_edges'],
-                    'query': query,
-                    'approach': 'graphrag_from_json'
-                },
+                'patterns': result.get('answer', ''),
+                'analysisMetadata': formatted_metadata,
                 'subgraph': {
                     'nodes': [
                         {
-                            'id': self.graph_rag_analyzer._n_id(n),
-                            'type': ', '.join(self.graph_rag_analyzer._labels(n)),
-                            'title': self.graph_rag_analyzer._title(n),
-                            'data': self.graph_rag_analyzer._n_data(n)
-                        } for n in result['sub_nodes'][:50]  # Limit for response size
+                            'id': getattr(n, 'id', ''),
+                            'type': ', '.join(n.data.get('labels', [])) if isinstance(n.data.get('labels', []), list) else n.data.get('labels', ''),
+                            'title': n.data.get('title', n.data.get('name', getattr(n, 'id', ''))),
+                            'data': n.data
+                        } for n in result.get('sub_nodes', [])[:50]  # Limit for response size
                     ],
                     'edges': [
                         {
-                            'source': self.graph_rag_analyzer._src(e),
-                            'target': self.graph_rag_analyzer._tgt(e),
-                            'type': self.graph_rag_analyzer._e_data(e).get('type', '')
-                        } for e in result['sub_edges'][:100]  # Limit for response size
+                            'source': e.source,
+                            'target': e.target,
+                            'type': e.data.get('type', '')
+                        } for e in result.get('sub_edges', [])[:100]  # Limit for response size
                     ]
                 }
             }
             
-            logger.info(f"✓ Notebook GraphRAG analysis completed successfully")
+            logger.info(f"✓ GraphRAG Wrapper analysis completed successfully")
             
             return jsonify(response)
             
         except Exception as e:
-            logger.error(f"❌ Notebook GraphRAG analysis error: {str(e)}")
+            logger.error(f"❌ GraphRAG Wrapper analysis error: {str(e)}")
             return jsonify({
                 'success': False,
                 'error': str(e),
                 'patterns': '',
                 'analysisMetadata': {
                     'error': str(e),
-                    'approach': 'notebook_graphrag'
+                    'approach': 'graphrag_wrapper'
                 }
             }), 500
     
@@ -212,20 +237,22 @@ class APIRoutes:
             if not self.murag_copilot:
                 return jsonify({
                     'success': False, 
-                    'error': 'Competitor intelligence service not available. Please set TOGETHER_API_KEY.'
+                    'error': 'Competitor intelligence service not available. Please ensure GOOGLE_API_KEY is configured.'
                 }), 503
             
             logger.info(f"🔍 Starting competitor intelligence analysis with query: {query}")
             
             # Get response from MURAG
-            response_text = self.murag_copilot.ask(query)
+            murag_response = self.murag_copilot.query(query)
             
             # Format response for frontend
             response = {
-                'success': True,
-                'answer': response_text,
+                'success': murag_response.get('success', True),
+                'answer': murag_response.get('response', 'No response generated'),
                 'timestamp': datetime.now().isoformat(),
-                'query': query
+                'query': query,
+                'documents_count': murag_response.get('documents_count', 0),
+                'companies_analyzed': murag_response.get('companies_analyzed', [])
             }
             
             logger.info(f"✅ Competitor intelligence analysis completed")

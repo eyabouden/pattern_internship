@@ -27,7 +27,7 @@ const Sidebar: React.FC<SidebarProps> = ({
       <div className="p-6">
         <div className="flex items-center">
           <Zap className="h-8 w-8 text-[#FAC141] mr-2" />
-          <h1 className="text-xl font-bold">PatternAI</h1>
+          <h1 className="text-xl font-bold">IATA</h1>
         </div>
       </div>
 

@@ -21,7 +21,7 @@ const Header: React.FC<HeaderProps> = ({
     if (businessType === 'sales') return 'Sales Analytics';
     if (businessType === 'marketing') return 'Marketing Intelligence';
     if (businessType === 'both') return 'Business Intelligence';
-    return 'PatternAI';
+    return 'IATA';
   };
 
   return (
