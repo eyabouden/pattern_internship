@@ -9,6 +9,13 @@ from pattern_miner import GPGrowthPatternMiner, PatternRefiner
 from data_processor import DataProcessor
 from config import DEFAULT_MIN_SUPPORT, DEFAULT_MIN_CONFIDENCE, DEFAULT_MAX_PATTERNS, COLUMN_MAPPINGS
 
+# Try to import advanced analyzer
+try:
+    from advanced_pattern_analyzer import AdvancedPatternAnalyzer
+    ADVANCED_ANALYZER_AVAILABLE = True
+except ImportError:
+    ADVANCED_ANALYZER_AVAILABLE = False
+
 logger = logging.getLogger(__name__)
 
 class PatternAnalyzer:
@@ -22,12 +29,48 @@ class PatternAnalyzer:
         )
         self.refiner = PatternRefiner()
         self.data_processor = DataProcessor()
+        
+        # Initialize advanced analyzer if available
+        if ADVANCED_ANALYZER_AVAILABLE:
+            # Use the user's Gemini API key for advanced analysis
+            gemini_api_key = "AIzaSyB-qjZtan_tQ899yRMqc-QxRFAHYmLtw_I"
+            self.advanced_analyzer = AdvancedPatternAnalyzer(gemini_api_key=gemini_api_key)
+            logger.info("✓ Advanced pattern analyzer initialized with Gemini AI")
+        else:
+            self.advanced_analyzer = None
+            logger.info("⚠️ Advanced pattern analyzer not available - using standard analysis")
     
     def analyze_patterns(self, data_sources, config=None):
         """Main pattern analysis function"""
         if config is None:
             config = self.config
         
+        # Use advanced analyzer if available and data sources are sufficient
+        if self.advanced_analyzer and self._should_use_advanced_analysis(data_sources):
+            logger.info("🔍 Using advanced pattern detection...")
+            return self.advanced_analyzer.analyze_patterns(data_sources, config)
+        
+        # Fall back to standard analysis
+        logger.info("🔍 Using standard pattern detection...")
+        return self._standard_analysis(data_sources, config)
+    
+    def _should_use_advanced_analysis(self, data_sources):
+        """Determine if advanced analysis should be used"""
+        if not data_sources:
+            return False
+        
+        # Check if we have enough data sources for advanced analysis
+        data_types = [source.get('type', '') for source in data_sources]
+        required_types = ['projects', 'hr', 'assignments']
+        
+        # Count how many required types we have
+        available_types = sum(1 for req_type in required_types if req_type in data_types)
+        
+        # Use advanced analysis if we have at least 2 required data types
+        return available_types >= 2
+    
+    def _standard_analysis(self, data_sources, config):
+        """Standard pattern analysis using GPGrowth"""
         all_patterns = []
         analysis_metadata = {
             'total_records': 0,
@@ -110,7 +153,7 @@ class PatternAnalyzer:
             }
             
         except Exception as e:
-            logger.error(f"Error in pattern analysis: {e}")
+            logger.error(f"Error in standard pattern analysis: {e}")
             raise
     
     def _calculate_statistics(self, patterns):

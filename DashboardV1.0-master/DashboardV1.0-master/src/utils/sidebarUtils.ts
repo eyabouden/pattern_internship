@@ -6,7 +6,8 @@ import {
   Upload, 
   Target,
   DollarSign,
-  Award
+  Award,
+  MessageCircle
 } from 'lucide-react';
 import { BusinessType, SidebarSection } from '../types';
 
@@ -36,6 +37,7 @@ export const getSidebarSections = (businessType: BusinessType): SidebarSection[]
 
   baseSections.push(
     { id: 'company-tracker', name: 'Company Tracker', icon: Upload },
+    { id: 'competitor-chat', name: 'Competitor Intelligence', icon: MessageCircle },
     { id: 'decision-assistant', name: 'Decision Assistant', icon: MessageSquare }
   );
 
